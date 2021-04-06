@@ -1,0 +1,246 @@
+beer_id,beer_name,brewery_name,beer_style,abv,score,avg_score,ratings,availability,brew_state,brew_city,lat,lng
+0,Kentucky Brunch Brand Stout, Toppling Goliath Brewing Company , American Imperial Stout,12.0,100,4,808,Rotating, IA , Decorah,43.3033056,-91.7857092
+1,Marshmallow Handjee,3 Floyds Brewing Co., Russian Imperial Stout,15.0,100,4,1713,Spring, IN , Munster,41.564479799999994,-87.5125412
+2,Hunahpu's Imperial Stout - Double Barrel Aged, Cigar City Brewing , American Imperial Stout,11.0,100,4,1627,Rotating, FL , Tampa,27.947759499999997,-82.458444
+3,Barrel-Aged Abraxas, Perennial Artisan Ales , American Imperial Stout,11.0,100,4,1551,Rotating, MO , Saint Louis,38.6268039,-90.1994097
+4,Heady Topper, The Alchemist , New England IPA,8.0,100,4,14697,Year-round, VT , Stowe,44.465374100000005,-72.6860186
+5,Mornin' Delight, Toppling Goliath Brewing Company , American Imperial Stout,12.8,100,4,1606,Rotating, IA , Decorah,43.3033056,-91.7857092
+6,Pliny The Younger, Russian River Brewing Company , American Imperial IPA,10.25,100,4,3376,Winter, CA , Santa Rosa,49.2633419,-123.1024943
+7,King Julius, Tree House Brewing Company , New England IPA,8.3,100,4,1196,Rotating, MA , Charlton,42.1348444,-71.9643153
+8,King JJJuliusss, Tree House Brewing Company , New England IPA,8.4,100,4,616,Rotating, MA , Charlton,42.1348444,-71.9643153
+9,Very Hazy, Tree House Brewing Company , New England IPA,8.6,100,4,992,Rotating, MA , Charlton,42.1348444,-71.9643153
+10,SR-71, Toppling Goliath Brewing Company , American Imperial Stout,14.0,100,4,519,Rotating, IA , Decorah,43.3033056,-91.7857092
+11,Fundamental Observation, Bottle Logic Brewing , American Imperial Stout,14.3,100,4,1410,Rotating, CA , Anaheim,33.8347516,-117.911732
+12,CBS (Canadian Breakfast Stout), Founders Brewing Company , American Imperial Stout,11.3,100,4,6463,Rotating, MI , Grand Rapids,42.963240500000005,-85.66786390000001
+13,Pliny The Elder, Russian River Brewing Company , American Imperial IPA,8.0,100,4,15291,Year-round, CA , Santa Rosa,38.4404925,-122.71410490000001
+14,Juice Machine, Tree House Brewing Company , New England IPA,8.2,100,4,1047,Rotating, MA , Charlton,42.1348444,-71.9643153
+15,Fou' Foune, Brasserie Cantillon , Belgian Fruit Lambic,5.5,100,4,3146,Rotating, Belgium , Brussels,50.8436709,4.3674367
+16,Assassin, Toppling Goliath Brewing Company , American Imperial Stout,12.0,100,4,1403,Rotating, IA , Decorah,43.3033056,-91.7857092
+17,Very Green, Tree House Brewing Company , New England IPA,8.6,100,4,1371,Rotating, MA , Charlton,42.1348444,-71.9643153
+18,Julius, Tree House Brewing Company , New England IPA,6.8,100,4,4797,Rotating, MA , Charlton,42.1348444,-71.9643153
+19,Zenne Y Frontera,Brouwerij 3 Fonteinen, Belgian Lambic,7.0,100,4,317,Rotating, Belgium , Beersel,50.768372799999995,4.305109799999999
+20,Double Sunshine, Lawson's Finest Liquids , American Imperial IPA,8.0,100,4,2531,Rotating, VT , Waitsfield,44.192132,-72.82270759999999
+21,Abner, Hill Farmstead Brewery , New England IPA,8.2,100,4,2797,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+22,Bourbon County Brand Stout, Goose Island Beer Co. , American Imperial Stout,14.7,100,4,13068,Winter, IL , Chicago,41.875561600000005,-87.6244212
+23,Trappist Westvleteren 12 (XII), Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren) , Belgian Quadrupel (Quad),10.2,100,4,6719,Year-round, Belgium , Westvleteren,50.910382299999995,2.7205508999999997
+24,Barrel Aged Imperial German Chocolate Cupcake Stout, Angry Chair Brewing , American Imperial Stout,11.0,100,4,290,Rotating, FL , Tampa,27.947759499999997,-82.458444
+25,Dinner, Maine Beer Company , American Imperial IPA,8.2,100,4,2574,Rotating, ME , Freeport,43.857307,-70.10376
+26,KBS (Kentucky Breakfast Stout), Founders Brewing Company , American Imperial Stout,12.3,100,4,13811,Spring, MI , Grand Rapids,42.963240500000005,-85.66786390000001
+27,Parabola, Firestone Walker Brewing Co. , Russian Imperial Stout,13.0,100,4,7038,Rotating, CA , Paso Robles,35.6267654,-120.6912456
+28,JJJuliusss, Tree House Brewing Company , New England IPA,6.8,100,4,800,Rotating, MA , Charlton,42.1348444,-71.9643153
+29,Duck Duck Gooze, The Lost Abbey , Belgian Gueuze,7.0,100,4,1931,Rotating, CA , San Marcos,33.1433723,-117.1661449
+30,Speedway Stout - Vietnamese Coffee - Bourbon-Barrel Aged, AleSmith Brewing Company , American Imperial Stout,12.0,100,4,948,Rotating, CA , San Diego,32.7174209,-117.16277140000001
+31,Morning Wood, Funky Buddha Brewery , American Imperial Porter,12.0,100,4,1201,Rotating, FL , Oakland Park,26.1801443,-80.1372006
+32,Lou Pepe - Kriek, Brasserie Cantillon , Belgian Fruit Lambic,5.0,100,4,1827,Rotating, Belgium , Brussels,50.8436709,4.3674367
+33,Zombie Dust,3 Floyds Brewing Co., American Pale Ale (APA),6.2,100,4,10791,Year-round, IN , Munster,41.564479799999994,-87.5125412
+34,Bourbon County Brand Vanilla Stout, Goose Island Beer Co. , American Imperial Stout,14.9,100,4,1932,Rotating, IL , Chicago,41.875561600000005,-87.6244212
+35,Fuzzy, Side Project Brewing , American Wild Ale,8.0,100,4,955,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+36,Westly, Sante Adairius Rustic Ales , American Wild Ale,8.5,100,4,389,Rotating, CA , Capitola,36.9762927,-121.9540577
+37,Ann, Hill Farmstead Brewery , Belgian Saison,6.5,100,4,418,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+38,Doubleganger, Tree House Brewing Company , New England IPA,8.2,100,4,1062,Rotating, MA , Charlton,42.1348444,-71.9643153
+39,Hunahpu's Imperial Stout, Cigar City Brewing , American Imperial Stout,10.2,100,4,4387,Spring, FL , Tampa,27.947759499999997,-82.458444
+40,King Sue, Toppling Goliath Brewing Company , New England IPA,7.8,100,4,2933,Rotating, IA , Decorah,43.3033056,-91.7857092
+41,Double Citra®, Hill Farmstead Brewery , New England IPA,8.0,100,4,2038,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+42,Atrial Rubicite, Jester King Brewery , American Wild Ale,5.8,100,4,1939,Rotating, TX , Austin,30.2711286,-97.7436995
+43,Headroom, Trillium Brewing Company , New England IPA,8.0,100,4,739,Rotating, MA , Boston,42.3602534,-71.0582912
+44,Double Galaxy, Hill Farmstead Brewery , New England IPA,8.0,100,4,1625,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+45,Very GGGreennn, Tree House Brewing Company , New England IPA,8.3,100,4,155,Rotating, MA , Charlton,42.1348444,-71.9643153
+46,Framboise Du Fermier, Side Project Brewing , Belgian Saison,8.0,100,4,256,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+47,Cable Car, The Lost Abbey , American Wild Ale,7.0,100,4,1102,Rotating, CA , San Marcos,33.1433723,-117.1661449
+48,Supplication, Russian River Brewing Company , American Wild Ale,7.75,100,4,6628,Rotating, CA , Santa Rosa,49.2633419,-123.1024943
+49,Citra, Kern River Brewing Company , American Imperial IPA,8.0,100,4,1830,Rotating, CA , Kernville,35.733073499999996,-118.4339459
+50,Double Dry Hopped Congress Street, Trillium Brewing Company , New England IPA,7.2,100,4,1595,Rotating, MA , Boston,42.3602534,-71.0582912
+51,Focal Banger, The Alchemist , New England IPA,7.0,100,4,4119,Year-round, VT , Stowe,44.465374100000005,-72.6860186
+52,Green, Tree House Brewing Company , New England IPA,7.6,100,4,3259,Rotating, MA , Charlton,42.1348444,-71.9643153
+53,Lou Pepe - Framboise, Brasserie Cantillon , Belgian Fruit Lambic,5.5,100,4,1410,Rotating, Belgium , Brussels,50.8436709,4.3674367
+54,Aaron, Hill Farmstead Brewery , English Barleywine,9.0,100,4,645,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+55,Oude Geuze Vintage,Brouwerij 3 Fonteinen, Belgian Gueuze,6.0,99,4,835,Rotating, Belgium , Beersel,50.768372799999995,4.305109799999999
+56,Chemtrailmix,3 Floyds Brewing Co., Russian Imperial Stout,15.0,100,4,189,Spring, IN , Munster,41.564479799999994,-87.5125412
+57,Sip Of Sunshine, Lawson's Finest Liquids , American Imperial IPA,8.0,100,4,5844,Year-round, VT , Waitsfield,44.192132,-72.82270759999999
+58,Swish, Bissell Brothers Brewing Co. , New England IPA,8.0,100,4,1610,Rotating, ME , Portland,29.0654892,-110.9717051
+59,Black Tuesday, The Bruery , American Imperial Stout,19.5,100,4,4117,Fall, CA , Placentia,47.24350870000001,-53.9635466
+60,Maman, Perennial Artisan Ales , American Imperial Stout,11.5,100,4,379,Rotating, MO , Saint Louis,38.6268039,-90.1994097
+61,BBADL (Bourbon Barrel Aged Dark Lord Imperial Stout),3 Floyds Brewing Co., Russian Imperial Stout,15.0,100,4,941,Rotating, IN , Munster,41.564479799999994,-87.5125412
+62,Society & Solitude #4, Hill Farmstead Brewery , New England IPA,8.0,100,4,1383,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+63,Chocolate Rain, The Bruery , American Imperial Stout,19.6,100,4,2831,Rotating, CA , Placentia,47.24350870000001,-53.9635466
+64,Beatification, Russian River Brewing Company , American Wild Ale,6.0,100,4,2823,Rotating, CA , Santa Rosa,49.2633419,-123.1024943
+65,Anabasis, Side Project Brewing , American Barleywine,14.0,100,4,168,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+66,Nectarine Premiere, de Garde Brewing , Belgian Saison,7.1,100,4,353,Rotating, OR , Tillamook,45.460293,-123.7266793
+67,Fourth Dementia - Bourbon Barrel-Aged, Kuhnhenn Brewing Company , English Old Ale,13.5,100,4,2002,Rotating, MI , Warren,42.4932575,-83.0062746
+68,Doppelganger, Tree House Brewing Company , New England IPA,8.2,100,4,1989,Rotating, MA , Charlton,42.1348444,-71.9643153
+69,Ephraim, Hill Farmstead Brewery , New England IPA,10.0,100,4,1104,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+70,Double Dry Hopped Fort Point Pale Ale, Trillium Brewing Company , American Pale Ale (APA),6.6,100,4,1700,Rotating, MA , Boston,42.3602534,-71.0582912
+71,Haze, Tree House Brewing Company , New England IPA,8.2,100,4,3005,Rotating, MA , Charlton,42.1348444,-71.9643153
+72,It Was All A Dream, J. Wakefield Brewing , American Imperial Stout,17.0,100,4,146,Rotating, FL , Miami,25.7742658,-80.1936589
+73,Grande Negro Voodoo Papi - Bourbon Barrel-Aged, Voodoo Brewery , American Imperial Stout,12.5,100,4,399,Rotating, PA , Meadville,41.641445000000004,-80.151449
+74,Triple Sunshine, Lawson's Finest Liquids , American Imperial IPA,10.5,100,4,1011,Rotating, VT , Waitsfield,44.192132,-72.82270759999999
+75,Triple Shot, Tree House Brewing Company , American Imperial Stout,9.0,100,4,549,Rotating, MA , Charlton,42.1348444,-71.9643153
+76,Black Note Stout, Bell's Brewery - Eccentric Café & General Store , American Imperial Stout,11.2,100,4,4920,Rotating, MI , Kalamazoo,42.291707,-85.5872286
+77,V.S.O.J., Revolution Brewing , English Barleywine,14.0,100,4,213,Rotating, IL , Chicago,41.875561600000005,-87.6244212
+78,Keene Idea, Alpine Beer Company , American Imperial IPA,8.88,100,4,494,Rotating, CA , Alpine,54.6610806,-102.0793157
+79,Saint Lamvinus, Brasserie Cantillon , Belgian Fruit Lambic,7.0,100,4,2239,Rotating, Belgium , Brussels,50.8436709,4.3674367
+80,The Broken Truck, de Garde Brewing , American Wild Ale,5.0,100,4,330,Rotating, OR , Tillamook,45.460293,-123.7266793
+81,Galaxy Dry Hopped Fort Point Pale Ale, Trillium Brewing Company , American Pale Ale (APA),6.6,100,4,1751,Rotating, MA , Boston,42.3602534,-71.0582912
+82,Beer Geek Vanilla Shake - Bourbon Barrel-Aged, Mikkeller ApS , American Imperial Stout,13.0,100,4,544,Rotating, Denmark , København,55.6867243,12.5700724
+83,Abricot Du Fermier, Side Project Brewing , Belgian Saison,8.0,100,4,374,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+84,Bourbon Paradise, Prairie Artisan Ales , American Imperial Stout,13.7,100,4,627,Rotating, OK , Tulsa,36.1556805,-95.9929113
+85,Flora Plum, Hill Farmstead Brewery , Belgian Saison,5.0,100,4,352,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+86,Saison Du Fermier, Side Project Brewing , Belgian Saison,7.0,100,4,832,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+87,West Ashley, Sante Adairius Rustic Ales , American Wild Ale,7.3,100,4,1150,Rotating, CA , Capitola,36.9762927,-121.9540577
+88,Breakfast Stout, Founders Brewing Company , English Oatmeal Stout,8.3,100,4,17575,Year-round, MI , Grand Rapids,42.963240500000005,-85.66786390000001
+89,A Deal With The Devil, Anchorage Brewing Company , American Barleywine,17.3,100,4,1105,Rotating, AK , Anchorage,61.2163129,-149.8948523
+90,Trappistes Rochefort 10, Brasserie de Rochefort , Belgian Quadrupel (Quad),11.3,100,4,9709,Year-round, Belgium , Rochefort,50.1588503,5.2233447
+91,Coffee Cinnamon B-Bomb, Fremont Brewing Company , American Strong Ale,13.0,100,4,1039,Rotating, WA , Seattle,47.6038321,-122.3300624
+92,Beyond Good And Evil, Hill Farmstead Brewery , American Imperial Stout,10.0,100,4,721,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+93,§ucaba, Firestone Walker Brewing Co. , English Barleywine,12.5,100,4,5431,Rotating, CA , Paso Robles,35.6267654,-120.6912456
+94,Ghost In The Machine - Double Dry-Hopped, Parish Brewing Company , New England IPA,8.0,100,4,282,Rotating, LA , Broussard,30.1471506,-91.9612413
+95,Bourbon Barrel Aged Plead The 5th, Dark Horse Brewing Company , Russian Imperial Stout,12.0,100,4,3319,Fall, MI , Marshall,42.272136700000004,-84.96420079999999
+96,Last Buffalo In The Park, Funky Buddha Brewery , American Imperial Porter,11.5,100,4,876,Rotating, FL , Oakland Park,26.1801443,-80.1372006
+97,Notorious Triple IPA, Boneyard Beer Company , American Imperial IPA,12.0,100,4,865,Rotating, OR , Bend,44.058172799999994,-121.31530959999999
+98,Alter Ego, Tree House Brewing Company , New England IPA,6.8,100,4,2506,Rotating, MA , Charlton,42.1348444,-71.9643153
+99,Sunday Brunch, Kane Brewing Company , American Imperial Porter,9.2,100,4,807,Rotating, NJ , Ocean,39.977818,-74.3319287
+100,Black Gold, Central Waters Brewing Co. , American Imperial Stout,11.0,100,4,806,Rotating, WI , Amherst,44.450677500000005,-89.28459050000001
+101,Pseudo Sue - Double Dry-Hopped, Toppling Goliath Brewing Company , American Pale Ale (APA),6.8,100,4,1174,Rotating, IA , Decorah,43.3033056,-91.7857092
+102,Miami Madness, J. Wakefield Brewing , Berliner Weisse,5.5,100,4,445,Rotating, FL , Miami,25.7742658,-80.1936589
+103,Society & Solitude #5, Hill Farmstead Brewery , New England IPA,8.1,100,4,1603,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+104,The Rusty Nail, Fremont Brewing Company , English Oatmeal Stout,14.5,100,4,648,Rotating, WA , Seattle,47.6038321,-122.3300624
+105,Pirate Paradise, Prairie Artisan Ales , American Imperial Stout,13.0,100,4,308,Rotating, OK , Tulsa,36.1556805,-95.9929113
+106,Cutting Tiles (Mosaic), Trillium Brewing Company , New England IPA,8.5,100,4,1347,Rotating, MA , Boston,42.3602534,-71.0582912
+107,Blåbær Lambik, Brasserie Cantillon , Belgian Fruit Lambic,5.0,99,4,849,Rotating, Belgium , Brussels,50.8436709,4.3674367
+108,Samuel Adams Utopias, Boston Beer Company (Samuel Adams) , American Strong Ale,28.0,100,4,2727,Rotating, MA , Jamaica Plain,42.3098201,-71.12032990000002
+109,Pirate Bomb!, Prairie Artisan Ales , American Imperial Stout,15.0,100,4,2411,Rotating, OK , Tulsa,36.1556805,-95.9929113
+110,Speedway Stout - Bourbon Barrel-Aged, AleSmith Brewing Company , American Imperial Stout,12.0,100,4,2272,Rotating, CA , San Diego,32.7174209,-117.16277140000001
+111,Double Shot, Tree House Brewing Company , American Stout,7.6,100,4,1154,Rotating, MA , Charlton,42.1348444,-71.9643153
+112,Mexican Brunch, Kane Brewing Company , American Imperial Porter,9.2,100,4,572,Rotating, NJ , Ocean,39.977818,-74.3319287
+113,Great, Alpine Beer Company , American Barleywine,14.0,100,4,738,Rotating, CA , Alpine,54.6610806,-102.0793157
+114,Grey Monday, The Bruery , American Imperial Stout,19.9,100,4,1888,Summer, CA , Placentia,33.8714814,-117.8617337
+115,Pugachev Royale,Hangar 24 Brewing, Russian Imperial Stout,14.8,99,4,322,Rotating, CA , Redlands,34.055735,-117.1888961
+116,Bomb!, Prairie Artisan Ales , American Imperial Stout,13.0,100,4,6476,Rotating, OK , Tulsa,36.1556805,-95.9929113
+117,The Peach, de Garde Brewing , American Wild Ale,7.3,100,4,280,Fall, OR , Tillamook,45.460293,-123.7266793
+118,Wide Awake It's Morning, Funky Buddha Brewery , American Imperial Porter,10.0,100,4,981,Rotating, FL , Oakland Park,26.1801443,-80.1372006
+119,Consecration, Russian River Brewing Company , American Wild Ale,10.0,100,4,5540,Rotating, CA , Santa Rosa,49.2633419,-123.1024943
+120,Pseudo Sue, Toppling Goliath Brewing Company , American Pale Ale (APA),5.8,100,4,5395,Year-round, IA , Decorah,43.3033056,-91.7857092
+121,Black Tuesday - Reserve, The Bruery , American Imperial Stout,20.5,100,4,276,Rotating, CA , Placentia,47.24350870000001,-53.9635466
+122,Parabajava, Firestone Walker Brewing Co. , Russian Imperial Stout,14.0,100,4,897,Rotating, CA , Paso Robles,35.6267654,-120.6912456
+123,Framboos,Brouwerij 3 Fonteinen, Belgian Fruit Lambic,5.0,99,4,793,Rotating, Belgium , Beersel,50.768372799999995,4.305109799999999
+124,Double Dry Hopped Double Mosaic Dream, Other Half Brewing Company - Brooklyn , New England IPA,8.5,100,4,569,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+125,Hommage,Brouwerij 3 Fonteinen, Belgian Fruit Lambic,6.0,99,4,1070,Rotating, Belgium , Beersel,50.768372799999995,4.305109799999999
+126,In Perpetuity, Tree House Brewing Company , New England IPA,6.7,100,4,1064,Rotating, MA , Charlton,42.1348444,-71.9643153
+127,Gggreennn!, Tree House Brewing Company , New England IPA,7.5,100,4,368,Rotating, MA , Charlton,42.1348444,-71.9643153
+128,Scaled Way Up, Trillium Brewing Company , New England IPA,8.0,100,4,532,Rotating, MA , Boston,42.3602534,-71.0582912
+129,Imperial Biscotti Break - Bourbon Barrel-Aged, Evil Twin Brewing , American Imperial Stout,11.5,100,4,1668,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+130,Abrasive Ale, Surly Brewing Company , American Imperial IPA,9.2,100,4,4713,Rotating, MN , Brooklyn Center,45.07485429999999,-93.3296296
+131,Permanent Funeral,3 Floyds Brewing Co., American Imperial IPA,10.5,100,4,3024,Year-round, IN , Munster,41.564479799999994,-87.5125412
+132,Moment Of Clarity, Tree House Brewing Company , English Sweet / Milk Stout,7.7,100,4,454,Rotating, MA , Charlton,42.1348444,-71.9643153
+133,4th Anniversary, Other Half Brewing Company - Brooklyn , New England IPA,10.0,100,4,227,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+134,Susan, Hill Farmstead Brewery , New England IPA,6.2,100,4,2026,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+135,3rd Anniversary Imperial IPA, Other Half Brewing Company - Brooklyn , New England IPA,10.0,100,4,317,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+136,Kaggen! Stormaktsporter, Närke Kulturbryggeri AB , Russian Imperial Stout,10.0,99,4,201,Rotating, Sweden , Örebro,59.274728700000004,15.215118099999998
+137,Montmorency Vs Balaton, Jester King Brewery , American Wild Ale,6.1,100,4,900,Rotating, TX , Austin,30.2711286,-97.7436995
+138,Mocha Wednesday, The Bruery , American Imperial Stout,19.9,100,4,1467,Rotating, CA , Placentia,47.24350870000001,-53.9635466
+139,Darkness, Surly Brewing Company , Russian Imperial Stout,12.0,100,4,4123,Fall, MN , Brooklyn Center,45.07485429999999,-93.3296296
+140,No Rules, Perrin Brewing Co. , American Imperial Porter,15.0,100,4,1379,Rotating, MI , Comstock Park,43.034287400000004,-85.6655303
+141,Double Stack, Great Notion Brewing , American Imperial Stout,11.0,100,4,616,Rotating, OR , Portland,45.5202471,-122.6741949
+142,Double Dry Hopped Mylar Bags, Other Half Brewing Company - Brooklyn , New England IPA,8.5,100,4,477,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+143,Everett Porter, Hill Farmstead Brewery , American Porter,7.5,100,4,2804,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+144,Lou Pepe - Gueuze, Brasserie Cantillon , Belgian Gueuze,5.0,98,4,1242,Rotating, Belgium , Brussels,50.8436709,4.3674367
+145,Heavy Mettle, Trillium Brewing Company , New England IPA,9.3,100,4,1192,Rotating, MA , Boston,42.3602534,-71.0582912
+146,Congress Street IPA, Trillium Brewing Company , New England IPA,7.2,100,4,2391,Rotating, MA , Boston,42.3602534,-71.0582912
+147,A Deal With The Devil - Double Oak-Aged, Anchorage Brewing Company , American Barleywine,17.0,99,4,103,Rotating, AK , Anchorage,61.2163129,-149.8948523
+148,Speedway Stout - Vietnamese Coffee, AleSmith Brewing Company , American Imperial Stout,12.0,100,4,1973,Rotating, CA , San Diego,32.7174209,-117.16277140000001
+149,Abt 12, Brouwerij St. Bernardus NV , Belgian Quadrupel (Quad),10.0,99,4,10032,Year-round, Belgium , Watou,50.8451864,2.6449117
+150,Upper Case, Trillium Brewing Company , New England IPA,9.0,100,4,998,Rotating, MA , Boston,42.3602534,-71.0582912
+151,Society & Solitude #6, Hill Farmstead Brewery , New England IPA,8.1,100,4,996,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+152,The Abyss, Deschutes Brewery , American Imperial Stout,11.4,99,4,7460,Winter, OR , Bend,44.058172799999994,-121.31530959999999
+153,Hold On To Sunshine, Tree House Brewing Company , English Sweet / Milk Stout,7.6,99,4,496,Rotating, MA , Charlton,42.1348444,-71.9643153
+154,Bourbon Barrel Aged Dark Star: Coffee Edition, Fremont Brewing Company , English Oatmeal Stout,13.6,99,4,851,Fall, WA , Seattle,47.6038321,-122.3300624
+155,Double Dry Hopped Melcher Street, Trillium Brewing Company , New England IPA,7.2,100,4,1350,Rotating, MA , Boston,42.3602534,-71.0582912
+156,Damon (Bourbon Barrel Aged), Hill Farmstead Brewery , Russian Imperial Stout,10.5,99,4,823,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+157,Abraxas, Perennial Artisan Ales , American Imperial Stout,10.0,99,4,2941,Fall, MO , Saint Louis,38.6268039,-90.1994097
+158,Mosaic Dry Hopped Fort Point, Trillium Brewing Company , American Pale Ale (APA),6.6,99,4,1270,Rotating, MA , Boston,42.3602534,-71.0582912
+159,Cutting Tiles (Galaxy), Trillium Brewing Company , New England IPA,8.5,100,4,583,Rotating, MA , Boston,42.3602534,-71.0582912
+160,Oude Geuze Golden Blend,Brouwerij 3 Fonteinen, Belgian Gueuze,7.5,98,4,1152,Rotating, Belgium , Beersel,50.768372799999995,4.305109799999999
+161,Last Snow, Funky Buddha Brewery , American Porter,6.4,99,4,2120,Rotating, FL , Oakland Park,26.1801443,-80.1372006
+162,Hopslam Ale, Bell's Brewery - Eccentric Café & General Store , American Imperial IPA,10.0,99,4,13801,Winter, MI , Kalamazoo,42.291707,-85.5872286
+163,Saison Bernice, Sante Adairius Rustic Ales , Belgian Saison,6.5,99,4,1021,Rotating, CA , Capitola,36.9762927,-121.9540577
+164,Double Dry Hopped Double Mosaic Daydream, Other Half Brewing Company - Brooklyn , New England IPA,8.5,100,4,422,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+165,Genealogy Of Morals - Bourbon Barrel-Aged, Hill Farmstead Brewery , American Imperial Stout,10.7,99,4,672,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+166,Apple Brandy Barrel Noir, Prairie Artisan Ales , American Imperial Stout,12.0,99,4,1679,Rotating, OK , Tulsa,36.1556805,-95.9929113
+167,Ground State, Bottle Logic Brewing , American Imperial Stout,13.4,99,4,641,Rotating, CA , Anaheim,33.8347516,-117.911732
+168,Double Nelson, Hill Farmstead Brewery , New England IPA,8.0,100,4,403,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+169,Oude Geuze Cuvée Armand & Gaston,Brouwerij 3 Fonteinen, Belgian Gueuze,6.5,97,4,615,Rotating, Belgium , Beersel,50.768372799999995,4.305109799999999
+170,Bad Boy, Alpine Beer Company , American Imperial IPA,9.0,99,4,595,Rotating, CA , Alpine,54.6610806,-102.0793157
+171,Double Barrel Jesus, Evil Twin Brewing , American Imperial Stout,12.0,99,4,809,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+172,Stickee Monkee, Firestone Walker Brewing Co. , Belgian Quadrupel (Quad),12.5,99,4,2917,Rotating, CA , Paso Robles,35.6267654,-120.6912456
+173,La Fosse, Side Project Brewing , American Wild Ale,8.0,100,4,383,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+174,Mexican Cake - Maple Bourbon Barrel-Aged, Westbrook Brewing Co. , American Imperial Stout,10.2,99,4,159,Rotating, SC , Mount Pleasant,32.794065100000005,-79.86258509999999
+175,Impermanence, Tree House Brewing Company , English Sweet / Milk Stout,9.0,99,4,452,Rotating, MA , Charlton,42.1348444,-71.9643153
+176,DFPF, J. Wakefield Brewing , Berliner Weisse,3.5,100,4,448,Rotating, FL , Miami,25.7742658,-80.1936589
+177,Aurelian Lure, Jester King Brewery , American Wild Ale,5.4,99,4,752,Rotating, TX , Austin,30.2711286,-97.7436995
+178,Trappist Westvleteren 8 (VIII), Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren) , Belgian Dubbel,8.0,99,4,2310,Year-round, Belgium , Westvleteren,50.910382299999995,2.7205508999999997
+179,Crusher, The Alchemist , New England IPA,8.0,99,4,2278,Rotating, VT , Stowe,44.465374100000005,-72.6860186
+180,Maple Bacon Coffee Porter, Funky Buddha Brewery , American Porter,6.4,99,4,2173,Rotating, FL , Oakland Park,26.1801443,-80.1372006
+181,Fuzzy Baby Ducks, New England Brewing Co. , New England IPA,6.2,99,4,1088,Rotating, CT , Woodbridge,41.352596999999996,-73.0084385
+182,Adam From The Wood, Hair Of The Dog Brewing Company / Brewery And Tasting Room , English Old Ale,12.0,99,4,1022,Rotating, OR , Portland,45.5202471,-122.6741949
+183,Sosus, Toppling Goliath Brewing Company , New England IPA,8.0,99,4,1861,Rotating, IA , Decorah,43.3033056,-91.7857092
+184,Barrel-Aged Silhouette, Lift Bridge Brewery , Russian Imperial Stout,11.0,99,4,520,Winter, MN , Stillwater,45.0564041,-92.81349820000001
+185,BDCS, Ozark Beer Co. , American Imperial Stout,10.2,99,4,504,Rotating, AR , Rogers,-51.6404112,-69.22109040000001
+186,Art, Hill Farmstead Brewery , Belgian Saison,6.5,99,4,503,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+187,Matt, Hair Of The Dog Brewing Company / Brewery And Tasting Room , American Strong Ale,11.5,98,4,901,Rotating, OR , Portland,45.5202471,-122.6741949
+188,Imperial German Chocolate Cupcake Stout, Angry Chair Brewing , American Imperial Stout,11.5,99,4,258,Rotating, FL , Tampa,27.947759499999997,-82.458444
+189,Gueuze 100% Lambic, Brasserie Cantillon , Belgian Gueuze,5.0,98,4,3901,Year-round, Belgium , Brussels,50.8436709,4.3674367
+190,Temptation, Russian River Brewing Company , American Wild Ale,7.5,99,4,3830,Rotating, CA , Santa Rosa,49.2633419,-123.1024943
+191,Leaner, Casey Brewing & Blending , Belgian Saison,8.0,100,4,186,Winter, CO , Glenwood Springs,39.5507448,-107.3255001
+192,Barrel Aged Bomb!, Prairie Artisan Ales , American Imperial Stout,14.7,99,4,1216,Rotating, OK , Tulsa,36.1556805,-95.9929113
+193,Fundamental Forces, Bottle Logic Brewing , American Imperial Stout,16.2,99,4,183,Rotating, CA , Anaheim,33.8347516,-117.911732
+194,Leche Borracho, Bottle Logic Brewing , American Imperial Stout,11.0,99,4,443,Rotating, CA , Anaheim,33.8347516,-117.911732
+195,Clare's Thirsty Ale, Haymarket Beer Co. Pub & Brewery , American Imperial Stout,12.5,99,4,312,Rotating, IL , Chicago,41.875561600000005,-87.6244212
+196,Ten FIDY - Bourbon Barrel Aged, Oskar Blues Grill & Brew , American Imperial Stout,12.5,99,4,2158,Rotating, CO , Lyons,40.224432,-105.270532
+197,Mother Of All Storms, Pelican Pub & Brewery , English Barleywine,14.0,99,4,2106,Winter, OR , Pacific City,45.2020606,-123.96351489999999
+198,Coffee Abraxas, Perennial Artisan Ales , American Imperial Stout,10.0,99,4,672,Rotating, MO , Saint Louis,38.6268039,-90.1994097
+199,Bodhi, Columbus Brewing Company , American Imperial IPA,8.5,99,4,1717,Rotating, OH , Columbus,39.9622601,-83.00070649999999
+200,Citraquench'l, Heist Brewery , New England IPA,7.1,99,4,295,Rotating, NC , Charlotte,35.2272,-80.843083
+201,Double Dry Hopped All Citra Everything, Other Half Brewing Company - Brooklyn , New England IPA,8.5,99,4,494,Rotating, NY , Brooklyn,40.6501038,-73.9495823
+202,Rodenbach Caractère Rouge, Brouwerij Rodenbach N.V. , Flanders Red Ale,7.0,98,4,1562,Rotating, Belgium , Roeselare,50.944494799999994,3.124765
+203,Kiwi Herman, Alpine Beer Company , American Wild Ale,7.0,100,4,292,Rotating, CA , Alpine,54.6610806,-102.0793157
+204,Emerald Grouper, Pipeworks Brewing Company , American Imperial IPA,9.5,99,4,887,Rotating, IL , Chicago,41.875561600000005,-87.6244212
+205,Hunahpu's Imperial Stout - Bourbon Barrel-Aged, Cigar City Brewing , American Imperial Stout,14.6,99,4,392,Rotating, FL , Tampa,27.947759499999997,-82.458444
+206,"Somewhere, Something Incredible Is Waiting To Be Known", Tree House Brewing Company , Something Incredible Is Waiting To Be Known,7.9,99,4,388,Rotating, MA , Charlton,42.1348444,-71.9643153
+207,Birth Of Tragedy, Hill Farmstead Brewery , American Imperial Porter,9.0,99,4,1281,Winter, VT , Greensboro Bend,44.5489422,-72.2648257
+208,Flora, Hill Farmstead Brewery , Belgian Saison,4.8,99,4,791,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+209,Caffè Americano, Cigar City Brewing , American Imperial Stout,12.0,99,4,1218,Rotating, FL , Tampa,27.947759499999997,-82.458444
+210,Bourbon Barrel Oro Negro, Jackie O's Pub & Brewery , American Imperial Stout,12.1,99,4,566,Rotating, OH , Athens,39.355589,-82.06104040000001
+211,Tweak, Avery Brewing Company , American Imperial Stout,16.0,99,4,2663,Rotating, CO , Boulder,40.0149856,-105.2705456
+212,Appervation, Jackie O's Pub & Brewery , American Imperial Stout,15.0,99,4,274,Rotating, OH , Athens,39.355589,-82.06104040000001
+213,Hop JuJu Imperial IPA, Fat Head's Brewery & Saloon , American Imperial IPA,9.0,99,4,2345,Rotating, OH , North Olmsted,41.415602500000006,-81.9234726
+214,Bourbon Barrel Black Maple, Jackie O's Pub & Brewery , American Imperial Porter,11.0,99,4,1102,Rotating, OH , Athens,39.355589,-82.06104040000001
+215,Second Fiddle, Fiddlehead Brewing Company , American Imperial IPA,8.2,99,4,2239,Rotating, VT , Shelburne,44.3783486,-73.2276183
+216,Fort Point Pale Ale, Trillium Brewing Company , American Pale Ale (APA),6.6,99,4,2220,Year-round, MA , Boston,42.3602534,-71.0582912
+217,Juicy, Hill Farmstead Brewery , Belgian Saison,7.4,99,4,718,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+218,Ghost In The Machine, Parish Brewing Company , New England IPA,8.5,99,4,1065,Rotating, LA , Broussard,30.1471506,-91.9612413
+219,Expedition Stout - Bourbon Barrel-Aged, Bell's Brewery - Eccentric Café & General Store , Russian Imperial Stout,13.4,98,4,704,Rotating, MI , Kalamazoo,42.291707,-85.5872286
+220,Thicket, Side Project Brewing , American Wild Ale,6.0,99,4,265,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+221,Imperial Eclipse Stout - Elijah Craig (12 Year), FiftyFifty Brewing Co. , American Imperial Stout,11.9,99,4,2015,Fall, CA , Truckee,39.327962,-120.1832533
+222,Sang Noir, Cascade Brewing / Raccoon Lodge & Brewpub , American Wild Ale,9.3,99,4,1831,Rotating, OR , Portland,45.5202471,-122.6741949
+223,Vicinity, Trillium Brewing Company , New England IPA,8.0,99,4,1744,Rotating, MA , Boston,42.3602534,-71.0582912
+224,Bourbon Barrel Champion Ground, Jackie O's Pub & Brewery , American Imperial Stout,12.0,99,4,652,Rotating, OH , Athens,39.355589,-82.06104040000001
+225,Medianoche - Coconut, WeldWerks Brewing Co. , American Imperial Stout,14.1,99,4,138,Rotating, CO , Greeley,40.42331420000001,-104.7091322
+226,Coconut B-Bomb, Fremont Brewing Company , American Strong Ale,13.0,97,4,287,Rotating, WA , Seattle,47.6038321,-122.3300624
+227,Schaerbeekse Kriek,Brouwerij 3 Fonteinen, Belgian Fruit Lambic,6.0,98,4,876,Rotating, Belgium , Beersel,50.76843529999999,4.305109799999999
+228,Peche 'n Brett, Logsdon Farmhouse Ales , Belgian Saison,10.0,99,4,1450,Rotating, WA , Washougal,45.581959399999995,-122.34799209999998
+229,Black & Wild, Side Project Brewing , American Wild Ale,10.0,100,4,224,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+230,Nelson, Alpine Beer Company , American IPA,7.0,99,4,4247,Rotating, CA , Alpine,54.6610806,-102.0793157
+231,Fyodor, Stone Brewing , Russian Imperial Stout,13.1,98,4,1401,Rotating, CA , Escondido,33.1216751,-117.08148490000002
+232,Axe Man, Surly Brewing Company , American IPA,7.2,99,4,2914,Year-round, MN , Brooklyn Center,45.07485429999999,-93.3296296
+233,Space Trace, Bottle Logic Brewing , American Imperial Stout,11.1,99,4,369,Rotating, CA , Anaheim,33.8347516,-117.911732
+234,Coolship Red, Allagash Brewing Company , Belgian Fruit Lambic,5.7,98,4,732,Rotating, ME , Portland,29.0654892,-110.9717051
+235,Double Dry Hopped Sleeper Street, Trillium Brewing Company , New England IPA,7.2,99,4,1094,Rotating, MA , Boston,42.3602534,-71.0582912
+236,Cellarman Barrel Aged Saison, Sante Adairius Rustic Ales , Belgian Saison,6.5,99,4,533,Rotating, CA , Capitola,36.9762927,-121.9540577
+237,All That Is And All That Ever Will Be, Tree House Brewing Company , English Sweet / Milk Stout,6.5,99,4,418,Rotating, MA , Charlton,42.1348444,-71.9643153
+238,Darkstar November, Bottle Logic Brewing , Russian Imperial Stout,13.7,98,4,663,Fall, CA , Anaheim,33.8347516,-117.911732
+239,Dorothy (Wine Barrel Aged), Hill Farmstead Brewery , Belgian Saison,7.0,99,4,229,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+240,Hefeweissbier, Bayerische Staatsbrauerei Weihenstephan , German Hefeweizen,5.4,98,4,8876,Year-round, Germany , Freising,48.400827299999996,11.7439565
+241,Mastermind, Fiddlehead Brewing Company , New England IPA,8.1,99,4,1458,Rotating, VT , Shelburne,44.3783486,-73.2276183
+242,Blanc De Blancs, Side Project Brewing , Bière de Champagne / Bière Brut,10.0,99,4,310,Rotating, MO , Maplewood,38.6125521,-90.32455990000001
+243,Flora - Blueberry, Hill Farmstead Brewery , Belgian Saison,5.0,99,7,425,Rotating, VT , Greensboro Bend,44.5489422,-72.2648257
+244,Smooth, Side Project Brewing , American Wild Ale,6.0,99,4,192,Rotating, MO , Maplewood,38.6125521,-90.32455990000001

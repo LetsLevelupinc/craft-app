@@ -1,0 +1,4808 @@
+review_id,beer_id,state,gender,state_id
+0,0,Wisconsin,Male,49
+1,0,Tennessee,Male,42
+3,0,Massachusetts,Male,21
+4,0,Illinois,Male,13
+5,0,Florida,Male,9
+6,0,Connecticut,Male,6
+7,0,Connecticut,Male,6
+8,0,Colorado,Male,5
+9,0,Minnesota,Male,23
+10,0,New Jersey,Male,30
+11,0,Missouri,Male,25
+12,0,Massachusetts,Male,21
+13,0,Ohio,Male,35
+14,0,Minnesota,Male,23
+15,0,Illinois,Male,13
+16,0,Georgia,Male,10
+17,0,Colorado,Male,5
+18,0,Massachusetts,Male,21
+19,0,Rhode Island,Male,39
+20,0,Massachusetts,Male,21
+21,0,Maryland,Male,20
+22,1,Minnesota,Male,23
+23,1,Illinois,Male,13
+24,1,California,Other,4
+25,1,Florida,Male,9
+26,1,Indiana,Male,14
+27,1,Illinois,Male,13
+28,1,Illinois,Male,13
+29,1,Indiana,Male,14
+30,1,Missouri,Male,25
+31,1,Massachusetts,Male,21
+32,1,California,Other,4
+33,1,Ohio,Male,35
+34,1,Indiana,Male,14
+35,1,Wisconsin,Male,49
+36,1,Indiana,Male,14
+37,1,Massachusetts,Male,21
+38,1,Missouri,Male,25
+39,1,Massachusetts,Male,21
+40,1,California,Male,4
+41,1,Rhode Island,Male,39
+42,1,Massachusetts,Male,21
+43,1,Vermont,Other,45
+44,1,Michigan,Other,22
+45,2,Tennessee,Male,42
+46,2,New York,Male,32
+47,2,Pennsylvania,Male,38
+48,2,Indiana,Male,14
+49,2,Virginia,Male,46
+50,2,Minnesota,Male,23
+52,2,Ohio,Male,35
+53,2,Maine,Male,19
+54,2,Rhode Island,Male,39
+56,2,Delaware,Male,7
+57,2,New York,Male,32
+58,2,Illinois,Male,13
+59,2,Ohio,Male,35
+60,2,California,Male,4
+61,2,New York,Male,32
+62,2,West Virginia,Male,48
+63,2,Massachusetts,Male,21
+64,2,Oregon,Male,37
+65,2,Illinois,Male,13
+66,2,New York,Other,32
+67,2,Florida,Male,9
+68,2,Illinois,Male,13
+69,3,New York,Male,32
+70,3,Illinois,Male,13
+71,3,Colorado,Male,5
+72,3,Massachusetts,Male,21
+73,3,Ohio,Male,35
+75,3,Missouri,Male,25
+76,3,Tennessee,Male,42
+77,3,Wisconsin,Male,49
+79,3,Alabama,Male,0
+80,3,Minnesota,Male,23
+81,3,Arkansas,Male,3
+82,3,Minnesota,Male,23
+83,3,Michigan,Male,22
+84,3,West Virginia,Male,48
+85,3,Massachusetts,Male,21
+86,3,Illinois,Male,13
+87,3,Illinois,Male,13
+88,3,Maryland,Other,20
+89,3,Florida,Male,9
+90,3,Georgia,Male,10
+91,3,Illinois,Male,13
+92,3,Colorado,Male,5
+93,4,California,Male,4
+94,4,Maryland,Male,20
+95,4,California,Other,4
+96,4,New York,Male,32
+97,4,Utah,Male,44
+98,4,Washington,Male,47
+99,4,Virginia,Male,46
+100,4,New York,Other,32
+101,4,Maine,Male,19
+102,4,Massachusetts,Male,21
+103,4,California,Male,4
+104,4,California,Male,4
+105,4,California,Male,4
+106,4,Pennsylvania,Male,38
+107,4,Virginia,Male,46
+108,4,California,Male,4
+109,4,Massachusetts,Other,21
+110,4,New Jersey,Other,30
+111,4,Illinois,Male,13
+112,4,Massachusetts,Male,21
+113,5,Illinois,Male,13
+114,5,Connecticut,Other,6
+115,5,New York,Other,32
+116,5,South Carolina,Male,40
+117,5,New Jersey,Male,30
+118,5,California,Other,4
+119,5,Illinois,Male,13
+120,5,Pennsylvania,Male,38
+121,5,Indiana,Male,14
+122,5,Nebraska,Male,27
+123,5,Iowa,Male,15
+124,5,Minnesota,Male,23
+125,5,Wisconsin,Male,49
+126,5,Virginia,Male,46
+127,5,California,Male,4
+128,5,Illinois,Male,13
+129,5,Washington,Male,47
+130,5,Illinois,Male,13
+131,5,Illinois,Other,13
+132,5,Illinois,Other,13
+133,5,Virginia,Other,46
+134,5,Minnesota,Male,23
+135,5,California,Male,4
+136,6,Illinois,Male,13
+137,6,Kentucky,Male,17
+138,6,New Jersey,Male,30
+139,6,New York,Other,32
+140,6,California,Male,4
+141,6,Tennessee,Male,42
+142,6,Ohio,Male,35
+143,6,California,Male,4
+144,6,California,Other,4
+145,6,Minnesota,Male,23
+146,6,Texas,Male,43
+147,6,Massachusetts,Male,21
+148,6,California,Male,4
+149,6,North Carolina,Male,33
+150,6,California,Other,4
+151,6,Pennsylvania,Male,38
+152,6,Washington,Male,47
+153,7,Massachusetts,Male,21
+154,7,New York,Male,32
+155,7,Massachusetts,Male,21
+156,7,California,Other,4
+157,7,Massachusetts,Male,21
+158,7,New Hampshire,Male,29
+159,7,New York,Male,32
+160,7,Illinois,Male,13
+161,7,New Hampshire,Male,29
+162,7,Maine,Male,19
+163,7,New Hampshire,Male,29
+164,7,New Hampshire,Male,29
+165,7,Pennsylvania,Male,38
+166,7,Massachusetts,Other,21
+167,7,Massachusetts,Male,21
+168,7,New Jersey,Male,30
+169,7,Massachusetts,Male,21
+170,7,South Carolina,Male,40
+171,7,Connecticut,Male,6
+172,8,Connecticut,Male,6
+173,8,Washington,Male,47
+174,8,Tennessee,Male,42
+175,8,Tennessee,Other,42
+176,8,New Jersey,Male,30
+177,8,New York,Male,32
+178,8,Massachusetts,Male,21
+179,8,New York,Other,32
+180,8,Massachusetts,Male,21
+181,8,Massachusetts,Male,21
+182,8,Rhode Island,Male,39
+183,8,Minnesota,Male,23
+184,8,Illinois,Male,13
+185,8,Massachusetts,Male,21
+186,8,Alabama,Male,0
+187,8,Connecticut,Male,6
+189,8,Texas,Male,43
+190,8,Ohio,Male,35
+191,9,Maine,Male,19
+192,9,Massachusetts,Male,21
+193,9,Illinois,Male,13
+194,9,New York,Male,32
+195,9,Massachusetts,Male,21
+197,9,New York,Male,32
+198,9,Connecticut,Male,6
+199,9,New York,Male,32
+200,9,Massachusetts,Male,21
+201,9,Massachusetts,Male,21
+202,9,Alabama,Male,0
+203,9,New York,Male,32
+204,9,Virginia,Male,46
+205,9,Pennsylvania,Male,38
+206,9,Massachusetts,Male,21
+207,9,Massachusetts,Male,21
+208,9,Minnesota,Male,23
+209,9,Illinois,Male,13
+210,9,California,Other,4
+211,9,Massachusetts,Male,21
+212,9,New York,Male,32
+213,9,Missouri,Male,25
+214,10,North Carolina,Male,33
+215,10,Illinois,Male,13
+216,10,Massachusetts,Male,21
+217,10,Nebraska,Male,27
+218,10,Ohio,Male,35
+219,10,Massachusetts,Male,21
+220,10,Illinois,Other,13
+221,10,Vermont,Other,45
+222,10,Iowa,Male,15
+223,10,Iowa,Other,15
+224,10,Minnesota,Male,23
+225,10,Illinois,Male,13
+226,10,Vermont,Male,45
+227,10,Massachusetts,Male,21
+228,10,Minnesota,Other,23
+229,10,Ohio,Male,35
+230,10,New Mexico,Male,31
+231,10,Iowa,Male,15
+232,10,Wisconsin,Male,49
+233,10,Arkansas,Male,3
+234,10,Virginia,Male,46
+236,11,New York,Male,32
+237,11,Indiana,Male,14
+238,11,North Carolina,Male,33
+239,11,California,Other,4
+240,11,Idaho,Male,12
+241,11,Illinois,Male,13
+242,11,Massachusetts,Male,21
+243,11,Indiana,Male,14
+244,11,California,Male,4
+245,11,New Jersey,Male,30
+246,11,California,Male,4
+247,11,California,Male,4
+248,11,Indiana,Male,14
+249,11,Washington,Male,47
+250,11,California,Male,4
+251,11,Florida,Male,9
+252,11,Pennsylvania,Male,38
+253,11,Pennsylvania,Other,38
+254,11,Illinois,Male,13
+255,11,Illinois,Male,13
+256,11,Massachusetts,Male,21
+257,12,Texas,Other,43
+258,12,Pennsylvania,Male,38
+259,12,Florida,Male,9
+260,12,Illinois,Other,13
+261,12,Indiana,Other,14
+262,12,Maryland,Other,20
+264,12,Illinois,Other,13
+265,12,New Jersey,Male,30
+266,12,Ohio,Male,35
+267,12,California,Male,4
+268,12,Wisconsin,Other,49
+269,12,Pennsylvania,Male,38
+272,12,Illinois,Male,13
+273,12,Massachusetts,Other,21
+274,13,California,Male,4
+275,13,Colorado,Male,5
+276,13,New York,Male,32
+277,13,Colorado,Male,5
+280,13,Illinois,Male,13
+283,13,California,Male,4
+284,13,Virginia,Male,46
+285,13,California,Male,4
+286,13,Illinois,Male,13
+287,13,Washington,Male,47
+288,14,Maine,Male,19
+289,14,Pennsylvania,Male,38
+290,14,New York,Other,32
+291,14,Massachusetts,Male,21
+292,14,Connecticut,Male,6
+293,14,New Jersey,Male,30
+294,14,Massachusetts,Male,21
+295,14,Massachusetts,Male,21
+296,14,Pennsylvania,Other,38
+297,14,California,Male,4
+298,14,Massachusetts,Male,21
+299,14,Florida,Other,9
+300,14,Pennsylvania,Male,38
+301,14,Massachusetts,Other,21
+302,14,New York,Male,32
+303,14,Massachusetts,Male,21
+304,14,New York,Male,32
+305,14,Massachusetts,Other,21
+306,14,New York,Other,32
+308,15,California,Male,4
+309,15,Massachusetts,Male,21
+310,15,Indiana,Other,14
+311,15,Massachusetts,Male,21
+312,15,Minnesota,Male,23
+314,15,Illinois,Male,13
+315,15,Tennessee,Male,42
+316,15,Virginia,Male,46
+317,15,Texas,Male,43
+318,15,Pennsylvania,Male,38
+320,15,Ohio,Male,35
+321,15,Massachusetts,Male,21
+322,15,New York,Male,32
+323,15,Connecticut,Male,6
+324,15,Colorado,Male,5
+326,15,Illinois,Male,13
+327,16,Massachusetts,Male,21
+328,16,California,Male,4
+329,16,Illinois,Male,13
+330,16,Connecticut,Male,6
+331,16,Washington,Male,47
+332,16,Wisconsin,Male,49
+333,16,California,Other,4
+334,16,Massachusetts,Male,21
+335,16,New Jersey,Male,30
+336,16,Nebraska,Male,27
+337,16,Michigan,Male,22
+338,16,Massachusetts,Male,21
+339,16,Minnesota,Other,23
+340,16,Tennessee,Male,42
+341,16,Minnesota,Male,23
+342,16,Massachusetts,Male,21
+343,16,Massachusetts,Male,21
+344,16,Massachusetts,Male,21
+345,16,Michigan,Other,22
+346,16,Illinois,Male,13
+347,16,Illinois,Male,13
+348,16,Iowa,Male,15
+349,17,Massachusetts,Male,21
+350,17,New York,Male,32
+351,17,New York,Male,32
+352,17,Maine,Male,19
+353,17,Texas,Male,43
+354,17,New Hampshire,Other,29
+355,17,Michigan,Male,22
+356,17,Pennsylvania,Male,38
+357,17,Massachusetts,Male,21
+358,17,New Hampshire,Male,29
+359,17,Kentucky,Male,17
+360,17,New York,Male,32
+361,17,Illinois,Male,13
+362,17,Connecticut,Male,6
+363,17,Massachusetts,Male,21
+364,17,South Carolina,Male,40
+365,17,Massachusetts,Other,21
+366,17,Minnesota,Male,23
+367,17,Connecticut,Other,6
+368,17,New York,Male,32
+369,18,Michigan,Male,22
+370,18,Virginia,Male,46
+371,18,New York,Male,32
+372,18,New Jersey,Other,30
+373,18,New York,Male,32
+374,18,California,Male,4
+375,18,New Jersey,Other,30
+376,18,Pennsylvania,Male,38
+377,18,Connecticut,Male,6
+378,18,Virginia,Male,46
+379,18,Minnesota,Male,23
+380,18,New Jersey,Male,30
+381,18,Tennessee,Male,42
+382,18,Pennsylvania,Male,38
+383,18,Pennsylvania,Male,38
+384,18,New Jersey,Male,30
+385,18,Massachusetts,Other,21
+386,18,Vermont,Male,45
+387,18,California,Other,4
+388,18,Michigan,Male,22
+389,19,Delaware,Male,7
+390,19,West Virginia,Male,48
+391,19,Texas,Male,43
+392,19,Idaho,Male,12
+393,19,Rhode Island,Other,39
+394,19,Massachusetts,Other,21
+395,19,Colorado,Male,5
+396,19,Massachusetts,Male,21
+397,19,California,Male,4
+398,19,Ohio,Male,35
+400,19,Massachusetts,Male,21
+401,19,Illinois,Male,13
+402,19,Illinois,Male,13
+404,19,District of Columbia,Male,8
+405,19,Rhode Island,Male,39
+407,19,Iowa,Male,15
+408,19,Rhode Island,Male,39
+409,19,Ohio,Male,35
+411,19,Rhode Island,Male,39
+412,20,Wisconsin,Male,49
+413,20,Massachusetts,Male,21
+414,20,Texas,Male,43
+415,20,Missouri,Male,25
+416,20,Connecticut,Male,6
+417,20,Massachusetts,Male,21
+418,20,New Jersey,Male,30
+419,20,Connecticut,Male,6
+420,20,Vermont,Male,45
+421,20,New Jersey,Male,30
+422,20,Pennsylvania,Male,38
+423,20,Maryland,Male,20
+424,20,Massachusetts,Male,21
+425,20,Ohio,Male,35
+426,20,Vermont,Other,45
+427,20,New Jersey,Other,30
+428,20,New Hampshire,Male,29
+429,20,North Carolina,Male,33
+430,20,Minnesota,Male,23
+431,20,Illinois,Male,13
+432,20,Indiana,Male,14
+433,20,California,Male,4
+434,20,New Hampshire,Male,29
+435,21,District of Columbia,Male,8
+436,21,Ohio,Male,35
+437,21,Massachusetts,Male,21
+438,21,New York,Male,32
+439,21,Rhode Island,Male,39
+440,21,Vermont,Other,45
+441,21,Minnesota,Male,23
+442,21,Rhode Island,Other,39
+443,21,Massachusetts,Male,21
+444,21,Massachusetts,Male,21
+445,21,Vermont,Male,45
+447,21,Georgia,Other,10
+448,21,Texas,Other,43
+449,21,Massachusetts,Male,21
+450,21,Vermont,Male,45
+451,21,Vermont,Male,45
+452,21,Georgia,Male,10
+453,21,Michigan,Other,22
+454,21,Ohio,Male,35
+455,21,Illinois,Male,13
+456,22,Virginia,Male,46
+457,22,New York,Other,32
+458,22,Ohio,Male,35
+460,22,Washington,Male,47
+461,22,Rhode Island,Other,39
+462,22,Indiana,Male,14
+463,22,Texas,Male,43
+464,22,Michigan,Other,22
+465,22,Minnesota,Male,23
+466,22,North Carolina,Male,33
+467,22,Massachusetts,Male,21
+468,22,Alabama,Male,0
+469,22,Massachusetts,Male,21
+470,22,North Carolina,Male,33
+471,22,Washington,Male,47
+472,23,Wisconsin,Male,49
+473,23,Ohio,Male,35
+474,23,Minnesota,Male,23
+475,23,Oregon,Male,37
+476,23,Illinois,Male,13
+477,23,Minnesota,Male,23
+478,23,California,Male,4
+479,23,Minnesota,Male,23
+480,23,Illinois,Male,13
+481,23,Rhode Island,Male,39
+482,23,Massachusetts,Male,21
+483,23,North Carolina,Male,33
+484,23,Vermont,Male,45
+485,23,Massachusetts,Male,21
+486,23,Illinois,Male,13
+487,23,Georgia,Male,10
+488,23,West Virginia,Male,48
+489,23,Florida,Other,9
+490,23,Missouri,Male,25
+491,23,South Dakota,Other,41
+492,23,South Dakota,Other,41
+493,23,Nebraska,Male,27
+494,23,Michigan,Other,22
+495,24,California,Male,4
+496,24,Illinois,Male,13
+497,24,Connecticut,Male,6
+498,24,North Carolina,Male,33
+499,24,California,Male,4
+500,24,Colorado,Other,5
+501,24,Florida,Male,9
+502,24,Illinois,Male,13
+503,24,New Jersey,Male,30
+504,24,Massachusetts,Male,21
+505,24,District of Columbia,Other,8
+506,24,Missouri,Male,25
+507,24,Florida,Male,9
+508,24,Pennsylvania,Other,38
+509,24,North Carolina,Male,33
+510,24,California,Other,4
+512,24,Minnesota,Male,23
+513,24,Indiana,Other,14
+514,24,Virginia,Male,46
+515,24,Iowa,Other,15
+517,25,Pennsylvania,Male,38
+518,25,Florida,Male,9
+519,25,New York,Male,32
+520,25,Illinois,Other,13
+521,25,New York,Male,32
+522,25,Massachusetts,Male,21
+523,25,New York,Male,32
+525,25,New Jersey,Male,30
+526,25,District of Columbia,Other,8
+527,25,Arizona,Male,2
+528,25,Maine,Male,19
+529,25,Illinois,Male,13
+530,25,Pennsylvania,Male,38
+531,25,Connecticut,Male,6
+532,25,Washington,Male,47
+533,25,Connecticut,Male,6
+534,25,Massachusetts,Male,21
+535,25,Massachusetts,Male,21
+536,25,Virginia,Male,46
+537,25,Massachusetts,Male,21
+538,26,New Jersey,Male,30
+539,26,New Jersey,Other,30
+540,26,Washington,Other,47
+541,26,Georgia,Male,10
+542,26,Michigan,Other,22
+543,26,Connecticut,Other,6
+544,26,New York,Male,32
+545,26,Virginia,Male,46
+546,26,Oregon,Male,37
+547,26,Ohio,Male,35
+548,26,Texas,Other,43
+549,26,Indiana,Other,14
+550,26,Illinois,Other,13
+551,26,Illinois,Male,13
+553,26,Indiana,Male,14
+554,26,Virginia,Male,46
+555,26,Pennsylvania,Male,38
+557,27,Idaho,Male,12
+558,27,New Hampshire,Male,29
+559,27,Connecticut,Other,6
+560,27,New York,Male,32
+561,27,Indiana,Male,14
+562,27,Ohio,Male,35
+563,27,Pennsylvania,Other,38
+564,27,Pennsylvania,Male,38
+565,27,New York,Male,32
+566,27,Maine,Male,19
+567,27,Florida,Male,9
+568,27,Tennessee,Male,42
+569,27,Illinois,Male,13
+570,27,Illinois,Male,13
+571,27,Washington,Other,47
+572,27,North Carolina,Male,33
+573,27,Colorado,Male,5
+574,28,New Jersey,Male,30
+575,28,Massachusetts,Male,21
+576,28,Massachusetts,Male,21
+577,28,New Hampshire,Male,29
+578,28,Massachusetts,Male,21
+579,28,New Jersey,Male,30
+580,28,New Hampshire,Male,29
+581,28,New Jersey,Male,30
+582,28,Pennsylvania,Other,38
+583,28,Virginia,Male,46
+584,28,California,Male,4
+585,28,Connecticut,Male,6
+586,28,Massachusetts,Male,21
+587,28,Massachusetts,Male,21
+588,28,Maryland,Male,20
+589,28,Connecticut,Male,6
+590,28,Texas,Male,43
+591,28,Virginia,Male,46
+592,28,Massachusetts,Male,21
+593,29,Colorado,Other,5
+594,29,Ohio,Male,35
+595,29,California,Male,4
+596,29,Illinois,Male,13
+597,29,Massachusetts,Male,21
+598,29,Massachusetts,Male,21
+599,29,Minnesota,Male,23
+600,29,California,Male,4
+602,29,New York,Male,32
+603,29,Missouri,Male,25
+604,29,Massachusetts,Male,21
+605,29,Indiana,Male,14
+606,29,New York,Other,32
+607,29,New York,Male,32
+608,29,Illinois,Male,13
+609,29,Florida,Male,9
+610,29,California,Other,4
+611,29,Pennsylvania,Male,38
+612,29,Illinois,Male,13
+613,30,New Jersey,Male,30
+614,30,Illinois,Male,13
+615,30,Ohio,Male,35
+616,30,Minnesota,Male,23
+617,30,Texas,Male,43
+618,30,Tennessee,Male,42
+619,30,Massachusetts,Male,21
+620,30,New York,Male,32
+621,30,Massachusetts,Male,21
+622,30,Massachusetts,Male,21
+624,30,Indiana,Male,14
+625,30,Washington,Male,47
+626,30,Arizona,Female,2
+627,30,Oregon,Male,37
+629,30,Michigan,Male,22
+630,30,Connecticut,Male,6
+631,30,Ohio,Male,35
+632,30,California,Male,4
+633,30,California,Male,4
+634,30,Florida,Male,9
+635,30,Wisconsin,Male,49
+636,31,Illinois,Male,13
+637,31,South Carolina,Male,40
+638,31,Pennsylvania,Male,38
+639,31,Montana,Male,26
+640,31,Pennsylvania,Male,38
+641,31,Missouri,Male,25
+642,31,Pennsylvania,Male,38
+643,31,Indiana,Male,14
+644,31,Massachusetts,Male,21
+645,31,Illinois,Male,13
+647,31,Florida,Male,9
+648,31,South Carolina,Male,40
+649,31,South Dakota,Male,41
+650,31,Tennessee,Male,42
+651,31,Indiana,Male,14
+652,31,Virginia,Male,46
+653,31,Florida,Other,9
+654,31,Florida,Male,9
+655,31,New Jersey,Male,30
+656,31,Ohio,Male,35
+657,31,Pennsylvania,Male,38
+658,31,New Hampshire,Male,29
+659,32,Massachusetts,Other,21
+660,32,Massachusetts,Male,21
+661,32,Massachusetts,Male,21
+662,32,New York,Male,32
+663,32,Texas,Male,43
+664,32,Massachusetts,Male,21
+665,32,California,Male,4
+666,32,Washington,Male,47
+667,32,Illinois,Male,13
+669,32,Minnesota,Male,23
+671,32,Colorado,Male,5
+672,32,Maryland,Male,20
+674,32,New York,Male,32
+675,32,Nebraska,Male,27
+676,32,Florida,Male,9
+677,32,Illinois,Male,13
+678,32,Missouri,Male,25
+679,32,Vermont,Other,45
+681,32,Nevada,Male,28
+682,33,Connecticut,Male,6
+683,33,Alabama,Male,0
+684,33,Minnesota,Male,23
+685,33,Pennsylvania,Male,38
+686,33,Missouri,Male,25
+687,33,Minnesota,Male,23
+688,33,Minnesota,Male,23
+689,33,Minnesota,Male,23
+691,33,California,Male,4
+692,33,Pennsylvania,Male,38
+693,33,Pennsylvania,Male,38
+694,33,Minnesota,Male,23
+695,33,New Jersey,Male,30
+696,33,Ohio,Male,35
+697,33,Missouri,Male,25
+698,33,Virginia,Male,46
+699,33,Wisconsin,Male,49
+700,33,Illinois,Male,13
+701,34,South Carolina,Male,40
+702,34,Massachusetts,Male,21
+703,34,New Jersey,Male,30
+704,34,Florida,Male,9
+705,34,Texas,Male,43
+706,34,Illinois,Male,13
+707,34,Connecticut,Male,6
+708,34,Florida,Male,9
+709,34,Massachusetts,Male,21
+710,34,Georgia,Male,10
+711,34,Colorado,Male,5
+712,34,Pennsylvania,Male,38
+713,34,Minnesota,Male,23
+714,34,Rhode Island,Male,39
+715,34,Minnesota,Male,23
+716,34,Idaho,Male,12
+717,34,New York,Male,32
+718,34,Washington,Male,47
+719,34,Illinois,Male,13
+720,34,Illinois,Other,13
+721,35,Massachusetts,Male,21
+722,35,Washington,Male,47
+723,35,Massachusetts,Male,21
+724,35,Ohio,Male,35
+725,35,Kentucky,Male,17
+726,35,Illinois,Male,13
+727,35,New Jersey,Male,30
+729,35,Nevada,Male,28
+730,35,Georgia,Male,10
+732,35,California,Male,4
+733,35,Massachusetts,Male,21
+734,35,New Jersey,Male,30
+735,35,Illinois,Male,13
+736,35,Florida,Male,9
+737,35,Alabama,Male,0
+738,35,California,Male,4
+739,35,Missouri,Male,25
+740,36,California,Male,4
+741,36,Ohio,Male,35
+742,36,Vermont,Other,45
+743,36,New York,Male,32
+744,36,New Jersey,Male,30
+745,36,Massachusetts,Male,21
+746,36,Rhode Island,Male,39
+747,36,Massachusetts,Male,21
+748,36,Florida,Male,9
+749,36,Vermont,Male,45
+750,36,Illinois,Male,13
+751,36,California,Male,4
+752,36,Florida,Male,9
+753,36,Nevada,Male,28
+754,36,Colorado,Male,5
+755,36,Florida,Male,9
+757,36,Iowa,Male,15
+758,36,Florida,Male,9
+759,36,Colorado,Male,5
+760,37,Ohio,Male,35
+761,37,Massachusetts,Male,21
+763,37,Rhode Island,Male,39
+764,37,Massachusetts,Male,21
+765,37,New Jersey,Male,30
+766,37,Illinois,Male,13
+767,37,Massachusetts,Male,21
+768,37,New Jersey,Male,30
+769,37,Vermont,Male,45
+770,37,Vermont,Other,45
+771,37,Florida,Male,9
+772,37,Illinois,Male,13
+773,37,Massachusetts,Other,21
+774,37,Iowa,Male,15
+775,37,Connecticut,Male,6
+776,37,Massachusetts,Male,21
+777,37,Massachusetts,Male,21
+778,37,Delaware,Male,7
+779,37,District of Columbia,Male,8
+780,38,Wisconsin,Male,49
+781,38,New Hampshire,Male,29
+782,38,New York,Male,32
+783,38,Pennsylvania,Male,38
+784,38,New Jersey,Male,30
+785,38,Massachusetts,Male,21
+786,38,Nevada,Male,28
+787,38,Massachusetts,Male,21
+788,38,Massachusetts,Male,21
+789,38,Maryland,Male,20
+790,38,Virginia,Male,46
+791,38,Connecticut,Male,6
+792,38,New York,Male,32
+793,38,Minnesota,Male,23
+794,38,New York,Male,32
+795,38,Virginia,Male,46
+796,38,Massachusetts,Other,21
+797,38,Massachusetts,Male,21
+798,38,Massachusetts,Other,21
+799,39,Illinois,Male,13
+800,39,Florida,Male,9
+801,39,Pennsylvania,Male,38
+802,39,Washington,Male,47
+803,39,Illinois,Male,13
+804,39,Wisconsin,Male,49
+805,39,Texas,Male,43
+806,39,Minnesota,Male,23
+807,39,New York,Male,32
+808,39,Idaho,Male,12
+809,39,Florida,Other,9
+810,39,Massachusetts,Male,21
+811,39,Indiana,Male,14
+812,39,Georgia,Male,10
+813,39,Vermont,Male,45
+814,39,Indiana,Male,14
+815,39,Massachusetts,Male,21
+816,39,North Carolina,Male,33
+817,39,New Mexico,Male,31
+818,39,Idaho,Male,12
+819,39,Georgia,Other,10
+820,39,District of Columbia,Male,8
+821,39,Florida,Male,9
+822,40,Georgia,Other,10
+823,40,New Jersey,Other,30
+824,40,Ohio,Male,35
+825,40,West Virginia,Male,48
+827,40,Colorado,Male,5
+828,40,California,Male,4
+829,40,Florida,Male,9
+831,40,Illinois,Male,13
+832,40,New Jersey,Male,30
+833,40,Virginia,Male,46
+834,40,Maryland,Male,20
+835,40,Delaware,Male,7
+836,40,Ohio,Male,35
+837,40,California,Male,4
+838,40,Missouri,Male,25
+839,40,Ohio,Male,35
+840,40,Michigan,Male,22
+841,40,New York,Other,32
+843,41,Missouri,Male,25
+844,41,New Jersey,Other,30
+845,41,Wisconsin,Male,49
+846,41,Connecticut,Male,6
+847,41,Indiana,Male,14
+848,41,Connecticut,Male,6
+849,41,New Jersey,Other,30
+850,41,California,Male,4
+851,41,Tennessee,Male,42
+852,41,Massachusetts,Male,21
+853,41,Massachusetts,Male,21
+856,41,South Carolina,Male,40
+857,41,Georgia,Other,10
+858,41,New York,Male,32
+859,41,Massachusetts,Male,21
+860,41,New Hampshire,Male,29
+861,41,Connecticut,Male,6
+862,41,Wisconsin,Male,49
+863,42,Pennsylvania,Male,38
+864,42,Illinois,Male,13
+865,42,New York,Male,32
+866,42,Pennsylvania,Male,38
+867,42,Massachusetts,Male,21
+868,42,Washington,Male,47
+869,42,New York,Other,32
+870,42,Texas,Male,43
+871,42,Tennessee,Male,42
+872,42,California,Male,4
+873,42,Idaho,Male,12
+874,42,Georgia,Male,10
+875,42,Massachusetts,Male,21
+876,42,Minnesota,Male,23
+877,42,Colorado,Male,5
+878,42,Pennsylvania,Male,38
+879,42,Texas,Male,43
+880,42,Florida,Male,9
+881,42,Massachusetts,Male,21
+882,42,Ohio,Male,35
+883,42,Massachusetts,Male,21
+884,42,Michigan,Other,22
+885,43,Alabama,Male,0
+886,43,Virginia,Male,46
+887,43,California,Other,4
+888,43,Massachusetts,Male,21
+889,43,Massachusetts,Other,21
+890,43,North Carolina,Male,33
+891,43,Massachusetts,Male,21
+892,43,Massachusetts,Male,21
+893,43,North Carolina,Male,33
+894,43,Massachusetts,Male,21
+896,43,New Hampshire,Male,29
+897,43,Massachusetts,Male,21
+898,43,Minnesota,Male,23
+899,43,Massachusetts,Male,21
+900,43,Massachusetts,Male,21
+901,43,New York,Other,32
+902,43,California,Male,4
+903,43,Georgia,Male,10
+904,43,Massachusetts,Male,21
+905,43,Connecticut,Male,6
+906,43,Vermont,Other,45
+907,43,Massachusetts,Male,21
+908,43,Tennessee,Male,42
+909,44,New York,Male,32
+910,44,California,Male,4
+911,44,Pennsylvania,Male,38
+912,44,Connecticut,Other,6
+913,44,Connecticut,Male,6
+914,44,Nevada,Male,28
+915,44,Massachusetts,Male,21
+916,44,New York,Male,32
+917,44,Illinois,Male,13
+918,44,Colorado,Male,5
+919,44,Pennsylvania,Male,38
+920,44,Minnesota,Male,23
+921,44,Pennsylvania,Other,38
+922,44,Maryland,Male,20
+923,44,Michigan,Male,22
+924,44,Massachusetts,Male,21
+925,44,New Jersey,Male,30
+926,44,New Jersey,Other,30
+927,44,New York,Male,32
+928,45,Delaware,Male,7
+929,45,Rhode Island,Male,39
+930,45,Alabama,Male,0
+931,45,Massachusetts,Male,21
+932,45,Illinois,Male,13
+933,45,Massachusetts,Other,21
+934,45,Ohio,Male,35
+935,45,Illinois,Male,13
+936,45,Massachusetts,Male,21
+937,45,Georgia,Male,10
+938,45,Massachusetts,Male,21
+939,45,Michigan,Other,22
+940,45,New Hampshire,Male,29
+941,45,Massachusetts,Male,21
+942,45,Massachusetts,Male,21
+943,45,Massachusetts,Male,21
+944,45,Connecticut,Male,6
+945,45,Massachusetts,Other,21
+946,45,Massachusetts,Male,21
+947,46,Idaho,Male,12
+948,46,New Mexico,Male,31
+949,46,Colorado,Male,5
+950,46,Minnesota,Male,23
+951,46,Missouri,Male,25
+952,46,Illinois,Male,13
+953,46,Florida,Male,9
+954,46,Iowa,Male,15
+955,46,Texas,Male,43
+956,46,Indiana,Male,14
+957,46,District of Columbia,Male,8
+958,46,Pennsylvania,Male,38
+959,46,Illinois,Other,13
+960,46,Florida,Male,9
+961,46,Nevada,Male,28
+962,46,Missouri,Male,25
+963,46,Illinois,Male,13
+964,46,Illinois,Male,13
+965,46,New York,Male,32
+966,47,Colorado,Other,5
+967,47,Montana,Male,26
+968,47,Minnesota,Male,23
+969,47,Pennsylvania,Male,38
+970,47,Tennessee,Male,42
+971,47,Massachusetts,Male,21
+972,47,California,Male,4
+973,47,Illinois,Male,13
+974,47,West Virginia,Male,48
+975,47,Massachusetts,Male,21
+976,47,Rhode Island,Male,39
+977,47,California,Male,4
+978,47,Arizona,Other,2
+979,47,Connecticut,Male,6
+980,47,Texas,Male,43
+981,47,Texas,Male,43
+982,47,California,Male,4
+983,47,Florida,Male,9
+984,47,California,Male,4
+985,47,Massachusetts,Male,21
+986,47,Massachusetts,Male,21
+987,47,California,Male,4
+988,47,Nevada,Male,28
+989,48,Pennsylvania,Male,38
+990,48,New Jersey,Male,30
+991,48,Illinois,Male,13
+992,48,Illinois,Male,13
+993,48,Illinois,Male,13
+994,48,California,Other,4
+995,48,Massachusetts,Male,21
+998,48,Pennsylvania,Male,38
+999,48,Minnesota,Male,23
+1000,48,Colorado,Other,5
+1001,48,New Jersey,Male,30
+1002,48,Texas,Male,43
+1004,48,New Hampshire,Male,29
+1005,48,California,Male,4
+1007,48,Colorado,Male,5
+1008,48,California,Male,4
+1009,48,New York,Male,32
+1010,48,North Carolina,Male,33
+1011,49,Wisconsin,Male,49
+1012,49,Vermont,Other,45
+1013,49,California,Male,4
+1014,49,California,Male,4
+1016,49,Illinois,Male,13
+1017,49,Massachusetts,Male,21
+1019,49,California,Male,4
+1020,49,Pennsylvania,Male,38
+1021,49,Ohio,Male,35
+1022,49,Maryland,Male,20
+1023,49,California,Male,4
+1024,49,Illinois,Male,13
+1025,49,California,Male,4
+1026,49,Tennessee,Male,42
+1027,49,California,Male,4
+1028,49,California,Male,4
+1029,49,Arizona,Male,2
+1030,49,Arizona,Other,2
+1031,49,Michigan,Other,22
+1032,49,Pennsylvania,Male,38
+1033,50,North Carolina,Male,33
+1034,50,California,Male,4
+1035,50,New York,Male,32
+1036,50,California,Male,4
+1037,50,Connecticut,Male,6
+1038,50,Tennessee,Male,42
+1039,50,New Jersey,Other,30
+1040,50,Massachusetts,Male,21
+1041,50,Wisconsin,Male,49
+1042,50,Illinois,Male,13
+1043,50,New York,Male,32
+1045,50,Massachusetts,Male,21
+1046,50,Rhode Island,Male,39
+1047,50,Kentucky,Male,17
+1048,50,Michigan,Male,22
+1049,50,Alabama,Male,0
+1050,50,New York,Male,32
+1051,50,Texas,Other,43
+1052,51,Ohio,Female,35
+1053,51,Maryland,Male,20
+1054,51,Ohio,Male,35
+1055,51,Connecticut,Male,6
+1056,51,New York,Other,32
+1057,51,California,Male,4
+1058,51,Maine,Male,19
+1059,51,Wisconsin,Male,49
+1060,51,Pennsylvania,Male,38
+1061,51,California,Male,4
+1062,51,Pennsylvania,Male,38
+1063,51,Texas,Other,43
+1064,51,New Jersey,Other,30
+1065,51,New Jersey,Other,30
+1066,51,Missouri,Male,25
+1067,51,California,Male,4
+1068,51,Massachusetts,Male,21
+1069,51,New Jersey,Male,30
+1070,51,Texas,Male,43
+1071,51,Ohio,Male,35
+1072,52,New York,Other,32
+1073,52,New York,Male,32
+1074,52,New Hampshire,Male,29
+1075,52,Massachusetts,Male,21
+1076,52,California,Male,4
+1077,52,California,Male,4
+1078,52,Pennsylvania,Male,38
+1079,52,New Jersey,Other,30
+1080,52,Nevada,Male,28
+1081,52,California,Male,4
+1082,52,Massachusetts,Male,21
+1083,52,Pennsylvania,Male,38
+1084,52,Massachusetts,Male,21
+1085,52,South Carolina,Male,40
+1086,52,Massachusetts,Other,21
+1087,52,California,Other,4
+1088,52,New Jersey,Other,30
+1089,52,Pennsylvania,Male,38
+1090,52,New York,Male,32
+1091,53,Texas,Male,43
+1092,53,Idaho,Male,12
+1093,53,Ohio,Male,35
+1094,53,Minnesota,Male,23
+1096,53,Massachusetts,Male,21
+1097,53,Pennsylvania,Male,38
+1098,53,Massachusetts,Male,21
+1099,53,Massachusetts,Male,21
+1100,53,New York,Male,32
+1102,53,Georgia,Male,10
+1103,53,Colorado,Male,5
+1104,53,Massachusetts,Male,21
+1106,53,Virginia,Male,46
+1108,53,Maryland,Male,20
+1109,53,Massachusetts,Other,21
+1110,53,Massachusetts,Other,21
+1112,53,New Jersey,Male,30
+1113,53,Vermont,Other,45
+1114,54,Colorado,Male,5
+1115,54,Minnesota,Male,23
+1116,54,South Carolina,Male,40
+1117,54,West Virginia,Male,48
+1118,54,Ohio,Male,35
+1119,54,New Hampshire,Male,29
+1120,54,Maryland,Male,20
+1121,54,Massachusetts,Male,21
+1122,54,Ohio,Male,35
+1124,54,Indiana,Other,14
+1125,54,Massachusetts,Male,21
+1126,54,Massachusetts,Male,21
+1127,54,Massachusetts,Male,21
+1128,54,California,Male,4
+1129,54,Massachusetts,Male,21
+1130,54,Idaho,Male,12
+1131,54,Michigan,Other,22
+1133,54,Massachusetts,Male,21
+1135,55,Texas,Male,43
+1136,55,Washington,Male,47
+1137,55,New York,Male,32
+1138,55,Massachusetts,Male,21
+1140,55,California,Male,4
+1141,55,New York,Male,32
+1142,55,Massachusetts,Male,21
+1143,55,Vermont,Male,45
+1144,55,California,Other,4
+1146,55,Illinois,Male,13
+1147,55,Wisconsin,Male,49
+1148,55,Illinois,Male,13
+1150,55,Rhode Island,Male,39
+1151,55,Florida,Male,9
+1152,55,Massachusetts,Male,21
+1153,55,Massachusetts,Male,21
+1154,55,Florida,Male,9
+1156,55,North Carolina,Male,33
+1157,56,Delaware,Male,7
+1158,56,Illinois,Male,13
+1159,56,Rhode Island,Male,39
+1160,56,Missouri,Male,25
+1161,56,Minnesota,Male,23
+1162,56,Ohio,Male,35
+1163,56,Massachusetts,Male,21
+1164,56,Indiana,Male,14
+1165,56,Illinois,Male,13
+1166,56,Illinois,Male,13
+1167,56,Illinois,Male,13
+1168,56,Ohio,Male,35
+1169,56,Michigan,Male,22
+1170,56,Illinois,Male,13
+1171,56,Pennsylvania,Male,38
+1172,56,Indiana,Male,14
+1173,56,Illinois,Male,13
+1174,57,New York,Male,32
+1175,57,Pennsylvania,Male,38
+1176,57,Massachusetts,Male,21
+1177,57,Massachusetts,Male,21
+1178,57,New Jersey,Male,30
+1179,57,Pennsylvania,Male,38
+1180,57,California,Male,4
+1181,57,Connecticut,Male,6
+1182,57,Virginia,Male,46
+1183,57,Texas,Other,43
+1184,57,Massachusetts,Male,21
+1185,57,Pennsylvania,Other,38
+1186,57,Virginia,Male,46
+1187,57,Vermont,Male,45
+1188,57,New Jersey,Male,30
+1189,57,Missouri,Male,25
+1190,57,New Jersey,Male,30
+1191,57,New Jersey,Male,30
+1192,57,Illinois,Male,13
+1193,57,Pennsylvania,Male,38
+1194,57,New Jersey,Male,30
+1195,57,Arizona,Male,2
+1196,57,Pennsylvania,Other,38
+1197,58,Minnesota,Male,23
+1198,58,California,Male,4
+1199,58,New York,Male,32
+1200,58,California,Male,4
+1201,58,Massachusetts,Male,21
+1202,58,Illinois,Male,13
+1203,58,New Jersey,Male,30
+1204,58,Massachusetts,Male,21
+1205,58,South Carolina,Male,40
+1206,58,North Carolina,Male,33
+1207,58,Massachusetts,Male,21
+1208,58,Pennsylvania,Male,38
+1209,58,New York,Male,32
+1210,58,Massachusetts,Male,21
+1211,58,North Carolina,Male,33
+1212,58,Massachusetts,Male,21
+1213,58,Washington,Male,47
+1214,58,Massachusetts,Male,21
+1215,58,Maine,Male,19
+1216,58,Massachusetts,Male,21
+1218,58,Massachusetts,Male,21
+1219,59,Pennsylvania,Male,38
+1220,59,California,Male,4
+1221,59,New York,Male,32
+1222,59,Illinois,Male,13
+1223,59,Washington,Male,47
+1224,59,South Carolina,Male,40
+1225,59,Washington,Male,47
+1226,59,California,Male,4
+1227,59,Ohio,Male,35
+1228,59,Georgia,Male,10
+1229,59,Pennsylvania,Other,38
+1230,59,California,Other,4
+1231,59,Kentucky,Male,17
+1232,59,Massachusetts,Male,21
+1233,59,North Carolina,Male,33
+1234,59,Indiana,Male,14
+1235,59,Massachusetts,Male,21
+1236,59,Michigan,Male,22
+1237,59,California,Male,4
+1238,59,Michigan,Other,22
+1239,59,Illinois,Male,13
+1240,59,California,Male,4
+1241,60,Illinois,Other,13
+1242,60,New York,Other,32
+1243,60,Vermont,Other,45
+1244,60,Ohio,Male,35
+1245,60,Massachusetts,Male,21
+1246,60,Illinois,Male,13
+1247,60,Minnesota,Male,23
+1248,60,Michigan,Male,22
+1250,60,Illinois,Male,13
+1251,60,Tennessee,Male,42
+1252,60,Illinois,Male,13
+1253,60,Rhode Island,Male,39
+1254,60,Illinois,Male,13
+1255,60,Missouri,Male,25
+1256,60,Iowa,Male,15
+1257,60,Iowa,Male,15
+1258,61,Minnesota,Male,23
+1259,61,Illinois,Male,13
+1260,61,Indiana,Male,14
+1261,61,Illinois,Male,13
+1262,61,Minnesota,Male,23
+1263,61,Ohio,Male,35
+1264,61,Ohio,Male,35
+1265,61,Vermont,Male,45
+1266,61,Massachusetts,Male,21
+1267,61,Nevada,Male,28
+1268,61,Illinois,Male,13
+1269,61,Illinois,Male,13
+1270,61,Rhode Island,Male,39
+1271,61,Massachusetts,Male,21
+1272,61,Illinois,Male,13
+1273,61,Illinois,Male,13
+1274,61,Illinois,Male,13
+1275,61,Tennessee,Male,42
+1276,61,Iowa,Male,15
+1277,61,Massachusetts,Male,21
+1278,61,Massachusetts,Male,21
+1279,61,Florida,Male,9
+1280,61,Iowa,Male,15
+1281,61,Idaho,Male,12
+1282,62,New Hampshire,Male,29
+1283,62,New York,Male,32
+1284,62,Illinois,Male,13
+1285,62,California,Male,4
+1286,62,Massachusetts,Male,21
+1287,62,New Jersey,Male,30
+1288,62,Indiana,Male,14
+1289,62,New York,Male,32
+1290,62,Massachusetts,Male,21
+1291,62,New Jersey,Male,30
+1292,62,Massachusetts,Male,21
+1293,62,Virginia,Male,46
+1294,62,Ohio,Male,35
+1295,62,Pennsylvania,Male,38
+1296,62,Massachusetts,Male,21
+1297,62,Massachusetts,Male,21
+1298,62,Illinois,Male,13
+1299,62,New York,Other,32
+1300,62,Massachusetts,Male,21
+1301,62,California,Male,4
+1303,62,Minnesota,Male,23
+1305,63,New York,Male,32
+1306,63,California,Male,4
+1307,63,Alabama,Male,0
+1308,63,Michigan,Male,22
+1309,63,Massachusetts,Male,21
+1311,63,Indiana,Male,14
+1313,63,Maryland,Male,20
+1314,63,Nebraska,Male,27
+1315,63,Maryland,Male,20
+1316,63,California,Male,4
+1317,63,Pennsylvania,Other,38
+1318,63,Illinois,Male,13
+1319,63,Georgia,Male,10
+1320,63,Ohio,Male,35
+1321,63,Ohio,Male,35
+1322,63,Vermont,Male,45
+1323,63,California,Male,4
+1324,63,California,Male,4
+1325,63,Ohio,Male,35
+1326,64,New Jersey,Male,30
+1327,64,Colorado,Male,5
+1328,64,Ohio,Male,35
+1329,64,Georgia,Male,10
+1331,64,Indiana,Male,14
+1332,64,New Jersey,Male,30
+1333,64,Tennessee,Male,42
+1334,64,California,Male,4
+1335,64,Indiana,Male,14
+1336,64,Ohio,Male,35
+1337,64,District of Columbia,Male,8
+1338,64,North Carolina,Male,33
+1339,64,Ohio,Male,35
+1340,64,Illinois,Male,13
+1341,64,Idaho,Male,12
+1342,64,Texas,Male,43
+1343,64,Oregon,Male,37
+1344,64,Connecticut,Male,6
+1345,64,Alaska,Male,1
+1346,64,Massachusetts,Male,21
+1347,65,Delaware,Male,7
+1348,65,Ohio,Male,35
+1349,65,Minnesota,Male,23
+1350,65,Colorado,Male,5
+1351,65,Illinois,Male,13
+1352,65,Illinois,Male,13
+1353,65,Florida,Male,9
+1354,65,Vermont,Other,45
+1355,65,Massachusetts,Male,21
+1356,65,New Mexico,Male,31
+1357,65,Michigan,Male,22
+1358,65,Missouri,Male,25
+1359,65,Missouri,Male,25
+1360,65,Missouri,Male,25
+1361,65,Iowa,Male,15
+1362,65,Iowa,Male,15
+1363,65,California,Other,4
+1364,65,Texas,Male,43
+1365,65,Missouri,Other,25
+1366,66,Washington,Male,47
+1367,66,Idaho,Male,12
+1368,66,Colorado,Other,5
+1369,66,Pennsylvania,Male,38
+1370,66,Massachusetts,Male,21
+1371,66,Rhode Island,Male,39
+1372,66,California,Male,4
+1373,66,Illinois,Male,13
+1374,66,Florida,Male,9
+1375,66,New Jersey,Male,30
+1377,66,Iowa,Male,15
+1378,66,Massachusetts,Male,21
+1379,66,Arizona,Other,2
+1380,66,Florida,Male,9
+1381,66,Ohio,Male,35
+1382,66,Illinois,Male,13
+1383,66,Michigan,Male,22
+1384,66,Minnesota,Male,23
+1385,66,Texas,Male,43
+1386,66,Iowa,Male,15
+1387,67,West Virginia,Male,48
+1388,67,Connecticut,Other,6
+1389,67,California,Male,4
+1390,67,Florida,Male,9
+1391,67,Illinois,Male,13
+1392,67,Washington,Male,47
+1393,67,Indiana,Other,14
+1394,67,Michigan,Male,22
+1395,67,Michigan,Male,22
+1396,67,Pennsylvania,Male,38
+1397,67,California,Male,4
+1398,67,Minnesota,Male,23
+1399,67,Rhode Island,Male,39
+1400,67,Massachusetts,Male,21
+1401,67,Illinois,Male,13
+1402,67,Missouri,Male,25
+1403,67,Ohio,Male,35
+1404,67,California,Male,4
+1405,67,Illinois,Male,13
+1406,67,Michigan,Male,22
+1407,67,Iowa,Male,15
+1408,67,Michigan,Male,22
+1409,67,Michigan,Male,22
+1410,68,New York,Male,32
+1411,68,Illinois,Male,13
+1412,68,California,Male,4
+1413,68,New Jersey,Other,30
+1414,68,Michigan,Male,22
+1415,68,Colorado,Male,5
+1416,68,Pennsylvania,Male,38
+1417,68,California,Male,4
+1418,68,Pennsylvania,Male,38
+1419,68,Alabama,Male,0
+1420,68,Massachusetts,Male,21
+1421,68,North Carolina,Male,33
+1422,68,New York,Male,32
+1423,68,New York,Other,32
+1424,68,New York,Male,32
+1425,68,Delaware,Male,7
+1426,69,Illinois,Male,13
+1427,69,Massachusetts,Male,21
+1428,69,New York,Male,32
+1429,69,Washington,Male,47
+1430,69,Michigan,Male,22
+1431,69,Ohio,Male,35
+1432,69,New Hampshire,Male,29
+1433,69,Massachusetts,Male,21
+1434,69,Illinois,Male,13
+1435,69,Massachusetts,Male,21
+1436,69,Illinois,Male,13
+1437,69,Vermont,Male,45
+1438,69,Alabama,Male,0
+1439,69,Massachusetts,Male,21
+1440,69,Florida,Male,9
+1441,69,Massachusetts,Male,21
+1442,69,Rhode Island,Male,39
+1443,69,Texas,Male,43
+1444,69,Colorado,Male,5
+1445,69,Massachusetts,Male,21
+1446,69,Massachusetts,Male,21
+1447,69,California,Male,4
+1448,69,New York,Male,32
+1449,70,Idaho,Male,12
+1450,70,Massachusetts,Male,21
+1451,70,Indiana,Male,14
+1452,70,New York,Male,32
+1453,70,Illinois,Male,13
+1454,70,Colorado,Male,5
+1455,70,New York,Male,32
+1456,70,Massachusetts,Male,21
+1457,70,Massachusetts,Male,21
+1458,70,Massachusetts,Male,21
+1459,70,Indiana,Male,14
+1460,70,Minnesota,Male,23
+1461,70,Maine,Other,19
+1462,70,North Carolina,Male,33
+1463,70,Texas,Male,43
+1464,70,New Jersey,Other,30
+1465,70,Michigan,Male,22
+1466,70,Michigan,Male,22
+1468,70,Alabama,Male,0
+1469,70,New Jersey,Male,30
+1470,70,California,Male,4
+1471,70,Illinois,Male,13
+1472,71,Illinois,Male,13
+1473,71,Virginia,Male,46
+1474,71,New York,Male,32
+1475,71,California,Male,4
+1476,71,California,Male,4
+1477,71,New Jersey,Other,30
+1478,71,Connecticut,Male,6
+1479,71,New Jersey,Other,30
+1480,71,New Jersey,Male,30
+1481,71,California,Male,4
+1482,71,New York,Male,32
+1483,71,Pennsylvania,Other,38
+1484,71,New Jersey,Male,30
+1485,71,California,Male,4
+1486,71,California,Male,4
+1487,71,Michigan,Male,22
+1488,71,Pennsylvania,Male,38
+1489,71,North Carolina,Male,33
+1490,71,Maine,Male,19
+1491,71,New York,Male,32
+1492,72,Delaware,Male,7
+1493,72,New York,Male,32
+1494,72,Massachusetts,Male,21
+1495,72,Tennessee,Male,42
+1496,72,Ohio,Male,35
+1497,72,Ohio,Male,35
+1498,72,Massachusetts,Male,21
+1499,72,Florida,Male,9
+1500,72,Illinois,Male,13
+1501,72,South Dakota,Other,41
+1502,72,Florida,Other,9
+1503,72,South Dakota,Other,41
+1504,72,Michigan,Other,22
+1505,72,Illinois,Male,13
+1506,72,Virginia,Male,46
+1508,72,New York,Female,32
+1509,72,Indiana,Male,14
+1510,72,Utah,Male,44
+1511,72,New York,Male,32
+1512,73,Minnesota,Male,23
+1513,73,Iowa,Male,15
+1514,73,Massachusetts,Male,21
+1515,73,Ohio,Male,35
+1516,73,Michigan,Other,22
+1517,73,Ohio,Male,35
+1518,73,Massachusetts,Male,21
+1519,73,Missouri,Male,25
+1520,73,Pennsylvania,Other,38
+1521,73,Illinois,Male,13
+1522,73,Iowa,Male,15
+1524,73,Pennsylvania,Male,38
+1525,73,Illinois,Male,13
+1526,73,Florida,Male,9
+1527,73,Massachusetts,Male,21
+1528,73,Iowa,Male,15
+1529,73,Rhode Island,Male,39
+1530,73,Vermont,Other,45
+1531,73,Pennsylvania,Male,38
+1532,73,Florida,Male,9
+1533,73,Florida,Male,9
+1534,74,New York,Male,32
+1535,74,Wisconsin,Male,49
+1536,74,New Jersey,Male,30
+1537,74,Nevada,Male,28
+1538,74,California,Male,4
+1539,74,Missouri,Male,25
+1540,74,Colorado,Male,5
+1541,74,North Carolina,Male,33
+1542,74,Connecticut,Male,6
+1543,74,Florida,Male,9
+1544,74,Massachusetts,Male,21
+1545,74,Vermont,Male,45
+1546,74,Vermont,Male,45
+1547,74,Massachusetts,Male,21
+1548,74,Massachusetts,Male,21
+1549,74,Massachusetts,Male,21
+1550,74,Minnesota,Male,23
+1551,74,Massachusetts,Male,21
+1552,74,Pennsylvania,Male,38
+1553,74,New Jersey,Other,30
+1554,74,California,Male,4
+1555,75,Minnesota,Male,23
+1556,75,Alaska,Male,1
+1557,75,New Hampshire,Male,29
+1558,75,Colorado,Male,5
+1559,75,New Jersey,Male,30
+1560,75,New York,Male,32
+1561,75,Massachusetts,Male,21
+1562,75,New Hampshire,Male,29
+1563,75,Ohio,Male,35
+1564,75,Massachusetts,Male,21
+1565,75,Massachusetts,Male,21
+1566,75,Connecticut,Male,6
+1567,75,Massachusetts,Male,21
+1568,75,Massachusetts,Male,21
+1569,75,Georgia,Male,10
+1570,76,Tennessee,Male,42
+1571,76,Florida,Male,9
+1572,76,Illinois,Male,13
+1573,76,Texas,Other,43
+1574,76,California,Other,4
+1575,76,Minnesota,Male,23
+1576,76,Massachusetts,Male,21
+1577,76,Texas,Other,43
+1578,76,Montana,Male,26
+1579,76,Virginia,Male,46
+1580,76,Alabama,Male,0
+1581,76,Illinois,Male,13
+1582,76,Texas,Male,43
+1583,76,New Jersey,Male,30
+1584,76,Washington,Male,47
+1585,76,Missouri,Male,25
+1586,76,New York,Male,32
+1587,76,New York,Male,32
+1588,76,Minnesota,Male,23
+1589,76,Virginia,Male,46
+1590,76,Iowa,Male,15
+1591,76,Massachusetts,Male,21
+1592,76,Illinois,Male,13
+1593,77,Delaware,Male,7
+1594,77,Illinois,Male,13
+1595,77,Ohio,Male,35
+1596,77,Minnesota,Male,23
+1597,77,California,Male,4
+1598,77,Minnesota,Male,23
+1599,77,Illinois,Male,13
+1600,77,New Jersey,Male,30
+1601,77,Illinois,Male,13
+1602,77,Massachusetts,Male,21
+1603,77,Massachusetts,Male,21
+1604,77,Illinois,Male,13
+1605,77,Illinois,Other,13
+1606,77,New York,Male,32
+1607,77,Minnesota,Male,23
+1608,77,Ohio,Male,35
+1609,77,Iowa,Male,15
+1610,77,Illinois,Male,13
+1611,77,Virginia,Other,46
+1612,77,Illinois,Male,13
+1613,77,Indiana,Other,14
+1614,78,Texas,Other,43
+1615,78,Illinois,Male,13
+1616,78,Iowa,Male,15
+1617,78,Illinois,Male,13
+1618,78,Florida,Male,9
+1619,78,Massachusetts,Male,21
+1620,78,California,Male,4
+1621,78,California,Male,4
+1622,78,Massachusetts,Male,21
+1623,78,Massachusetts,Male,21
+1624,78,California,Other,4
+1625,78,Arizona,Male,2
+1626,78,Missouri,Male,25
+1627,78,California,Male,4
+1628,78,Illinois,Male,13
+1629,78,California,Male,4
+1630,78,California,Male,4
+1631,78,California,Male,4
+1632,78,Wisconsin,Male,49
+1633,78,California,Male,4
+1634,78,California,Male,4
+1635,79,Colorado,Other,5
+1636,79,Pennsylvania,Male,38
+1639,79,Idaho,Male,12
+1640,79,Illinois,Male,13
+1643,79,Tennessee,Male,42
+1644,79,Texas,Male,43
+1645,79,Minnesota,Male,23
+1646,79,Massachusetts,Male,21
+1647,79,Wisconsin,Male,49
+1648,79,Massachusetts,Male,21
+1649,79,Massachusetts,Male,21
+1650,79,Michigan,Other,22
+1651,79,Florida,Male,9
+1652,79,Massachusetts,Male,21
+1653,79,Michigan,Male,22
+1654,79,Massachusetts,Male,21
+1655,79,Pennsylvania,Male,38
+1656,79,California,Male,4
+1658,80,Idaho,Male,12
+1659,80,California,Male,4
+1660,80,Texas,Male,43
+1662,80,Massachusetts,Male,21
+1663,80,New York,Male,32
+1664,80,Colorado,Male,5
+1665,80,Minnesota,Male,23
+1666,80,Massachusetts,Male,21
+1667,80,Ohio,Male,35
+1668,80,Vermont,Male,45
+1669,80,Massachusetts,Male,21
+1670,80,Rhode Island,Male,39
+1671,80,Florida,Male,9
+1672,80,New York,Male,32
+1673,80,Florida,Male,9
+1674,80,New York,Male,32
+1675,80,Iowa,Male,15
+1676,80,District of Columbia,Male,8
+1677,80,Massachusetts,Male,21
+1679,80,Iowa,Male,15
+1680,81,Massachusetts,Male,21
+1681,81,Georgia,Male,10
+1682,81,Virginia,Male,46
+1683,81,New York,Male,32
+1684,81,Massachusetts,Male,21
+1685,81,New Hampshire,Male,29
+1687,81,New Jersey,Male,30
+1688,81,New Hampshire,Male,29
+1689,81,Iowa,Male,15
+1690,81,New Hampshire,Male,29
+1691,81,Massachusetts,Male,21
+1692,81,Michigan,Male,22
+1693,81,California,Male,4
+1694,81,Illinois,Male,13
+1695,81,Illinois,Male,13
+1696,81,Virginia,Male,46
+1697,81,Tennessee,Male,42
+1698,81,New York,Male,32
+1699,81,Ohio,Male,35
+1700,81,Illinois,Male,13
+1701,82,Georgia,Male,10
+1702,82,Michigan,Male,22
+1703,82,Connecticut,Male,6
+1704,82,Pennsylvania,Other,38
+1705,82,Idaho,Male,12
+1706,82,Maryland,Male,20
+1707,82,Minnesota,Male,23
+1708,82,Ohio,Male,35
+1709,82,Massachusetts,Male,21
+1710,82,New Jersey,Male,30
+1712,82,Ohio,Male,35
+1713,82,Maine,Male,19
+1714,82,Massachusetts,Male,21
+1715,82,Massachusetts,Male,21
+1716,82,Ohio,Male,35
+1717,82,Illinois,Male,13
+1718,82,Rhode Island,Male,39
+1719,82,Massachusetts,Male,21
+1720,82,Massachusetts,Male,21
+1721,82,Iowa,Male,15
+1722,83,Texas,Male,43
+1723,83,Massachusetts,Male,21
+1724,83,Massachusetts,Male,21
+1725,83,Rhode Island,Male,39
+1726,83,Minnesota,Male,23
+1727,83,Massachusetts,Male,21
+1728,83,Colorado,Male,5
+1729,83,Illinois,Male,13
+1730,83,Oregon,Male,37
+1731,83,California,Male,4
+1732,83,Ohio,Male,35
+1733,83,Maryland,Male,20
+1734,83,Illinois,Male,13
+1735,83,Iowa,Male,15
+1736,83,Vermont,Male,45
+1737,83,Illinois,Male,13
+1738,83,Illinois,Male,13
+1740,83,Iowa,Male,15
+1742,83,New York,Male,32
+1743,83,Massachusetts,Male,21
+1744,84,Arizona,Male,2
+1745,84,Illinois,Male,13
+1746,84,Ohio,Male,35
+1747,84,California,Other,4
+1748,84,New York,Male,32
+1749,84,North Carolina,Male,33
+1750,84,New Jersey,Male,30
+1751,84,New Jersey,Other,30
+1752,84,Texas,Other,43
+1753,84,Tennessee,Male,42
+1754,84,Massachusetts,Male,21
+1755,84,California,Male,4
+1756,84,Michigan,Male,22
+1757,84,New Jersey,Other,30
+1758,84,Massachusetts,Male,21
+1759,84,New Mexico,Male,31
+1760,84,Illinois,Other,13
+1761,84,California,Male,4
+1762,84,Kentucky,Male,17
+1763,85,Minnesota,Male,23
+1764,85,Texas,Male,43
+1765,85,New Jersey,Male,30
+1766,85,Massachusetts,Male,21
+1767,85,Massachusetts,Male,21
+1768,85,Rhode Island,Male,39
+1769,85,Massachusetts,Male,21
+1770,85,California,Male,4
+1771,85,Illinois,Male,13
+1772,85,Massachusetts,Other,21
+1774,85,Massachusetts,Male,21
+1775,85,Rhode Island,Male,39
+1776,85,Illinois,Male,13
+1777,85,New Mexico,Male,31
+1778,85,New York,Male,32
+1779,85,Florida,Male,9
+1780,85,District of Columbia,Male,8
+1781,85,Illinois,Male,13
+1782,85,Illinois,Male,13
+1783,85,Iowa,Male,15
+1784,85,Iowa,Male,15
+1785,86,Missouri,Female,25
+1786,86,New York,Male,32
+1787,86,New York,Male,32
+1788,86,Texas,Male,43
+1789,86,Wisconsin,Male,49
+1790,86,North Carolina,Male,33
+1791,86,Tennessee,Male,42
+1792,86,Massachusetts,Male,21
+1793,86,California,Male,4
+1794,86,Ohio,Male,35
+1795,86,Iowa,Male,15
+1796,86,Illinois,Male,13
+1797,86,Massachusetts,Male,21
+1798,86,Rhode Island,Male,39
+1799,86,Texas,Male,43
+1800,86,Massachusetts,Male,21
+1801,86,Florida,Male,9
+1802,86,Iowa,Male,15
+1803,87,California,Male,4
+1804,87,California,Male,4
+1805,87,Pennsylvania,Other,38
+1806,87,Minnesota,Male,23
+1807,87,Indiana,Male,14
+1808,87,Massachusetts,Male,21
+1809,87,New Jersey,Male,30
+1810,87,Massachusetts,Male,21
+1811,87,Ohio,Male,35
+1814,87,Illinois,Male,13
+1815,87,Massachusetts,Male,21
+1817,87,Ohio,Male,35
+1818,87,Florida,Male,9
+1819,87,Oregon,Male,37
+1820,87,California,Male,4
+1821,87,New York,Male,32
+1822,87,California,Male,4
+1824,88,Illinois,Other,13
+1825,88,Idaho,Other,12
+1826,88,Florida,Male,9
+1827,88,Michigan,Male,22
+1828,88,Ohio,Other,35
+1829,88,New Jersey,Male,30
+1830,88,New Jersey,Male,30
+1831,88,California,Male,4
+1832,88,Utah,Male,44
+1833,88,California,Other,4
+1834,88,Florida,Male,9
+1835,88,Texas,Male,43
+1836,88,New York,Male,32
+1837,88,Connecticut,Male,6
+1838,89,Massachusetts,Male,21
+1839,89,Massachusetts,Male,21
+1840,89,Massachusetts,Male,21
+1841,89,Michigan,Male,22
+1842,89,North Carolina,Male,33
+1843,89,Minnesota,Male,23
+1844,89,Idaho,Male,12
+1845,89,Rhode Island,Male,39
+1846,89,Massachusetts,Male,21
+1847,89,California,Male,4
+1848,89,Missouri,Male,25
+1849,89,Nevada,Male,28
+1850,89,Georgia,Male,10
+1851,89,Vermont,Male,45
+1852,89,Rhode Island,Male,39
+1853,89,Illinois,Male,13
+1854,89,Washington,Male,47
+1855,89,Ohio,Male,35
+1856,89,Wisconsin,Male,49
+1857,90,Texas,Male,43
+1858,90,Connecticut,Male,6
+1860,90,New York,Male,32
+1861,90,New York,Male,32
+1862,90,New Jersey,Other,30
+1864,90,Tennessee,Male,42
+1865,90,Georgia,Male,10
+1866,90,Colorado,Other,5
+1867,90,California,Other,4
+1868,90,Georgia,Male,10
+1869,90,New York,Other,32
+1870,90,California,Male,4
+1871,90,Indiana,Male,14
+1872,90,California,Male,4
+1874,91,Minnesota,Male,23
+1875,91,Wyoming,Male,50
+1876,91,Georgia,Male,10
+1878,91,Pennsylvania,Male,38
+1879,91,Idaho,Male,12
+1881,91,Indiana,Male,14
+1882,91,Colorado,Other,5
+1883,91,California,Other,4
+1884,91,Oregon,Male,37
+1885,91,Tennessee,Male,42
+1886,91,Texas,Male,43
+1887,91,Illinois,Male,13
+1888,91,Pennsylvania,Other,38
+1889,91,Oregon,Male,37
+1890,91,Idaho,Male,12
+1891,91,Illinois,Other,13
+1892,91,Massachusetts,Male,21
+1894,92,New Jersey,Male,30
+1895,92,Tennessee,Other,42
+1896,92,Washington,Male,47
+1897,92,Minnesota,Male,23
+1898,92,Pennsylvania,Male,38
+1899,92,Massachusetts,Male,21
+1900,92,Massachusetts,Male,21
+1901,92,District of Columbia,Male,8
+1902,92,Ohio,Male,35
+1903,92,Massachusetts,Male,21
+1904,92,Massachusetts,Male,21
+1905,92,Arizona,Other,2
+1906,92,Illinois,Male,13
+1908,92,Rhode Island,Male,39
+1909,92,Massachusetts,Male,21
+1910,92,Illinois,Male,13
+1911,92,Massachusetts,Male,21
+1912,92,Florida,Male,9
+1913,92,Ohio,Male,35
+1914,92,New York,Male,32
+1915,93,Idaho,Male,12
+1916,93,Rhode Island,Male,39
+1918,93,Tennessee,Male,42
+1919,93,Illinois,Male,13
+1920,93,Pennsylvania,Other,38
+1921,93,California,Male,4
+1922,93,Connecticut,Male,6
+1923,93,Michigan,Male,22
+1925,93,Colorado,Male,5
+1927,93,Florida,Male,9
+1928,93,Texas,Male,43
+1929,93,New York,Male,32
+1930,93,Virginia,Male,46
+1932,93,Minnesota,Male,23
+1933,93,New York,Male,32
+1934,93,Texas,Male,43
+1935,93,Colorado,Male,5
+1936,94,Delaware,Male,7
+1937,94,Oregon,Male,37
+1938,94,Ohio,Male,35
+1939,94,Massachusetts,Male,21
+1941,94,Louisiana,Male,18
+1942,94,Mississippi,Male,24
+1943,94,Idaho,Male,12
+1944,94,Texas,Male,43
+1945,94,California,Male,4
+1946,94,Louisiana,Male,18
+1947,94,Ohio,Male,35
+1948,94,Texas,Male,43
+1949,94,Massachusetts,Male,21
+1950,94,Georgia,Male,10
+1951,94,Louisiana,Other,18
+1952,94,California,Other,4
+1953,94,Pennsylvania,Male,38
+1954,94,Massachusetts,Male,21
+1955,94,Pennsylvania,Male,38
+1956,95,California,Male,4
+1957,95,Minnesota,Male,23
+1958,95,Pennsylvania,Male,38
+1959,95,Washington,Male,47
+1960,95,South Dakota,Male,41
+1961,95,Pennsylvania,Male,38
+1962,95,Michigan,Male,22
+1963,95,California,Male,4
+1964,95,North Carolina,Male,33
+1965,95,Massachusetts,Male,21
+1967,95,Connecticut,Male,6
+1968,95,Illinois,Male,13
+1969,95,Michigan,Male,22
+1970,95,Michigan,Male,22
+1971,95,South Carolina,Male,40
+1972,95,Michigan,Male,22
+1973,95,Iowa,Male,15
+1974,95,Tennessee,Male,42
+1975,95,Massachusetts,Male,21
+1976,95,Ohio,Male,35
+1977,95,Minnesota,Male,23
+1978,95,Ohio,Male,35
+1979,95,Michigan,Male,22
+1980,96,Massachusetts,Male,21
+1981,96,Michigan,Male,22
+1982,96,New York,Male,32
+1983,96,Illinois,Male,13
+1984,96,Georgia,Male,10
+1985,96,Florida,Other,9
+1986,96,California,Other,4
+1987,96,Wisconsin,Other,49
+1988,96,Missouri,Male,25
+1989,96,Indiana,Male,14
+1990,96,New York,Male,32
+1991,96,Pennsylvania,Male,38
+1992,96,Massachusetts,Male,21
+1994,96,New Mexico,Male,31
+1995,96,Tennessee,Male,42
+1996,96,Tennessee,Male,42
+1997,96,Florida,Male,9
+1998,96,West Virginia,Male,48
+1999,96,Indiana,Male,14
+2000,96,New Hampshire,Male,29
+2001,96,Massachusetts,Male,21
+2002,96,Pennsylvania,Other,38
+2003,97,Oregon,Male,37
+2005,97,North Carolina,Male,33
+2006,97,Illinois,Male,13
+2007,97,Illinois,Male,13
+2008,97,Massachusetts,Male,21
+2009,97,Idaho,Male,12
+2010,97,Washington,Male,47
+2011,97,Oregon,Male,37
+2012,97,Texas,Other,43
+2013,97,Rhode Island,Male,39
+2014,97,Massachusetts,Male,21
+2015,97,California,Male,4
+2016,97,Mississippi,Other,24
+2017,97,Illinois,Male,13
+2018,97,District of Columbia,Male,8
+2019,97,Massachusetts,Male,21
+2020,97,Iowa,Male,15
+2021,97,Nevada,Male,28
+2022,97,Ohio,Male,35
+2023,97,Oregon,Male,37
+2024,97,Massachusetts,Male,21
+2025,97,New York,Male,32
+2026,97,New York,Female,32
+2027,98,Illinois,Male,13
+2028,98,Nevada,Male,28
+2029,98,Pennsylvania,Male,38
+2030,98,Massachusetts,Other,21
+2031,98,North Carolina,Male,33
+2032,98,Massachusetts,Other,21
+2033,98,North Carolina,Male,33
+2034,98,New Hampshire,Male,29
+2035,98,Pennsylvania,Male,38
+2036,98,Illinois,Male,13
+2037,98,New York,Male,32
+2038,98,New Jersey,Male,30
+2039,98,Virginia,Male,46
+2040,98,Maine,Male,19
+2041,98,Massachusetts,Male,21
+2042,98,Massachusetts,Male,21
+2043,98,New Jersey,Male,30
+2044,98,South Carolina,Male,40
+2045,98,Massachusetts,Male,21
+2046,98,Massachusetts,Male,21
+2047,99,Pennsylvania,Male,38
+2048,99,Georgia,Male,10
+2049,99,Washington,Male,47
+2050,99,California,Male,4
+2051,99,New York,Male,32
+2052,99,New York,Other,32
+2053,99,Indiana,Male,14
+2054,99,Virginia,Male,46
+2055,99,Minnesota,Male,23
+2056,99,New Jersey,Other,30
+2057,99,Colorado,Male,5
+2058,99,New York,Male,32
+2059,99,West Virginia,Male,48
+2060,99,Massachusetts,Male,21
+2062,99,Kentucky,Male,17
+2063,99,Idaho,Male,12
+2064,99,New Jersey,Male,30
+2065,99,Florida,Male,9
+2066,99,North Carolina,Male,33
+2067,99,New Jersey,Male,30
+2068,99,California,Male,4
+2069,99,North Carolina,Male,33
+2070,100,Minnesota,Male,23
+2071,100,California,Male,4
+2072,100,New York,Other,32
+2073,100,Massachusetts,Male,21
+2074,100,West Virginia,Male,48
+2075,100,Illinois,Male,13
+2076,100,Indiana,Other,14
+2077,100,Ohio,Male,35
+2078,100,Minnesota,Other,23
+2079,100,Texas,Male,43
+2080,100,Michigan,Male,22
+2081,100,Wisconsin,Male,49
+2082,100,Wisconsin,Male,49
+2083,100,Texas,Male,43
+2084,100,Illinois,Male,13
+2085,100,Florida,Male,9
+2086,100,Florida,Male,9
+2087,100,Massachusetts,Male,21
+2088,101,Ohio,Male,35
+2089,101,North Carolina,Male,33
+2090,101,West Virginia,Male,48
+2091,101,Pennsylvania,Male,38
+2092,101,Massachusetts,Male,21
+2093,101,Massachusetts,Other,21
+2094,101,Pennsylvania,Male,38
+2095,101,Wisconsin,Male,49
+2096,101,Colorado,Male,5
+2097,101,Idaho,Male,12
+2098,101,Florida,Male,9
+2099,101,Texas,Male,43
+2100,101,Massachusetts,Male,21
+2101,101,Pennsylvania,Male,38
+2102,101,Pennsylvania,Male,38
+2103,101,North Carolina,Male,33
+2104,101,Virginia,Male,46
+2105,101,Indiana,Male,14
+2106,101,Pennsylvania,Male,38
+2107,101,Massachusetts,Male,21
+2108,101,Washington,Male,47
+2109,101,Oklahoma,Male,36
+2110,101,Illinois,Male,13
+2111,102,Massachusetts,Male,21
+2112,102,New York,Male,32
+2113,102,Pennsylvania,Other,38
+2114,102,New Jersey,Male,30
+2115,102,Pennsylvania,Male,38
+2116,102,Massachusetts,Male,21
+2117,102,Massachusetts,Male,21
+2118,102,Virginia,Male,46
+2119,102,Massachusetts,Male,21
+2120,102,Vermont,Male,45
+2121,102,Rhode Island,Male,39
+2122,102,Massachusetts,Male,21
+2123,102,Arizona,Other,2
+2124,102,California,Male,4
+2125,102,Illinois,Male,13
+2126,102,Florida,Male,9
+2127,102,Ohio,Male,35
+2128,102,Ohio,Male,35
+2129,102,Colorado,Male,5
+2130,102,Minnesota,Male,23
+2131,102,Virginia,Male,46
+2132,102,New York,Male,32
+2133,103,New York,Male,32
+2134,103,Colorado,Male,5
+2135,103,New Jersey,Other,30
+2136,103,Maine,Male,19
+2137,103,Massachusetts,Other,21
+2138,103,Pennsylvania,Other,38
+2139,103,Pennsylvania,Male,38
+2140,103,South Carolina,Male,40
+2141,103,New Hampshire,Male,29
+2142,103,Massachusetts,Other,21
+2144,103,New York,Male,32
+2145,103,Massachusetts,Male,21
+2147,103,Ohio,Male,35
+2148,103,North Carolina,Male,33
+2149,103,Hawaii,Male,11
+2150,103,Illinois,Male,13
+2151,103,Rhode Island,Male,39
+2152,103,Illinois,Male,13
+2153,103,New Hampshire,Male,29
+2154,103,Massachusetts,Male,21
+2155,103,New Hampshire,Male,29
+2156,104,Connecticut,Other,6
+2157,104,Maryland,Male,20
+2158,104,Minnesota,Male,23
+2159,104,Tennessee,Male,42
+2160,104,Massachusetts,Male,21
+2161,104,Indiana,Other,14
+2163,104,New Jersey,Other,30
+2164,104,Indiana,Male,14
+2165,104,Illinois,Male,13
+2166,104,Texas,Male,43
+2167,104,New Jersey,Male,30
+2168,104,Massachusetts,Male,21
+2169,104,Massachusetts,Male,21
+2170,104,Minnesota,Male,23
+2171,104,Washington,Other,47
+2172,104,Illinois,Male,13
+2173,104,Washington,Male,47
+2174,104,Illinois,Male,13
+2175,104,Georgia,Male,10
+2176,104,Massachusetts,Male,21
+2177,105,Texas,Male,43
+2178,105,Indiana,Male,14
+2179,105,Tennessee,Female,42
+2180,105,Massachusetts,Male,21
+2181,105,Texas,Male,43
+2182,105,Massachusetts,Male,21
+2183,105,Minnesota,Male,23
+2184,105,Missouri,Male,25
+2185,105,Michigan,Other,22
+2186,105,Oklahoma,Male,36
+2187,105,Texas,Male,43
+2188,105,Illinois,Male,13
+2189,105,Massachusetts,Male,21
+2190,105,Rhode Island,Male,39
+2191,105,Iowa,Male,15
+2192,105,Iowa,Male,15
+2193,105,Illinois,Male,13
+2194,105,Oklahoma,Male,36
+2195,105,Tennessee,Male,42
+2196,106,Minnesota,Male,23
+2197,106,Tennessee,Male,42
+2198,106,California,Male,4
+2199,106,Pennsylvania,Male,38
+2200,106,Massachusetts,Male,21
+2201,106,Massachusetts,Male,21
+2202,106,Rhode Island,Other,39
+2203,106,Nevada,Male,28
+2204,106,Connecticut,Other,6
+2205,106,California,Male,4
+2206,106,New Hampshire,Male,29
+2207,106,New Hampshire,Male,29
+2209,106,New Jersey,Male,30
+2210,106,Illinois,Male,13
+2211,106,Massachusetts,Male,21
+2212,106,Ohio,Male,35
+2213,106,New York,Male,32
+2214,106,Massachusetts,Male,21
+2215,106,New Jersey,Male,30
+2216,106,North Carolina,Male,33
+2217,107,Texas,Male,43
+2219,107,Ohio,Male,35
+2220,107,Washington,Male,47
+2221,107,Rhode Island,Male,39
+2222,107,Massachusetts,Male,21
+2223,107,Vermont,Other,45
+2224,107,New York,Male,32
+2225,107,New Jersey,Male,30
+2226,107,Illinois,Male,13
+2228,107,New Jersey,Male,30
+2230,107,Massachusetts,Male,21
+2231,107,Massachusetts,Male,21
+2232,107,Massachusetts,Male,21
+2233,107,Vermont,Male,45
+2235,107,Texas,Male,43
+2236,107,Florida,Male,9
+2237,107,Arizona,Male,2
+2238,107,Massachusetts,Male,21
+2239,107,Pennsylvania,Male,38
+2242,108,Ohio,Male,35
+2243,108,Michigan,Male,22
+2244,108,Washington,Male,47
+2245,108,New York,Other,32
+2246,108,Virginia,Male,46
+2247,108,Illinois,Male,13
+2248,108,Virginia,Male,46
+2249,108,California,Male,4
+2250,108,Pennsylvania,Male,38
+2251,108,Illinois,Male,13
+2252,108,New York,Male,32
+2253,108,Florida,Male,9
+2254,108,South Carolina,Male,40
+2255,108,Michigan,Male,22
+2256,108,New Jersey,Male,30
+2258,108,Iowa,Male,15
+2259,108,Alabama,Male,0
+2260,108,Vermont,Male,45
+2261,108,Idaho,Male,12
+2262,108,Massachusetts,Male,21
+2264,108,Pennsylvania,Male,38
+2265,109,Arizona,Male,2
+2266,109,New York,Male,32
+2267,109,Iowa,Male,15
+2268,109,Virginia,Other,46
+2269,109,Pennsylvania,Other,38
+2270,109,Maine,Male,19
+2271,109,New York,Male,32
+2272,109,New York,Male,32
+2273,109,Washington,Male,47
+2274,109,Virginia,Male,46
+2275,109,North Carolina,Male,33
+2276,109,New Jersey,Male,30
+2277,109,Georgia,Male,10
+2278,109,Florida,Male,9
+2279,109,New Hampshire,Other,29
+2280,109,Texas,Male,43
+2281,109,Florida,Male,9
+2282,109,North Carolina,Male,33
+2283,109,Massachusetts,Male,21
+2284,109,Illinois,Male,13
+2285,109,Pennsylvania,Other,38
+2286,110,Massachusetts,Male,21
+2287,110,Colorado,Other,5
+2288,110,Washington,Male,47
+2289,110,Tennessee,Male,42
+2290,110,Alabama,Male,0
+2291,110,Minnesota,Male,23
+2292,110,Massachusetts,Male,21
+2293,110,Massachusetts,Male,21
+2294,110,California,Male,4
+2295,110,Minnesota,Male,23
+2296,110,Ohio,Male,35
+2297,110,Illinois,Male,13
+2298,110,California,Male,4
+2299,110,Pennsylvania,Other,38
+2300,110,Ohio,Male,35
+2302,110,Florida,Male,9
+2303,110,Massachusetts,Male,21
+2304,110,Connecticut,Male,6
+2305,110,Rhode Island,Male,39
+2306,110,Georgia,Male,10
+2307,110,Massachusetts,Male,21
+2308,110,North Carolina,Male,33
+2309,111,California,Male,4
+2310,111,Massachusetts,Male,21
+2311,111,Michigan,Male,22
+2312,111,Pennsylvania,Male,38
+2313,111,Nevada,Male,28
+2314,111,Maryland,Male,20
+2315,111,California,Other,4
+2316,111,Massachusetts,Male,21
+2317,111,Massachusetts,Male,21
+2318,111,Massachusetts,Male,21
+2319,111,Virginia,Male,46
+2320,111,Massachusetts,Male,21
+2321,111,Massachusetts,Male,21
+2322,111,Maine,Male,19
+2323,111,New Jersey,Male,30
+2324,111,Maryland,Male,20
+2325,111,Connecticut,Male,6
+2326,111,Georgia,Male,10
+2327,111,Massachusetts,Male,21
+2328,111,Ohio,Male,35
+2329,112,New York,Male,32
+2330,112,Georgia,Male,10
+2331,112,New York,Male,32
+2332,112,Rhode Island,Male,39
+2333,112,Minnesota,Male,23
+2334,112,Connecticut,Male,6
+2335,112,Massachusetts,Male,21
+2337,112,Massachusetts,Male,21
+2338,112,New Jersey,Male,30
+2339,112,New Jersey,Male,30
+2340,112,New Jersey,Male,30
+2341,112,New Jersey,Male,30
+2342,112,California,Male,4
+2343,112,New Jersey,Male,30
+2344,112,Colorado,Male,5
+2345,112,Florida,Male,9
+2346,112,Virginia,Male,46
+2347,112,Colorado,Male,5
+2348,112,Massachusetts,Male,21
+2349,112,Arizona,Other,2
+2350,112,New Jersey,Male,30
+2351,113,California,Male,4
+2352,113,New York,Other,32
+2353,113,Ohio,Male,35
+2354,113,Illinois,Other,13
+2355,113,Massachusetts,Male,21
+2356,113,Idaho,Male,12
+2357,113,Rhode Island,Male,39
+2358,113,Nevada,Male,28
+2359,113,Massachusetts,Male,21
+2360,113,Missouri,Male,25
+2361,113,Illinois,Male,13
+2362,113,Rhode Island,Male,39
+2363,113,North Carolina,Male,33
+2364,113,Florida,Male,9
+2365,113,Massachusetts,Male,21
+2366,113,Missouri,Male,25
+2367,113,California,Male,4
+2368,113,California,Male,4
+2369,113,California,Male,4
+2370,113,California,Male,4
+2371,113,Wisconsin,Male,49
+2372,114,Pennsylvania,Male,38
+2373,114,California,Male,4
+2374,114,Idaho,Male,12
+2375,114,Georgia,Male,10
+2376,114,Washington,Male,47
+2377,114,Minnesota,Male,23
+2378,114,Ohio,Male,35
+2379,114,Illinois,Male,13
+2380,114,Missouri,Male,25
+2381,114,Alabama,Male,0
+2382,114,Minnesota,Male,23
+2383,114,Rhode Island,Male,39
+2384,114,Indiana,Male,14
+2385,114,Massachusetts,Male,21
+2386,114,Maryland,Male,20
+2387,114,Illinois,Male,13
+2389,114,New Jersey,Male,30
+2390,114,Massachusetts,Male,21
+2391,114,California,Male,4
+2392,114,Pennsylvania,Other,38
+2393,114,Indiana,Male,14
+2394,114,Michigan,Male,22
+2395,115,Minnesota,Male,23
+2396,115,Idaho,Male,12
+2397,115,Massachusetts,Male,21
+2398,115,Arizona,Other,2
+2400,115,Ohio,Male,35
+2401,115,Massachusetts,Male,21
+2402,115,Rhode Island,Male,39
+2403,115,New Jersey,Male,30
+2404,115,Colorado,Male,5
+2405,115,Iowa,Male,15
+2406,115,Illinois,Male,13
+2407,115,California,Male,4
+2408,115,Florida,Male,9
+2409,115,Florida,Male,9
+2410,115,North Carolina,Male,33
+2411,115,Minnesota,Male,23
+2413,115,Virginia,Male,46
+2414,116,Idaho,Male,12
+2415,116,Colorado,Male,5
+2416,116,New York,Male,32
+2417,116,Ohio,Male,35
+2418,116,Michigan,Other,22
+2419,116,New York,Male,32
+2420,116,Massachusetts,Male,21
+2421,116,Massachusetts,Male,21
+2422,116,California,Male,4
+2423,116,Illinois,Male,13
+2424,116,New Jersey,Male,30
+2425,116,Rhode Island,Male,39
+2426,116,New York,Male,32
+2427,116,Missouri,Male,25
+2428,116,Iowa,Male,15
+2429,116,Wisconsin,Male,49
+2430,116,Iowa,Male,15
+2431,116,Nebraska,Male,27
+2432,116,Massachusetts,Male,21
+2433,117,California,Male,4
+2434,117,Michigan,Other,22
+2435,117,Massachusetts,Male,21
+2436,117,Idaho,Male,12
+2437,117,Virginia,Other,46
+2438,117,Nebraska,Male,27
+2439,117,Louisiana,Male,18
+2440,117,Pennsylvania,Male,38
+2441,117,New York,Other,32
+2442,117,Alabama,Male,0
+2443,117,Oklahoma,Male,36
+2444,117,Texas,Male,43
+2445,117,New York,Male,32
+2446,117,Kentucky,Male,17
+2447,117,Florida,Male,9
+2448,117,Washington,Other,47
+2449,117,Georgia,Male,10
+2450,117,Maryland,Male,20
+2451,117,New York,Male,32
+2452,118,Pennsylvania,Male,38
+2453,118,New Jersey,Male,30
+2454,118,Florida,Male,9
+2455,118,Missouri,Male,25
+2456,118,Virginia,Other,46
+2457,118,South Carolina,Other,40
+2458,118,South Carolina,Male,40
+2459,118,Indiana,Male,14
+2460,118,North Carolina,Male,33
+2461,118,Michigan,Male,22
+2462,118,Massachusetts,Male,21
+2463,118,South Carolina,Male,40
+2464,118,Colorado,Male,5
+2465,118,Illinois,Male,13
+2466,118,Maryland,Male,20
+2467,118,Massachusetts,Male,21
+2468,118,Michigan,Male,22
+2469,118,New Hampshire,Male,29
+2470,118,Pennsylvania,Other,38
+2471,119,New Jersey,Male,30
+2472,119,Colorado,Male,5
+2474,119,Illinois,Male,13
+2475,119,California,Male,4
+2476,119,Virginia,Male,46
+2477,119,New Jersey,Male,30
+2478,119,Minnesota,Male,23
+2479,119,New Jersey,Male,30
+2480,119,Colorado,Other,5
+2481,119,Texas,Male,43
+2482,119,Colorado,Male,5
+2483,119,New York,Male,32
+2484,119,Massachusetts,Male,21
+2485,119,Maryland,Male,20
+2486,119,New Jersey,Male,30
+2487,119,Missouri,Male,25
+2488,119,California,Other,4
+2489,119,California,Other,4
+2490,119,Massachusetts,Male,21
+2491,119,California,Male,4
+2492,119,Minnesota,Other,23
+2493,120,Vermont,Male,45
+2495,120,Massachusetts,Male,21
+2496,120,Rhode Island,Male,39
+2497,120,Massachusetts,Male,21
+2498,120,North Carolina,Male,33
+2499,120,New York,Male,32
+2500,120,Nebraska,Male,27
+2501,120,Minnesota,Male,23
+2502,120,California,Male,4
+2503,120,Massachusetts,Male,21
+2504,120,Illinois,Male,13
+2505,120,California,Male,4
+2506,120,Nevada,Male,28
+2507,120,Georgia,Male,10
+2508,120,Alabama,Male,0
+2509,120,Illinois,Male,13
+2510,120,Pennsylvania,Other,38
+2511,120,Missouri,Male,25
+2512,120,New York,Male,32
+2513,120,Kansas,Male,16
+2514,121,California,Male,4
+2515,121,Washington,Female,47
+2516,121,Illinois,Male,13
+2517,121,Ohio,Male,35
+2518,121,Minnesota,Male,23
+2519,121,California,Male,4
+2520,121,Georgia,Male,10
+2521,121,Texas,Male,43
+2522,121,Massachusetts,Male,21
+2523,121,Minnesota,Male,23
+2524,121,New Jersey,Male,30
+2525,121,Colorado,Male,5
+2526,121,California,Male,4
+2527,121,West Virginia,Male,48
+2528,121,Connecticut,Male,6
+2529,121,Massachusetts,Male,21
+2530,121,Pennsylvania,Other,38
+2531,121,New York,Male,32
+2532,121,Arizona,Male,2
+2533,121,Minnesota,Male,23
+2534,121,Iowa,Male,15
+2536,121,Illinois,Male,13
+2537,121,Wisconsin,Male,49
+2538,121,Oregon,Male,37
+2539,122,Minnesota,Male,23
+2540,122,Massachusetts,Male,21
+2541,122,Texas,Male,43
+2542,122,Illinois,Male,13
+2543,122,Washington,Male,47
+2544,122,Ohio,Male,35
+2546,122,Colorado,Male,5
+2549,122,California,Male,4
+2550,122,Massachusetts,Male,21
+2551,122,New Jersey,Male,30
+2552,122,Colorado,Male,5
+2553,122,California,Male,4
+2554,122,Nevada,Male,28
+2555,122,Illinois,Male,13
+2556,122,Iowa,Male,15
+2557,122,Vermont,Other,45
+2558,122,Florida,Male,9
+2559,122,Massachusetts,Male,21
+2561,122,Rhode Island,Male,39
+2562,123,Illinois,Male,13
+2563,123,New Jersey,Male,30
+2564,123,Wisconsin,Male,49
+2565,123,Indiana,Male,14
+2566,123,Idaho,Male,12
+2567,123,Tennessee,Male,42
+2568,123,New York,Male,32
+2569,123,California,Male,4
+2570,123,Washington,Male,47
+2571,123,New Jersey,Other,30
+2572,123,Massachusetts,Male,21
+2573,123,Michigan,Male,22
+2574,123,Texas,Male,43
+2575,123,Ohio,Male,35
+2576,123,Florida,Male,9
+2577,123,Ohio,Male,35
+2578,123,Texas,Male,43
+2579,123,Virginia,Male,46
+2581,123,Massachusetts,Male,21
+2583,124,California,Male,4
+2584,124,Massachusetts,Male,21
+2585,124,Tennessee,Male,42
+2586,124,New York,Male,32
+2587,124,New York,Male,32
+2588,124,New York,Male,32
+2589,124,Massachusetts,Other,21
+2590,124,Pennsylvania,Male,38
+2591,124,New York,Male,32
+2592,124,New Jersey,Other,30
+2593,124,New Hampshire,Male,29
+2594,124,Pennsylvania,Male,38
+2595,124,New Hampshire,Male,29
+2596,124,Connecticut,Male,6
+2597,124,New York,Male,32
+2598,124,New Jersey,Male,30
+2600,124,New Jersey,Male,30
+2601,125,Massachusetts,Male,21
+2602,125,Virginia,Male,46
+2603,125,Wisconsin,Male,49
+2604,125,Wisconsin,Male,49
+2605,125,Nevada,Male,28
+2606,125,New York,Male,32
+2607,125,Illinois,Male,13
+2608,125,New Hampshire,Male,29
+2609,125,Pennsylvania,Male,38
+2610,125,Massachusetts,Male,21
+2611,125,Rhode Island,Male,39
+2612,125,California,Other,4
+2613,125,Massachusetts,Male,21
+2614,125,Illinois,Male,13
+2615,125,Maryland,Male,20
+2616,125,Massachusetts,Male,21
+2617,125,Virginia,Male,46
+2618,125,New York,Male,32
+2619,126,Massachusetts,Male,21
+2620,126,New York,Male,32
+2621,126,California,Male,4
+2622,126,Rhode Island,Male,39
+2623,126,Illinois,Male,13
+2624,126,New York,Male,32
+2625,126,New York,Male,32
+2626,126,Connecticut,Male,6
+2627,126,Massachusetts,Male,21
+2628,126,Massachusetts,Male,21
+2629,126,Massachusetts,Male,21
+2630,126,Alabama,Male,0
+2631,126,Massachusetts,Male,21
+2632,126,New Hampshire,Male,29
+2633,126,Illinois,Male,13
+2634,126,Massachusetts,Male,21
+2635,126,Massachusetts,Male,21
+2636,126,Florida,Male,9
+2637,126,Arizona,Male,2
+2638,126,Connecticut,Male,6
+2639,127,Illinois,Male,13
+2640,127,Rhode Island,Male,39
+2641,127,Iowa,Male,15
+2642,127,South Carolina,Male,40
+2643,127,Rhode Island,Male,39
+2644,127,New York,Male,32
+2645,127,Pennsylvania,Male,38
+2646,127,Georgia,Male,10
+2647,127,New York,Male,32
+2648,127,California,Male,4
+2649,127,District of Columbia,Male,8
+2650,127,New Jersey,Male,30
+2651,127,New York,Male,32
+2652,127,Illinois,Male,13
+2653,127,Ohio,Male,35
+2654,127,Wisconsin,Male,49
+2655,127,California,Male,4
+2656,127,Florida,Male,9
+2657,127,New York,Male,32
+2658,127,Ohio,Other,35
+2659,127,Ohio,Male,35
+2660,127,Oregon,Male,37
+2661,127,Florida,Male,9
+2662,128,New Jersey,Male,30
+2663,128,Ohio,Other,35
+2664,128,Massachusetts,Male,21
+2665,128,Massachusetts,Male,21
+2666,128,Wisconsin,Other,49
+2667,128,Pennsylvania,Male,38
+2668,128,Washington,Male,47
+2669,128,New York,Male,32
+2670,128,West Virginia,Male,48
+2671,128,New York,Other,32
+2672,128,New Jersey,Male,30
+2673,128,California,Other,4
+2674,128,Indiana,Male,14
+2675,128,New Jersey,Male,30
+2676,128,New Jersey,Male,30
+2677,128,Ohio,Male,35
+2678,128,California,Male,4
+2679,128,Pennsylvania,Male,38
+2680,128,New Jersey,Male,30
+2681,128,New York,Other,32
+2682,128,Pennsylvania,Male,38
+2684,128,North Carolina,Male,33
+2685,129,Arizona,Male,2
+2686,129,Missouri,Male,25
+2687,129,Michigan,Male,22
+2688,129,Missouri,Male,25
+2689,129,Minnesota,Male,23
+2690,129,Texas,Male,43
+2691,129,South Dakota,Male,41
+2692,129,Massachusetts,Male,21
+2693,129,Wyoming,Male,50
+2694,129,Illinois,Other,13
+2695,129,Washington,Male,47
+2696,129,California,Male,4
+2697,129,North Carolina,Male,33
+2698,129,Pennsylvania,Male,38
+2699,129,Illinois,Male,13
+2700,129,Ohio,Male,35
+2701,129,Minnesota,Male,23
+2702,129,Ohio,Male,35
+2703,129,Ohio,Male,35
+2704,129,Vermont,Male,45
+2705,129,Missouri,Male,25
+2706,130,Illinois,Male,13
+2707,130,Minnesota,Male,23
+2708,130,Oregon,Male,37
+2709,130,Indiana,Male,14
+2710,130,Illinois,Male,13
+2712,130,Illinois,Female,13
+2713,130,Oklahoma,Male,36
+2714,130,Texas,Male,43
+2715,130,Ohio,Other,35
+2716,130,Idaho,Male,12
+2717,130,Indiana,Male,14
+2718,130,Massachusetts,Male,21
+2719,130,Pennsylvania,Other,38
+2720,130,Georgia,Male,10
+2721,130,Ohio,Male,35
+2722,130,Illinois,Male,13
+2723,130,Pennsylvania,Male,38
+2724,130,Ohio,Male,35
+2725,130,South Carolina,Male,40
+2727,131,Vermont,Other,45
+2728,131,Illinois,Male,13
+2729,131,Ohio,Male,35
+2730,131,Oregon,Male,37
+2731,131,Wisconsin,Male,49
+2732,131,Idaho,Male,12
+2733,131,Washington,Male,47
+2734,131,Kentucky,Male,17
+2735,131,Missouri,Male,25
+2736,131,Missouri,Male,25
+2737,131,New York,Male,32
+2738,131,Kentucky,Male,17
+2739,131,Ohio,Male,35
+2740,131,Alaska,Male,1
+2741,132,Massachusetts,Male,21
+2742,132,Oregon,Male,37
+2743,132,Michigan,Male,22
+2744,132,Pennsylvania,Other,38
+2745,132,New Hampshire,Male,29
+2746,132,New York,Male,32
+2747,132,Illinois,Male,13
+2748,132,New York,Male,32
+2749,132,New York,Male,32
+2750,132,New York,Other,32
+2751,132,Colorado,Male,5
+2752,132,Massachusetts,Male,21
+2754,132,Tennessee,Male,42
+2755,132,New York,Other,32
+2756,132,Connecticut,Male,6
+2757,132,Pennsylvania,Male,38
+2758,132,New Jersey,Male,30
+2759,132,Massachusetts,Male,21
+2760,132,New York,Male,32
+2761,132,New York,Male,32
+2762,132,New York,Male,32
+2763,132,New York,Male,32
+2764,133,Massachusetts,Male,21
+2765,133,New York,Male,32
+2766,133,New Hampshire,Male,29
+2767,133,New Jersey,Other,30
+2768,133,Wisconsin,Male,49
+2769,133,Wisconsin,Male,49
+2770,133,New York,Male,32
+2771,133,New Jersey,Male,30
+2772,133,New Jersey,Other,30
+2773,133,Illinois,Male,13
+2774,133,New York,Male,32
+2775,133,Massachusetts,Other,21
+2776,133,Massachusetts,Male,21
+2777,133,New York,Other,32
+2778,133,Pennsylvania,Male,38
+2779,133,Indiana,Male,14
+2780,133,New Hampshire,Male,29
+2781,133,New Jersey,Male,30
+2782,133,New Jersey,Male,30
+2783,133,Minnesota,Male,23
+2784,134,Minnesota,Male,23
+2785,134,New York,Male,32
+2786,134,New York,Other,32
+2787,134,New York,Male,32
+2788,134,Minnesota,Male,23
+2789,134,Connecticut,Male,6
+2790,134,Alabama,Male,0
+2791,134,New York,Male,32
+2792,134,New York,Male,32
+2793,134,New York,Male,32
+2794,134,Indiana,Male,14
+2795,134,Massachusetts,Male,21
+2796,134,New York,Male,32
+2797,134,South Carolina,Male,40
+2798,134,New Jersey,Male,30
+2799,134,New York,Male,32
+2800,134,New York,Female,32
+2801,134,New York,Male,32
+2802,135,New York,Other,32
+2803,135,Maryland,Male,20
+2804,135,Minnesota,Male,23
+2805,135,Connecticut,Male,6
+2806,135,Colorado,Male,5
+2807,135,New York,Other,32
+2808,135,Connecticut,Male,6
+2809,135,New Hampshire,Male,29
+2810,135,New York,Male,32
+2811,135,Massachusetts,Male,21
+2812,135,Massachusetts,Male,21
+2813,135,Massachusetts,Male,21
+2814,135,Ohio,Male,35
+2815,135,Pennsylvania,Male,38
+2816,135,Vermont,Male,45
+2817,135,California,Male,4
+2818,135,New Jersey,Male,30
+2819,135,District of Columbia,Male,8
+2820,135,District of Columbia,Male,8
+2821,135,Pennsylvania,Other,38
+2822,135,Florida,Other,9
+2824,135,Tennessee,Male,42
+2825,135,Texas,Male,43
+2826,135,Massachusetts,Male,21
+2827,136,Pennsylvania,Male,38
+2828,136,New York,Male,32
+2829,136,Alabama,Male,0
+2830,136,Rhode Island,Male,39
+2831,136,Massachusetts,Male,21
+2832,136,Massachusetts,Male,21
+2833,136,Arizona,Other,2
+2834,136,New York,Male,32
+2835,136,New York,Male,32
+2836,136,Massachusetts,Male,21
+2837,136,New Jersey,Male,30
+2838,136,New Hampshire,Male,29
+2839,136,Iowa,Male,15
+2840,136,New Jersey,Male,30
+2841,136,Illinois,Male,13
+2842,136,New Jersey,Male,30
+2843,136,Idaho,Male,12
+2844,136,Mississippi,Other,24
+2845,137,Massachusetts,Male,21
+2846,137,New Mexico,Male,31
+2847,137,Nevada,Male,28
+2848,137,New York,Male,32
+2849,137,Virginia,Male,46
+2850,137,Illinois,Male,13
+2851,137,Pennsylvania,Male,38
+2852,137,Arizona,Male,2
+2853,137,South Carolina,Male,40
+2855,137,Illinois,Male,13
+2856,137,Nevada,Male,28
+2858,137,Washington,Other,47
+2859,137,Ohio,Male,35
+2860,137,Illinois,Male,13
+2861,137,Ohio,Male,35
+2863,138,Maine,Male,19
+2864,138,Maryland,Male,20
+2865,138,California,Male,4
+2867,138,Illinois,Male,13
+2868,138,Pennsylvania,Male,38
+2869,138,Pennsylvania,Male,38
+2870,138,Indiana,Male,14
+2871,138,Texas,Male,43
+2872,138,Michigan,Male,22
+2873,138,South Carolina,Male,40
+2874,138,Colorado,Male,5
+2875,138,Nevada,Male,28
+2876,138,New York,Other,32
+2877,138,New Jersey,Male,30
+2878,138,California,Male,4
+2879,138,Indiana,Male,14
+2880,138,Wisconsin,Male,49
+2881,138,Minnesota,Male,23
+2884,138,California,Male,4
+2885,138,New York,Male,32
+2886,139,Idaho,Male,12
+2887,139,Ohio,Male,35
+2888,139,Illinois,Male,13
+2889,139,Alabama,Male,0
+2890,139,Idaho,Male,12
+2891,139,Indiana,Male,14
+2892,139,Minnesota,Male,23
+2894,139,California,Male,4
+2895,139,Michigan,Male,22
+2896,139,North Carolina,Male,33
+2897,139,Pennsylvania,Male,38
+2898,139,Ohio,Male,35
+2899,139,Rhode Island,Male,39
+2900,139,Pennsylvania,Other,38
+2901,139,Indiana,Male,14
+2902,139,Ohio,Male,35
+2903,139,Illinois,Male,13
+2904,139,Iowa,Male,15
+2905,139,Wisconsin,Male,49
+2906,139,Illinois,Male,13
+2907,139,Nevada,Male,28
+2908,140,Missouri,Other,25
+2909,140,Washington,Male,47
+2910,140,Minnesota,Male,23
+2911,140,Michigan,Male,22
+2912,140,Ohio,Male,35
+2913,140,New York,Other,32
+2914,140,Pennsylvania,Male,38
+2915,140,Ohio,Male,35
+2916,140,North Carolina,Male,33
+2917,140,Texas,Male,43
+2918,140,Michigan,Male,22
+2919,140,Colorado,Male,5
+2920,140,Idaho,Male,12
+2921,140,New Mexico,Male,31
+2923,140,Wisconsin,Male,49
+2924,140,South Dakota,Male,41
+2925,140,Illinois,Other,13
+2926,140,Wyoming,Male,50
+2927,140,Virginia,Male,46
+2928,140,South Carolina,Male,40
+2929,141,Michigan,Male,22
+2930,141,New York,Male,32
+2931,141,Tennessee,Male,42
+2932,141,Georgia,Male,10
+2933,141,Illinois,Male,13
+2934,141,Maryland,Male,20
+2935,141,Washington,Male,47
+2936,141,Pennsylvania,Male,38
+2937,141,Tennessee,Male,42
+2938,141,California,Male,4
+2939,141,Illinois,Male,13
+2940,141,Michigan,Other,22
+2941,141,Washington,Male,47
+2942,141,West Virginia,Male,48
+2943,141,Illinois,Male,13
+2944,141,Virginia,Male,46
+2945,141,Massachusetts,Male,21
+2946,141,Indiana,Male,14
+2947,141,South Dakota,Male,41
+2948,141,Kentucky,Male,17
+2949,141,Illinois,Male,13
+2950,141,Colorado,Male,5
+2951,142,Virginia,Male,46
+2952,142,New Jersey,Male,30
+2953,142,California,Male,4
+2954,142,Tennessee,Other,42
+2955,142,New York,Male,32
+2956,142,Wisconsin,Male,49
+2957,142,Minnesota,Male,23
+2959,142,Ohio,Male,35
+2960,142,Oregon,Male,37
+2961,142,Illinois,Male,13
+2962,142,New York,Male,32
+2963,142,New York,Male,32
+2964,142,Minnesota,Male,23
+2965,142,California,Male,4
+2966,142,New York,Male,32
+2967,142,Texas,Other,43
+2968,142,Massachusetts,Male,21
+2969,142,South Carolina,Male,40
+2970,142,New Hampshire,Male,29
+2971,142,Massachusetts,Male,21
+2972,142,California,Male,4
+2973,143,Illinois,Male,13
+2974,143,New York,Male,32
+2975,143,Illinois,Male,13
+2976,143,Illinois,Male,13
+2977,143,Virginia,Male,46
+2978,143,Connecticut,Male,6
+2979,143,Minnesota,Male,23
+2980,143,Massachusetts,Male,21
+2981,143,North Carolina,Male,33
+2982,143,New York,Male,32
+2983,143,Massachusetts,Male,21
+2984,143,New York,Other,32
+2985,143,Alabama,Male,0
+2987,143,Pennsylvania,Male,38
+2988,143,Michigan,Other,22
+2989,143,New York,Male,32
+2990,143,New Jersey,Male,30
+2991,143,New York,Other,32
+2992,143,New York,Male,32
+2993,143,New York,Male,32
+2994,144,Connecticut,Other,6
+2995,144,New York,Male,32
+2996,144,Illinois,Male,13
+2997,144,Minnesota,Male,23
+2998,144,Illinois,Male,13
+2999,144,North Carolina,Male,33
+3000,144,Indiana,Male,14
+3001,144,California,Male,4
+3003,144,Indiana,Male,14
+3004,144,Indiana,Male,14
+3005,144,South Carolina,Male,40
+3006,144,New York,Male,32
+3007,144,Pennsylvania,Other,38
+3008,144,New York,Male,32
+3009,144,Massachusetts,Male,21
+3010,144,Indiana,Other,14
+3011,144,New York,Other,32
+3012,144,Massachusetts,Male,21
+3013,144,New Hampshire,Male,29
+3014,144,Ohio,Male,35
+3015,144,Rhode Island,Male,39
+3016,144,Ohio,Male,35
+3017,144,Vermont,Other,45
+3018,145,Colorado,Other,5
+3019,145,Minnesota,Male,23
+3020,145,New York,Male,32
+3022,145,New Jersey,Male,30
+3023,145,Massachusetts,Male,21
+3024,145,Virginia,Male,46
+3025,145,Vermont,Male,45
+3026,145,Illinois,Male,13
+3027,145,Massachusetts,Male,21
+3028,145,Ohio,Male,35
+3029,145,Illinois,Male,13
+3031,145,Florida,Male,9
+3032,145,Ohio,Male,35
+3033,145,Florida,Male,9
+3034,145,Iowa,Male,15
+3035,145,Rhode Island,Male,39
+3036,145,Texas,Male,43
+3037,145,Illinois,Male,13
+3039,145,Massachusetts,Male,21
+3040,145,Iowa,Male,15
+3041,146,Maine,Male,19
+3042,146,Wisconsin,Male,49
+3043,146,Massachusetts,Male,21
+3044,146,New Jersey,Male,30
+3045,146,Ohio,Male,35
+3046,146,Rhode Island,Male,39
+3047,146,North Carolina,Male,33
+3048,146,Utah,Male,44
+3049,146,California,Male,4
+3050,146,Massachusetts,Male,21
+3051,146,New Hampshire,Male,29
+3052,146,Massachusetts,Male,21
+3053,146,Connecticut,Male,6
+3055,146,California,Male,4
+3057,146,Illinois,Male,13
+3058,146,New Hampshire,Male,29
+3059,146,Illinois,Male,13
+3060,146,New York,Male,32
+3061,147,New York,Other,32
+3062,147,Massachusetts,Male,21
+3063,147,California,Male,4
+3064,147,Minnesota,Male,23
+3065,147,New Jersey,Other,30
+3066,147,Virginia,Male,46
+3067,147,Washington,Male,47
+3068,147,Missouri,Male,25
+3069,147,New York,Male,32
+3070,147,New Jersey,Male,30
+3071,147,Illinois,Male,13
+3072,147,Oregon,Male,37
+3073,147,New York,Male,32
+3074,147,Massachusetts,Other,21
+3075,147,Colorado,Male,5
+3076,147,New York,Male,32
+3077,147,Massachusetts,Other,21
+3078,147,New Jersey,Male,30
+3079,147,Massachusetts,Male,21
+3080,147,Maine,Other,19
+3081,147,South Carolina,Male,40
+3083,148,Virginia,Male,46
+3084,148,Illinois,Male,13
+3085,148,Colorado,Other,5
+3086,148,Minnesota,Male,23
+3088,148,Indiana,Male,14
+3089,148,Wisconsin,Male,49
+3090,148,Pennsylvania,Male,38
+3091,148,Colorado,Male,5
+3092,148,Massachusetts,Male,21
+3093,148,Minnesota,Male,23
+3094,148,New York,Male,32
+3095,148,Pennsylvania,Male,38
+3096,148,New York,Male,32
+3097,148,New York,Male,32
+3098,148,New York,Male,32
+3099,148,Michigan,Male,22
+3100,148,Pennsylvania,Male,38
+3101,148,North Carolina,Male,33
+3102,148,Alabama,Male,0
+3103,148,Georgia,Male,10
+3104,149,Washington,Other,47
+3105,149,Pennsylvania,Male,38
+3107,149,New York,Male,32
+3108,149,Maine,Male,19
+3109,149,Colorado,Other,5
+3110,149,Texas,Male,43
+3111,149,Colorado,Male,5
+3112,149,Minnesota,Male,23
+3113,149,Texas,Male,43
+3114,149,California,Female,4
+3115,149,California,Male,4
+3117,149,Massachusetts,Male,21
+3118,149,New York,Male,32
+3119,149,Indiana,Male,14
+3120,149,Washington,Male,47
+3121,149,Virginia,Male,46
+3122,149,Georgia,Male,10
+3123,149,South Carolina,Other,40
+3124,149,Illinois,Male,13
+3125,149,Florida,Male,9
+3126,150,Maryland,Male,20
+3127,150,Massachusetts,Male,21
+3128,150,Tennessee,Male,42
+3129,150,New Jersey,Male,30
+3130,150,California,Male,4
+3131,150,California,Male,4
+3132,150,New Hampshire,Male,29
+3133,150,New York,Female,32
+3134,150,Tennessee,Other,42
+3135,150,Connecticut,Male,6
+3136,150,Arizona,Other,2
+3137,150,Massachusetts,Male,21
+3138,150,Pennsylvania,Male,38
+3139,150,Ohio,Male,35
+3140,150,Illinois,Male,13
+3141,150,Florida,Male,9
+3142,150,South Carolina,Male,40
+3143,150,Massachusetts,Male,21
+3144,150,Illinois,Male,13
+3145,150,North Carolina,Male,33
+3146,150,New Hampshire,Male,29
+3147,150,Massachusetts,Male,21
+3148,150,Massachusetts,Male,21
+3149,150,Massachusetts,Male,21
+3150,151,New Hampshire,Male,29
+3151,151,New York,Other,32
+3152,151,New York,Male,32
+3153,151,Maine,Male,19
+3154,151,New York,Male,32
+3155,151,Minnesota,Male,23
+3157,151,Massachusetts,Male,21
+3158,151,Connecticut,Male,6
+3159,151,Colorado,Male,5
+3160,151,Massachusetts,Male,21
+3161,151,New York,Male,32
+3162,151,Oregon,Male,37
+3163,151,California,Male,4
+3164,151,Illinois,Male,13
+3165,151,Virginia,Male,46
+3166,151,New Hampshire,Male,29
+3167,151,New Jersey,Male,30
+3168,151,New Hampshire,Male,29
+3169,151,Connecticut,Male,6
+3170,151,Illinois,Male,13
+3171,151,Connecticut,Male,6
+3172,152,Virginia,Male,46
+3173,152,Washington,Other,47
+3175,152,Pennsylvania,Male,38
+3176,152,Texas,Male,43
+3177,152,Ohio,Male,35
+3178,152,New York,Other,32
+3179,152,Texas,Male,43
+3180,152,New Jersey,Male,30
+3181,152,Illinois,Male,13
+3182,152,Minnesota,Male,23
+3183,152,Illinois,Male,13
+3184,152,Minnesota,Male,23
+3185,152,New Jersey,Male,30
+3186,152,Florida,Male,9
+3187,152,Ohio,Male,35
+3188,152,Missouri,Male,25
+3190,152,California,Male,4
+3192,152,Connecticut,Male,6
+3193,152,District of Columbia,Male,8
+3194,152,Kentucky,Male,17
+3195,153,New Jersey,Male,30
+3196,153,Massachusetts,Male,21
+3197,153,New York,Male,32
+3198,153,Massachusetts,Male,21
+3199,153,Pennsylvania,Male,38
+3200,153,Minnesota,Male,23
+3201,153,Massachusetts,Male,21
+3202,153,Connecticut,Male,6
+3203,153,Ohio,Male,35
+3204,153,Ohio,Male,35
+3205,153,New Jersey,Male,30
+3206,153,Illinois,Male,13
+3207,153,Minnesota,Male,23
+3208,153,New York,Male,32
+3209,153,Massachusetts,Male,21
+3210,153,Connecticut,Male,6
+3211,153,Massachusetts,Male,21
+3212,153,Massachusetts,Male,21
+3213,153,Michigan,Male,22
+3214,153,Massachusetts,Male,21
+3215,153,Massachusetts,Male,21
+3216,154,Washington,Male,47
+3217,154,Massachusetts,Male,21
+3218,154,Washington,Male,47
+3219,154,New Jersey,Other,30
+3220,154,Washington,Male,47
+3221,154,Pennsylvania,Male,38
+3222,154,New Mexico,Male,31
+3223,154,Georgia,Male,10
+3224,154,Massachusetts,Male,21
+3225,154,Massachusetts,Male,21
+3226,154,New Jersey,Male,30
+3227,154,Illinois,Male,13
+3228,154,California,Male,4
+3229,154,Michigan,Male,22
+3230,154,Tennessee,Male,42
+3231,154,Indiana,Other,14
+3232,154,Pennsylvania,Male,38
+3233,154,Colorado,Male,5
+3234,154,California,Male,4
+3235,154,Colorado,Male,5
+3236,155,Illinois,Male,13
+3237,155,Minnesota,Male,23
+3238,155,New Hampshire,Male,29
+3239,155,California,Male,4
+3240,155,Texas,Male,43
+3241,155,New Jersey,Other,30
+3242,155,Virginia,Male,46
+3244,155,Ohio,Male,35
+3245,155,Massachusetts,Male,21
+3246,155,Kentucky,Male,17
+3247,155,Pennsylvania,Male,38
+3248,155,Pennsylvania,Male,38
+3249,155,Illinois,Male,13
+3250,155,Florida,Male,9
+3251,155,Maryland,Male,20
+3252,155,Minnesota,Male,23
+3253,155,North Carolina,Male,33
+3254,155,Illinois,Male,13
+3255,155,North Carolina,Male,33
+3256,156,Illinois,Other,13
+3257,156,Rhode Island,Male,39
+3258,156,Washington,Male,47
+3259,156,Massachusetts,Male,21
+3260,156,Massachusetts,Male,21
+3261,156,Minnesota,Male,23
+3262,156,New York,Male,32
+3263,156,Illinois,Male,13
+3264,156,Ohio,Male,35
+3265,156,Vermont,Male,45
+3266,156,Illinois,Male,13
+3267,156,Georgia,Male,10
+3268,156,Massachusetts,Male,21
+3269,156,Massachusetts,Male,21
+3270,156,Missouri,Male,25
+3271,156,New York,Male,32
+3272,156,Virginia,Male,46
+3273,156,Massachusetts,Male,21
+3275,156,Oregon,Male,37
+3276,156,Massachusetts,Male,21
+3278,157,New York,Male,32
+3279,157,Michigan,Male,22
+3281,157,Rhode Island,Male,39
+3282,157,Pennsylvania,Male,38
+3283,157,Minnesota,Male,23
+3284,157,North Carolina,Male,33
+3286,157,Colorado,Male,5
+3287,157,New Jersey,Male,30
+3288,157,New York,Male,32
+3289,157,Virginia,Male,46
+3290,157,Colorado,Male,5
+3291,157,Washington,Male,47
+3292,157,Georgia,Male,10
+3294,157,Ohio,Male,35
+3295,157,Vermont,Male,45
+3296,157,Oregon,Male,37
+3297,157,Minnesota,Male,23
+3298,157,Ohio,Male,35
+3299,157,Pennsylvania,Male,38
+3300,158,Pennsylvania,Male,38
+3301,158,Pennsylvania,Male,38
+3302,158,Wisconsin,Male,49
+3303,158,New Jersey,Male,30
+3304,158,Minnesota,Male,23
+3305,158,Minnesota,Male,23
+3306,158,Maine,Male,19
+3307,158,New York,Male,32
+3308,158,Connecticut,Other,6
+3309,158,New York,Male,32
+3310,158,New York,Male,32
+3311,158,New Hampshire,Male,29
+3312,158,New York,Male,32
+3313,158,Massachusetts,Male,21
+3314,158,Ohio,Male,35
+3315,158,Pennsylvania,Male,38
+3316,158,Alabama,Male,0
+3317,158,Oklahoma,Male,36
+3318,158,Virginia,Male,46
+3319,158,Pennsylvania,Male,38
+3320,159,Indiana,Male,14
+3321,159,Missouri,Male,25
+3322,159,Massachusetts,Male,21
+3323,159,Illinois,Male,13
+3324,159,Virginia,Male,46
+3325,159,Georgia,Male,10
+3326,159,Pennsylvania,Male,38
+3327,159,Maine,Male,19
+3328,159,Minnesota,Male,23
+3329,159,Florida,Other,9
+3330,159,Pennsylvania,Male,38
+3331,159,Massachusetts,Male,21
+3332,159,Connecticut,Male,6
+3333,159,Minnesota,Male,23
+3334,159,Massachusetts,Male,21
+3335,159,Rhode Island,Male,39
+3336,159,California,Male,4
+3337,159,Pennsylvania,Male,38
+3338,159,North Carolina,Male,33
+3340,160,New Jersey,Male,30
+3341,160,Minnesota,Male,23
+3343,160,Illinois,Male,13
+3344,160,Illinois,Male,13
+3345,160,California,Other,4
+3346,160,Texas,Male,43
+3348,160,Massachusetts,Male,21
+3349,160,Colorado,Male,5
+3350,160,Ohio,Male,35
+3351,160,Rhode Island,Male,39
+3352,160,Nevada,Male,28
+3354,160,Ohio,Male,35
+3355,160,Massachusetts,Male,21
+3356,160,Iowa,Male,15
+3357,160,Massachusetts,Male,21
+3358,160,Illinois,Male,13
+3359,160,Arizona,Other,2
+3360,160,Michigan,Other,22
+3361,160,Virginia,Male,46
+3362,161,Massachusetts,Male,21
+3363,161,Florida,Male,9
+3365,161,New Jersey,Male,30
+3367,161,South Carolina,Male,40
+3368,161,Georgia,Male,10
+3369,161,Maryland,Male,20
+3370,161,New Hampshire,Male,29
+3371,161,Florida,Male,9
+3372,161,Florida,Male,9
+3373,161,Virginia,Male,46
+3374,161,Illinois,Male,13
+3375,161,Indiana,Male,14
+3376,161,Massachusetts,Male,21
+3377,161,Pennsylvania,Other,38
+3378,161,Indiana,Male,14
+3379,161,Florida,Male,9
+3380,161,South Carolina,Male,40
+3381,161,Michigan,Male,22
+3382,161,North Carolina,Male,33
+3383,162,California,Male,4
+3384,162,Virginia,Male,46
+3385,162,Colorado,Male,5
+3386,162,Virginia,Male,46
+3387,162,New York,Other,32
+3388,162,Texas,Male,43
+3389,162,California,Male,4
+3390,162,New Jersey,Male,30
+3391,162,California,Male,4
+3392,162,Florida,Male,9
+3393,162,California,Male,4
+3394,162,Illinois,Other,13
+3395,162,New York,Male,32
+3396,162,Kentucky,Male,17
+3397,162,District of Columbia,Other,8
+3398,162,Pennsylvania,Male,38
+3399,162,Texas,Male,43
+3400,163,California,Male,4
+3401,163,California,Male,4
+3402,163,Maine,Male,19
+3403,163,Vermont,Other,45
+3404,163,Illinois,Male,13
+3405,163,Washington,Male,47
+3406,163,South Carolina,Male,40
+3408,163,Ohio,Male,35
+3409,163,Massachusetts,Male,21
+3410,163,Wisconsin,Male,49
+3411,163,Nevada,Male,28
+3412,163,Minnesota,Male,23
+3413,163,New Jersey,Male,30
+3414,163,Georgia,Male,10
+3415,163,California,Male,4
+3416,163,Illinois,Other,13
+3417,163,California,Male,4
+3418,163,Ohio,Male,35
+3419,163,North Carolina,Male,33
+3420,164,New Jersey,Male,30
+3421,164,New Jersey,Other,30
+3422,164,West Virginia,Male,48
+3423,164,New Jersey,Male,30
+3424,164,Tennessee,Male,42
+3425,164,Pennsylvania,Male,38
+3426,164,Georgia,Male,10
+3427,164,Ohio,Male,35
+3428,164,Maryland,Male,20
+3429,164,New York,Male,32
+3430,164,Minnesota,Male,23
+3431,164,New Jersey,Male,30
+3432,164,Idaho,Male,12
+3433,164,Massachusetts,Male,21
+3434,164,New York,Other,32
+3435,164,District of Columbia,Male,8
+3437,164,Massachusetts,Male,21
+3438,164,Pennsylvania,Male,38
+3439,165,California,Male,4
+3440,165,Minnesota,Male,23
+3442,165,Massachusetts,Male,21
+3443,165,Massachusetts,Male,21
+3444,165,Illinois,Male,13
+3445,165,Massachusetts,Male,21
+3446,165,Ohio,Male,35
+3447,165,Connecticut,Male,6
+3448,165,Wisconsin,Male,49
+3449,165,North Carolina,Male,33
+3450,165,Illinois,Male,13
+3451,165,New York,Male,32
+3452,165,Illinois,Male,13
+3453,165,Rhode Island,Male,39
+3454,165,Massachusetts,Male,21
+3455,165,New York,Male,32
+3456,165,Texas,Other,43
+3457,165,Nebraska,Male,27
+3458,165,Texas,Male,43
+3459,166,North Carolina,Male,33
+3460,166,Massachusetts,Male,21
+3461,166,Texas,Male,43
+3462,166,Illinois,Male,13
+3463,166,Tennessee,Male,42
+3464,166,Virginia,Male,46
+3465,166,South Carolina,Male,40
+3466,166,Massachusetts,Male,21
+3467,166,Florida,Male,9
+3468,166,Texas,Male,43
+3469,166,Minnesota,Male,23
+3470,166,New Mexico,Male,31
+3471,166,Indiana,Other,14
+3472,166,Oklahoma,Male,36
+3473,166,Georgia,Male,10
+3474,166,Virginia,Other,46
+3475,166,Oklahoma,Other,36
+3476,166,Texas,Male,43
+3477,166,Texas,Male,43
+3480,166,California,Male,4
+3481,166,Massachusetts,Male,21
+3482,166,Ohio,Male,35
+3483,167,Illinois,Male,13
+3484,167,Rhode Island,Male,39
+3485,167,Illinois,Other,13
+3486,167,Massachusetts,Male,21
+3487,167,Massachusetts,Male,21
+3488,167,West Virginia,Male,48
+3489,167,Pennsylvania,Other,38
+3490,167,Minnesota,Male,23
+3491,167,New York,Male,32
+3492,167,Massachusetts,Male,21
+3493,167,Illinois,Male,13
+3494,167,California,Male,4
+3496,167,California,Male,4
+3497,167,Iowa,Male,15
+3498,167,Michigan,Other,22
+3499,167,Ohio,Male,35
+3500,167,North Carolina,Male,33
+3501,167,Iowa,Male,15
+3502,168,New Hampshire,Male,29
+3503,168,New York,Male,32
+3504,168,California,Male,4
+3506,168,Texas,Male,43
+3507,168,Connecticut,Male,6
+3508,168,Virginia,Male,46
+3510,168,California,Male,4
+3511,168,Massachusetts,Male,21
+3512,168,Massachusetts,Male,21
+3513,168,Maine,Male,19
+3514,168,Massachusetts,Other,21
+3515,168,New Hampshire,Male,29
+3516,168,Rhode Island,Male,39
+3517,168,New York,Male,32
+3518,168,New Hampshire,Male,29
+3519,168,Massachusetts,Male,21
+3520,168,Minnesota,Male,23
+3521,168,Massachusetts,Male,21
+3522,168,Rhode Island,Male,39
+3523,169,Washington,Female,47
+3524,169,South Carolina,Male,40
+3525,169,New York,Male,32
+3526,169,Tennessee,Male,42
+3529,169,California,Male,4
+3531,169,Georgia,Male,10
+3532,169,Illinois,Male,13
+3533,169,Virginia,Male,46
+3534,169,Washington,Male,47
+3535,169,Florida,Male,9
+3536,169,Ohio,Male,35
+3538,169,Colorado,Other,5
+3539,169,Arkansas,Male,3
+3540,169,Massachusetts,Male,21
+3542,169,Colorado,Other,5
+3543,170,Washington,Male,47
+3544,170,Arizona,Male,2
+3545,170,Colorado,Male,5
+3546,170,Rhode Island,Male,39
+3547,170,Massachusetts,Male,21
+3548,170,District of Columbia,Male,8
+3549,170,Illinois,Male,13
+3550,170,Massachusetts,Male,21
+3551,170,Florida,Male,9
+3552,170,Georgia,Male,10
+3553,170,Iowa,Male,15
+3554,170,Nebraska,Male,27
+3555,170,California,Male,4
+3556,170,Nevada,Male,28
+3557,170,California,Male,4
+3558,170,New Jersey,Male,30
+3559,170,California,Male,4
+3560,170,California,Male,4
+3561,170,California,Male,4
+3562,170,California,Male,4
+3563,170,Illinois,Male,13
+3564,170,Michigan,Female,22
+3565,170,Oregon,Male,37
+3566,170,Vermont,Male,45
+3567,171,California,Male,4
+3568,171,Illinois,Male,13
+3570,171,Idaho,Male,12
+3571,171,Ohio,Male,35
+3572,171,New Jersey,Male,30
+3573,171,Vermont,Male,45
+3574,171,Rhode Island,Male,39
+3575,171,Massachusetts,Male,21
+3576,171,Virginia,Male,46
+3577,171,Virginia,Male,46
+3578,171,Iowa,Male,15
+3579,171,Missouri,Male,25
+3580,171,Missouri,Male,25
+3581,171,Pennsylvania,Other,38
+3582,171,Tennessee,Male,42
+3583,171,Tennessee,Male,42
+3584,171,New York,Male,32
+3585,171,Connecticut,Male,6
+3586,171,Kentucky,Male,17
+3587,171,Ohio,Other,35
+3588,171,New York,Male,32
+3589,171,New York,Male,32
+3590,171,South Carolina,Male,40
+3592,172,New York,Male,32
+3593,172,Indiana,Male,14
+3594,172,Pennsylvania,Male,38
+3595,172,Virginia,Male,46
+3596,172,New York,Male,32
+3597,172,New Jersey,Other,30
+3598,172,Washington,Female,47
+3599,172,New Jersey,Male,30
+3600,172,Pennsylvania,Male,38
+3601,172,California,Other,4
+3603,172,Michigan,Male,22
+3604,172,Washington,Male,47
+3605,172,California,Male,4
+3607,172,New Jersey,Other,30
+3610,172,Colorado,Male,5
+3611,172,Maryland,Male,20
+3612,172,Colorado,Male,5
+3613,172,Arkansas,Male,3
+3614,173,Illinois,Male,13
+3615,173,Ohio,Male,35
+3616,173,Maryland,Male,20
+3617,173,Missouri,Male,25
+3618,173,Rhode Island,Male,39
+3619,173,Iowa,Male,15
+3620,173,Colorado,Male,5
+3621,173,Illinois,Male,13
+3622,173,Illinois,Male,13
+3623,173,Texas,Male,43
+3624,173,Texas,Male,43
+3625,173,Missouri,Male,25
+3626,173,Vermont,Other,45
+3627,173,Virginia,Male,46
+3628,173,California,Male,4
+3629,173,Minnesota,Male,23
+3630,173,Texas,Male,43
+3631,173,Minnesota,Male,23
+3632,174,New Jersey,Male,30
+3633,174,New Jersey,Male,30
+3634,174,Illinois,Male,13
+3635,174,Connecticut,Male,6
+3636,174,Wisconsin,Male,49
+3637,174,Massachusetts,Male,21
+3638,174,Massachusetts,Male,21
+3639,174,New Jersey,Other,30
+3640,174,New Hampshire,Male,29
+3641,174,Idaho,Male,12
+3642,174,Illinois,Male,13
+3643,174,Pennsylvania,Male,38
+3644,174,Colorado,Male,5
+3645,174,Rhode Island,Male,39
+3647,174,Ohio,Male,35
+3648,174,Connecticut,Male,6
+3649,174,Massachusetts,Male,21
+3650,174,New York,Male,32
+3651,174,New York,Male,32
+3652,174,New York,Male,32
+3653,175,New York,Male,32
+3654,175,New York,Other,32
+3656,175,Illinois,Male,13
+3658,175,Ohio,Male,35
+3659,175,Rhode Island,Male,39
+3660,175,Massachusetts,Male,21
+3662,175,Ohio,Male,35
+3663,175,Illinois,Male,13
+3665,175,Florida,Male,9
+3666,175,Colorado,Male,5
+3667,175,Texas,Male,43
+3668,175,Iowa,Male,15
+3669,175,Iowa,Male,15
+3670,175,Minnesota,Male,23
+3671,175,Pennsylvania,Male,38
+3672,175,Illinois,Male,13
+3673,175,Ohio,Male,35
+3674,176,Pennsylvania,Male,38
+3676,176,Colorado,Male,5
+3677,176,Minnesota,Male,23
+3678,176,Texas,Male,43
+3679,176,California,Male,4
+3680,176,Texas,Male,43
+3681,176,Massachusetts,Male,21
+3682,176,Minnesota,Male,23
+3683,176,Washington,Male,47
+3684,176,Virginia,Male,46
+3685,176,California,Male,4
+3686,176,Illinois,Male,13
+3687,176,Massachusetts,Male,21
+3688,176,Massachusetts,Male,21
+3689,176,Indiana,Male,14
+3690,176,Ohio,Male,35
+3691,176,Colorado,Male,5
+3692,176,New Mexico,Male,31
+3693,176,Texas,Male,43
+3694,176,Texas,Male,43
+3695,177,Texas,Other,43
+3696,177,Pennsylvania,Male,38
+3697,177,Virginia,Male,46
+3698,177,Illinois,Male,13
+3700,177,Texas,Male,43
+3702,177,New York,Other,32
+3703,177,Florida,Male,9
+3705,177,Massachusetts,Male,21
+3707,177,Virginia,Male,46
+3709,177,Virginia,Male,46
+3710,177,Massachusetts,Male,21
+3711,177,Maryland,Male,20
+3712,177,Massachusetts,Male,21
+3714,177,Ohio,Male,35
+3715,177,Pennsylvania,Male,38
+3716,177,New York,Male,32
+3717,177,Texas,Male,43
+3718,178,Maryland,Male,20
+3719,178,Wisconsin,Male,49
+3720,178,New Jersey,Male,30
+3721,178,Massachusetts,Male,21
+3722,178,Pennsylvania,Male,38
+3723,178,Michigan,Male,22
+3724,178,Maryland,Male,20
+3725,178,New Hampshire,Male,29
+3726,178,Georgia,Male,10
+3727,178,Alabama,Male,0
+3728,178,Illinois,Male,13
+3729,178,Massachusetts,Male,21
+3730,178,New Jersey,Other,30
+3731,178,Massachusetts,Male,21
+3732,178,Pennsylvania,Male,38
+3733,178,Pennsylvania,Male,38
+3734,178,Pennsylvania,Male,38
+3735,178,New Jersey,Male,30
+3737,178,Massachusetts,Male,21
+3738,178,Virginia,Male,46
+3739,178,New Jersey,Male,30
+3740,179,Indiana,Male,14
+3741,179,Massachusetts,Male,21
+3742,179,Connecticut,Male,6
+3743,179,Missouri,Male,25
+3744,179,Illinois,Male,13
+3745,179,New York,Male,32
+3746,179,Michigan,Male,22
+3747,179,Georgia,Male,10
+3748,179,Massachusetts,Male,21
+3749,179,Illinois,Male,13
+3750,179,Pennsylvania,Male,38
+3751,179,Ohio,Male,35
+3752,179,Georgia,Male,10
+3753,179,District of Columbia,Male,8
+3754,179,Washington,Male,47
+3755,179,Illinois,Male,13
+3756,179,South Carolina,Male,40
+3757,179,New Mexico,Male,31
+3758,179,New York,Male,32
+3759,179,Michigan,Male,22
+3760,179,North Carolina,Male,33
+3761,179,Georgia,Other,10
+3762,179,Tennessee,Male,42
+3763,180,Connecticut,Other,6
+3764,180,Tennessee,Male,42
+3765,180,Massachusetts,Male,21
+3766,180,Massachusetts,Male,21
+3767,180,Rhode Island,Male,39
+3768,180,South Carolina,Male,40
+3769,180,Idaho,Male,12
+3770,180,New Jersey,Male,30
+3771,180,Connecticut,Other,6
+3772,180,Wisconsin,Male,49
+3773,180,Connecticut,Female,6
+3774,180,Connecticut,Other,6
+3775,180,New York,Male,32
+3776,180,Massachusetts,Male,21
+3777,180,Virginia,Male,46
+3778,180,Massachusetts,Male,21
+3780,180,Michigan,Male,22
+3782,181,Oregon,Male,37
+3783,181,California,Male,4
+3784,181,Oregon,Male,37
+3785,181,Illinois,Male,13
+3786,181,Maryland,Male,20
+3787,181,Ohio,Male,35
+3788,181,Texas,Other,43
+3789,181,Illinois,Male,13
+3790,181,Indiana,Male,14
+3791,181,Vermont,Male,45
+3792,181,Pennsylvania,Male,38
+3793,181,Florida,Male,9
+3794,181,West Virginia,Male,48
+3796,181,Colorado,Other,5
+3797,181,Rhode Island,Male,39
+3798,181,Massachusetts,Male,21
+3799,181,California,Male,4
+3800,182,Georgia,Other,10
+3801,182,Pennsylvania,Male,38
+3802,182,Illinois,Male,13
+3804,182,Indiana,Male,14
+3806,182,New Hampshire,Male,29
+3808,182,Nebraska,Male,27
+3809,182,Connecticut,Male,6
+3810,182,Texas,Male,43
+3811,182,New York,Male,32
+3812,182,Minnesota,Male,23
+3813,182,Minnesota,Male,23
+3814,182,New Mexico,Male,31
+3815,182,Virginia,Male,46
+3816,182,Illinois,Male,13
+3817,182,South Dakota,Male,41
+3818,182,Georgia,Male,10
+3819,182,California,Male,4
+3820,182,Illinois,Male,13
+3821,182,Minnesota,Male,23
+3822,183,West Virginia,Male,48
+3823,183,Minnesota,Other,23
+3824,183,South Dakota,Male,41
+3825,183,Ohio,Male,35
+3826,183,Michigan,Male,22
+3827,183,North Carolina,Male,33
+3828,183,Alabama,Male,0
+3829,183,Massachusetts,Male,21
+3830,183,Wisconsin,Other,49
+3831,183,Minnesota,Other,23
+3832,183,Minnesota,Male,23
+3833,183,Illinois,Other,13
+3834,183,Minnesota,Male,23
+3835,183,Iowa,Male,15
+3836,183,Indiana,Other,14
+3837,183,Rhode Island,Male,39
+3838,183,Massachusetts,Male,21
+3839,183,Minnesota,Male,23
+3840,183,California,Male,4
+3841,184,Washington,Male,47
+3842,184,Washington,Male,47
+3843,184,New York,Other,32
+3844,184,Idaho,Male,12
+3845,184,Indiana,Male,14
+3846,184,California,Male,4
+3847,184,Minnesota,Male,23
+3848,184,New Jersey,Male,30
+3849,184,New York,Male,32
+3850,184,Illinois,Male,13
+3851,184,New York,Male,32
+3852,184,Illinois,Male,13
+3853,184,Tennessee,Male,42
+3854,184,Pennsylvania,Male,38
+3855,184,Massachusetts,Male,21
+3856,184,Massachusetts,Male,21
+3857,184,Vermont,Male,45
+3858,184,Minnesota,Male,23
+3859,184,California,Male,4
+3860,184,Georgia,Male,10
+3861,184,Ohio,Male,35
+3862,184,New York,Male,32
+3863,184,Pennsylvania,Other,38
+3864,185,Massachusetts,Male,21
+3865,185,Illinois,Male,13
+3866,185,Massachusetts,Male,21
+3867,185,Massachusetts,Male,21
+3868,185,New York,Male,32
+3869,185,Rhode Island,Male,39
+3871,185,Rhode Island,Male,39
+3872,185,Vermont,Male,45
+3873,185,Vermont,Other,45
+3874,185,Massachusetts,Male,21
+3875,185,Rhode Island,Male,39
+3876,185,Massachusetts,Male,21
+3877,185,Pennsylvania,Male,38
+3878,185,Virginia,Male,46
+3879,185,New Jersey,Male,30
+3880,185,New York,Male,32
+3881,185,Vermont,Male,45
+3882,185,New York,Male,32
+3883,185,New Jersey,Male,30
+3884,185,New Jersey,Other,30
+3885,186,Georgia,Male,10
+3886,186,Idaho,Male,12
+3887,186,Oregon,Male,37
+3888,186,Illinois,Male,13
+3889,186,Rhode Island,Male,39
+3890,186,Oregon,Male,37
+3891,186,New York,Male,32
+3892,186,Vermont,Male,45
+3893,186,Missouri,Male,25
+3894,186,Massachusetts,Other,21
+3895,186,Iowa,Male,15
+3896,186,Florida,Male,9
+3897,186,Colorado,Male,5
+3898,186,Illinois,Male,13
+3899,186,Virginia,Male,46
+3900,186,Wisconsin,Male,49
+3901,186,California,Male,4
+3902,186,Massachusetts,Male,21
+3903,186,New Jersey,Male,30
+3904,186,Maryland,Male,20
+3905,186,Wisconsin,Male,49
+3906,187,Texas,Male,43
+3907,187,New York,Male,32
+3908,187,Florida,Male,9
+3909,187,Washington,Male,47
+3910,187,California,Other,4
+3911,187,Tennessee,Male,42
+3912,187,Indiana,Male,14
+3913,187,Massachusetts,Male,21
+3915,187,Minnesota,Male,23
+3916,187,Rhode Island,Male,39
+3917,187,Massachusetts,Male,21
+3918,187,North Carolina,Male,33
+3919,187,West Virginia,Male,48
+3920,187,Massachusetts,Male,21
+3921,187,Tennessee,Male,42
+3922,187,Ohio,Male,35
+3923,187,Florida,Male,9
+3924,187,Massachusetts,Male,21
+3925,187,Rhode Island,Male,39
+3926,187,Arizona,Male,2
+3927,188,Florida,Male,9
+3928,188,Washington,Male,47
+3929,188,Minnesota,Male,23
+3930,188,Rhode Island,Male,39
+3931,188,Ohio,Male,35
+3932,188,New York,Male,32
+3933,188,South Carolina,Male,40
+3934,188,Minnesota,Male,23
+3935,188,Missouri,Male,25
+3936,188,Illinois,Male,13
+3937,188,Indiana,Male,14
+3938,188,Arizona,Male,2
+3940,189,Virginia,Male,46
+3941,189,Wisconsin,Male,49
+3942,189,Kentucky,Male,17
+3944,189,New York,Male,32
+3945,189,Massachusetts,Male,21
+3946,189,New York,Male,32
+3947,189,Georgia,Male,10
+3948,189,North Carolina,Male,33
+3949,189,Texas,Male,43
+3950,189,Massachusetts,Male,21
+3952,189,Massachusetts,Male,21
+3954,189,Alabama,Male,0
+3955,189,Idaho,Male,12
+3956,189,Virginia,Male,46
+3958,189,Connecticut,Male,6
+3959,189,Florida,Male,9
+3960,189,Massachusetts,Male,21
+3961,189,Pennsylvania,Male,38
+3962,190,Kentucky,Male,17
+3963,190,Ohio,Male,35
+3964,190,California,Male,4
+3965,190,Idaho,Male,12
+3966,190,Pennsylvania,Other,38
+3967,190,Florida,Male,9
+3968,190,Tennessee,Male,42
+3969,190,New Jersey,Male,30
+3970,190,Pennsylvania,Male,38
+3971,190,New York,Male,32
+3972,190,Utah,Male,44
+3973,190,Oregon,Male,37
+3974,190,Arizona,Male,2
+3975,190,Idaho,Male,12
+3976,190,Washington,Male,47
+3977,190,South Dakota,Male,41
+3978,190,Alabama,Male,0
+3979,190,District of Columbia,Male,8
+3980,190,Ohio,Male,35
+3981,190,Ohio,Male,35
+3982,190,Washington,Male,47
+3983,190,Massachusetts,Male,21
+3984,191,Rhode Island,Male,39
+3985,191,Illinois,Male,13
+3986,191,Idaho,Male,12
+3987,191,Minnesota,Male,23
+3988,191,Colorado,Male,5
+3989,191,Ohio,Male,35
+3990,191,Massachusetts,Male,21
+3991,191,Minnesota,Male,23
+3992,191,New Mexico,Male,31
+3993,191,Nebraska,Male,27
+3994,191,New York,Male,32
+3995,191,New York,Male,32
+3996,191,Texas,Male,43
+3997,191,Illinois,Male,13
+3998,191,Colorado,Male,5
+3999,191,Colorado,Male,5
+4000,191,New Mexico,Male,31
+4001,191,Minnesota,Male,23
+4002,191,Arizona,Male,2
+4003,191,South Carolina,Male,40
+4004,191,Illinois,Male,13
+4005,192,Illinois,Male,13
+4006,192,Massachusetts,Male,21
+4007,192,North Carolina,Male,33
+4008,192,Arizona,Male,2
+4009,192,Ohio,Male,35
+4010,192,Washington,Male,47
+4011,192,Illinois,Male,13
+4012,192,Texas,Male,43
+4013,192,California,Male,4
+4014,192,Massachusetts,Male,21
+4015,192,Indiana,Male,14
+4016,192,Michigan,Male,22
+4017,192,Rhode Island,Male,39
+4018,192,Virginia,Male,46
+4019,192,North Carolina,Male,33
+4020,192,Indiana,Male,14
+4021,192,Tennessee,Male,42
+4022,192,Tennessee,Male,42
+4023,192,California,Male,4
+4025,192,Ohio,Other,35
+4026,192,Michigan,Male,22
+4027,193,Ohio,Male,35
+4028,193,Washington,Male,47
+4029,193,California,Male,4
+4030,193,California,Other,4
+4031,193,New York,Male,32
+4032,193,Minnesota,Male,23
+4034,193,Michigan,Other,22
+4035,193,Illinois,Male,13
+4036,193,Iowa,Male,15
+4037,193,Illinois,Male,13
+4038,193,Missouri,Male,25
+4039,193,Minnesota,Male,23
+4040,193,Virginia,Male,46
+4041,193,Virginia,Male,46
+4042,193,Virginia,Male,46
+4043,193,Virginia,Male,46
+4044,193,California,Male,4
+4045,194,Massachusetts,Male,21
+4046,194,California,Male,4
+4047,194,Ohio,Male,35
+4048,194,California,Male,4
+4049,194,Illinois,Male,13
+4050,194,Texas,Male,43
+4051,194,California,Male,4
+4052,194,California,Male,4
+4053,194,Tennessee,Male,42
+4054,194,New York,Other,32
+4055,194,Ohio,Male,35
+4056,194,Georgia,Male,10
+4057,194,Rhode Island,Male,39
+4058,194,Vermont,Male,45
+4059,194,Kentucky,Male,17
+4060,194,Illinois,Male,13
+4061,194,Florida,Male,9
+4062,195,Indiana,Male,14
+4063,195,Georgia,Male,10
+4064,195,Illinois,Male,13
+4065,195,Illinois,Male,13
+4066,195,Minnesota,Male,23
+4067,195,Arkansas,Male,3
+4068,195,Minnesota,Male,23
+4069,195,West Virginia,Male,48
+4070,195,Colorado,Male,5
+4071,195,Rhode Island,Male,39
+4072,195,Iowa,Male,15
+4073,195,Illinois,Male,13
+4074,195,Iowa,Male,15
+4075,195,Illinois,Male,13
+4076,195,Illinois,Male,13
+4077,195,Vermont,Other,45
+4078,195,Illinois,Male,13
+4079,195,Illinois,Male,13
+4080,195,Illinois,Male,13
+4081,195,Illinois,Male,13
+4082,195,Illinois,Male,13
+4083,195,Delaware,Male,7
+4084,196,Pennsylvania,Male,38
+4086,196,Illinois,Male,13
+4087,196,Massachusetts,Male,21
+4088,196,Kansas,Other,16
+4089,196,Connecticut,Male,6
+4090,196,Pennsylvania,Male,38
+4091,196,Pennsylvania,Male,38
+4092,196,Massachusetts,Male,21
+4094,196,Rhode Island,Other,39
+4095,196,Washington,Male,47
+4096,196,Massachusetts,Male,21
+4097,196,Wisconsin,Male,49
+4098,196,Pennsylvania,Male,38
+4099,196,Florida,Male,9
+4100,196,California,Male,4
+4101,196,Colorado,Male,5
+4102,196,New York,Male,32
+4103,196,Mississippi,Male,24
+4104,196,California,Male,4
+4105,197,Florida,Male,9
+4106,197,Ohio,Male,35
+4107,197,Ohio,Male,35
+4108,197,Washington,Male,47
+4109,197,West Virginia,Male,48
+4110,197,Indiana,Male,14
+4111,197,District of Columbia,Male,8
+4112,197,Tennessee,Male,42
+4113,197,Pennsylvania,Male,38
+4114,197,Colorado,Male,5
+4115,197,Florida,Male,9
+4116,197,New York,Male,32
+4117,197,Minnesota,Male,23
+4118,197,New Jersey,Male,30
+4119,197,Virginia,Male,46
+4120,197,Virginia,Male,46
+4121,197,Wisconsin,Other,49
+4122,197,Idaho,Male,12
+4123,197,Maryland,Male,20
+4124,197,North Carolina,Male,33
+4125,197,California,Male,4
+4126,197,California,Male,4
+4127,197,California,Male,4
+4128,198,Minnesota,Male,23
+4129,198,Illinois,Male,13
+4130,198,New York,Male,32
+4131,198,Texas,Male,43
+4132,198,Michigan,Male,22
+4133,198,Colorado,Male,5
+4134,198,Washington,Male,47
+4135,198,Texas,Male,43
+4136,198,Wisconsin,Male,49
+4137,198,North Carolina,Male,33
+4138,198,Illinois,Male,13
+4139,198,Indiana,Male,14
+4140,198,Ohio,Male,35
+4141,198,Massachusetts,Male,21
+4142,198,New York,Male,32
+4143,198,Idaho,Male,12
+4144,198,Rhode Island,Male,39
+4145,198,Massachusetts,Male,21
+4146,198,Pennsylvania,Male,38
+4147,198,Illinois,Male,13
+4148,198,Missouri,Male,25
+4149,198,Massachusetts,Male,21
+4150,199,Pennsylvania,Male,38
+4151,199,Illinois,Male,13
+4152,199,Illinois,Male,13
+4153,199,New Jersey,Male,30
+4154,199,Missouri,Male,25
+4155,199,Ohio,Male,35
+4156,199,Massachusetts,Male,21
+4157,199,California,Male,4
+4158,199,Illinois,Male,13
+4159,199,Ohio,Male,35
+4160,199,Ohio,Male,35
+4161,199,Ohio,Male,35
+4162,199,Ohio,Male,35
+4163,199,Florida,Other,9
+4164,199,Illinois,Male,13
+4166,199,Kentucky,Male,17
+4167,199,New Jersey,Male,30
+4168,199,Virginia,Male,46
+4169,199,Arkansas,Male,3
+4170,199,Ohio,Other,35
+4171,200,North Carolina,Male,33
+4172,200,Pennsylvania,Male,38
+4173,200,Massachusetts,Other,21
+4174,200,Illinois,Male,13
+4175,200,North Carolina,Male,33
+4176,200,North Carolina,Male,33
+4177,200,New York,Male,32
+4178,200,Pennsylvania,Male,38
+4179,200,Massachusetts,Male,21
+4180,200,South Carolina,Male,40
+4181,200,California,Male,4
+4182,200,South Carolina,Male,40
+4183,200,Minnesota,Male,23
+4184,200,Georgia,Male,10
+4185,200,Tennessee,Male,42
+4186,200,North Carolina,Male,33
+4187,200,Michigan,Male,22
+4188,200,South Carolina,Male,40
+4189,200,Rhode Island,Male,39
+4190,200,Virginia,Other,46
+4191,200,South Carolina,Male,40
+4192,201,New Jersey,Male,30
+4193,201,Virginia,Male,46
+4194,201,New York,Other,32
+4195,201,Connecticut,Male,6
+4196,201,New York,Male,32
+4197,201,Tennessee,Male,42
+4199,201,New York,Male,32
+4200,201,Georgia,Male,10
+4201,201,Virginia,Male,46
+4202,201,New Jersey,Male,30
+4205,201,New Hampshire,Male,29
+4206,201,Massachusetts,Male,21
+4207,201,Minnesota,Male,23
+4208,201,District of Columbia,Male,8
+4209,201,Pennsylvania,Male,38
+4210,201,Idaho,Male,12
+4211,201,Texas,Male,43
+4212,201,Massachusetts,Male,21
+4213,202,Pennsylvania,Male,38
+4214,202,Illinois,Male,13
+4215,202,Pennsylvania,Male,38
+4219,202,California,Male,4
+4222,202,Florida,Male,9
+4223,202,Virginia,Male,46
+4225,202,Ohio,Male,35
+4226,202,Minnesota,Male,23
+4227,202,Texas,Other,43
+4228,202,New Jersey,Male,30
+4229,202,Oregon,Other,37
+4232,202,Minnesota,Male,23
+4233,202,Florida,Male,9
+4234,202,Massachusetts,Male,21
+4235,202,Indiana,Male,14
+4236,203,Minnesota,Male,23
+4237,203,California,Male,4
+4238,203,Illinois,Male,13
+4239,203,Rhode Island,Male,39
+4240,203,Massachusetts,Male,21
+4241,203,Massachusetts,Male,21
+4242,203,Vermont,Other,45
+4243,203,California,Male,4
+4244,203,New Jersey,Other,30
+4245,203,Pennsylvania,Male,38
+4246,203,California,Male,4
+4247,203,California,Male,4
+4248,203,Pennsylvania,Male,38
+4249,203,California,Male,4
+4250,203,Pennsylvania,Male,38
+4251,203,New York,Male,32
+4252,203,Rhode Island,Female,39
+4253,203,Florida,Male,9
+4254,203,Missouri,Male,25
+4255,204,Idaho,Male,12
+4256,204,Michigan,Male,22
+4257,204,Illinois,Male,13
+4258,204,Minnesota,Male,23
+4259,204,Washington,Male,47
+4260,204,Illinois,Male,13
+4261,204,Washington,Female,47
+4262,204,New Jersey,Male,30
+4263,204,Illinois,Male,13
+4264,204,Michigan,Male,22
+4265,204,Rhode Island,Male,39
+4266,204,Connecticut,Male,6
+4267,204,Indiana,Male,14
+4268,204,California,Male,4
+4269,204,Rhode Island,Male,39
+4270,204,New York,Male,32
+4271,204,Massachusetts,Male,21
+4272,204,Minnesota,Male,23
+4273,204,Minnesota,Male,23
+4274,204,North Carolina,Male,33
+4275,204,California,Male,4
+4276,204,Minnesota,Male,23
+4277,204,Illinois,Male,13
+4279,205,Illinois,Other,13
+4280,205,Nevada,Male,28
+4281,205,Ohio,Male,35
+4282,205,Ohio,Male,35
+4283,205,Massachusetts,Male,21
+4284,205,Florida,Male,9
+4285,205,Illinois,Male,13
+4286,205,Minnesota,Male,23
+4287,205,Georgia,Male,10
+4288,205,Missouri,Male,25
+4289,205,Rhode Island,Male,39
+4290,205,Missouri,Male,25
+4291,205,Indiana,Male,14
+4292,205,Illinois,Male,13
+4293,205,Rhode Island,Male,39
+4294,205,Minnesota,Male,23
+4295,205,Florida,Male,9
+4296,205,Florida,Male,9
+4297,206,Massachusetts,Male,21
+4298,206,Connecticut,Male,6
+4299,206,New Jersey,Male,30
+4300,206,Massachusetts,Male,21
+4301,206,Pennsylvania,Male,38
+4302,206,Massachusetts,Male,21
+4303,206,Ohio,Male,35
+4304,206,New York,Male,32
+4305,206,Minnesota,Male,23
+4306,206,Ohio,Male,35
+4307,206,New York,Male,32
+4308,206,Indiana,Male,14
+4309,206,Massachusetts,Male,21
+4310,206,Massachusetts,Male,21
+4311,206,North Carolina,Male,33
+4313,206,Massachusetts,Male,21
+4314,206,New York,Male,32
+4315,206,Massachusetts,Male,21
+4316,206,Massachusetts,Male,21
+4317,206,New York,Male,32
+4318,206,Massachusetts,Male,21
+4319,206,Texas,Male,43
+4320,207,Illinois,Male,13
+4321,207,Minnesota,Male,23
+4323,207,Ohio,Male,35
+4324,207,North Carolina,Male,33
+4325,207,Indiana,Other,14
+4326,207,Rhode Island,Male,39
+4327,207,Virginia,Male,46
+4328,207,New York,Male,32
+4329,207,Illinois,Male,13
+4332,207,California,Male,4
+4333,207,California,Other,4
+4334,207,New Jersey,Male,30
+4335,207,Illinois,Male,13
+4336,207,Massachusetts,Male,21
+4337,207,Pennsylvania,Male,38
+4338,207,Massachusetts,Male,21
+4339,207,Texas,Other,43
+4340,207,Virginia,Male,46
+4341,207,Nebraska,Male,27
+4342,207,Massachusetts,Male,21
+4344,208,Ohio,Male,35
+4345,208,Massachusetts,Male,21
+4346,208,New York,Male,32
+4347,208,Mississippi,Male,24
+4348,208,Massachusetts,Male,21
+4349,208,Massachusetts,Male,21
+4350,208,Illinois,Male,13
+4351,208,Massachusetts,Male,21
+4352,208,North Carolina,Male,33
+4353,208,Vermont,Male,45
+4354,208,Georgia,Male,10
+4355,208,Rhode Island,Male,39
+4356,208,Virginia,Male,46
+4357,208,New York,Male,32
+4358,208,California,Other,4
+4359,208,District of Columbia,Male,8
+4360,208,New Jersey,Male,30
+4361,208,Massachusetts,Male,21
+4362,208,Illinois,Male,13
+4363,209,Illinois,Male,13
+4364,209,Pennsylvania,Male,38
+4365,209,New Jersey,Other,30
+4367,209,Virginia,Male,46
+4368,209,Pennsylvania,Male,38
+4369,209,New Jersey,Other,30
+4370,209,Illinois,Male,13
+4371,209,Wisconsin,Male,49
+4372,209,Pennsylvania,Other,38
+4373,209,Pennsylvania,Male,38
+4374,209,New Jersey,Male,30
+4375,209,New Hampshire,Male,29
+4376,209,New York,Male,32
+4377,209,Minnesota,Male,23
+4378,209,Pennsylvania,Male,38
+4379,209,Florida,Male,9
+4380,209,Massachusetts,Male,21
+4381,209,Virginia,Male,46
+4382,209,Illinois,Male,13
+4383,209,Illinois,Male,13
+4384,209,South Carolina,Male,40
+4385,210,Ohio,Male,35
+4386,210,Indiana,Male,14
+4387,210,Ohio,Male,35
+4388,210,Ohio,Male,35
+4389,210,Texas,Male,43
+4390,210,Tennessee,Male,42
+4391,210,Ohio,Male,35
+4392,210,Texas,Male,43
+4393,210,Washington,Male,47
+4395,210,Texas,Male,43
+4396,210,Massachusetts,Male,21
+4397,210,Massachusetts,Male,21
+4398,210,Florida,Male,9
+4399,210,Michigan,Male,22
+4402,210,Idaho,Male,12
+4403,210,Michigan,Male,22
+4404,210,New York,Male,32
+4405,210,California,Male,4
+4406,210,Connecticut,Male,6
+4407,211,Ohio,Male,35
+4408,211,Rhode Island,Male,39
+4409,211,Alabama,Male,0
+4410,211,Minnesota,Male,23
+4411,211,New Jersey,Male,30
+4412,211,Michigan,Male,22
+4413,211,Ohio,Male,35
+4414,211,Texas,Male,43
+4415,211,Massachusetts,Male,21
+4416,211,Illinois,Male,13
+4417,211,Minnesota,Male,23
+4418,211,Pennsylvania,Other,38
+4419,211,West Virginia,Male,48
+4420,211,Missouri,Male,25
+4421,211,Vermont,Other,45
+4422,211,Michigan,Male,22
+4423,211,Missouri,Male,25
+4424,211,New Mexico,Male,31
+4425,212,Michigan,Male,22
+4426,212,New York,Male,32
+4427,212,Idaho,Male,12
+4429,212,Georgia,Male,10
+4430,212,Minnesota,Male,23
+4431,212,Washington,Male,47
+4432,212,New Jersey,Male,30
+4433,212,Pennsylvania,Male,38
+4434,212,Ohio,Male,35
+4435,212,Illinois,Other,13
+4436,212,Michigan,Male,22
+4438,212,Illinois,Male,13
+4439,212,Idaho,Male,12
+4440,212,Texas,Male,43
+4441,212,Minnesota,Male,23
+4442,212,Nebraska,Male,27
+4444,212,Massachusetts,Male,21
+4445,212,Illinois,Male,13
+4446,212,Ohio,Male,35
+4447,212,California,Male,4
+4448,213,Pennsylvania,Male,38
+4449,213,Pennsylvania,Other,38
+4450,213,Ohio,Male,35
+4451,213,Illinois,Male,13
+4452,213,Pennsylvania,Male,38
+4453,213,Indiana,Male,14
+4454,213,Maryland,Male,20
+4455,213,Missouri,Male,25
+4456,213,Illinois,Male,13
+4457,213,New Hampshire,Male,29
+4458,213,Ohio,Male,35
+4460,213,Pennsylvania,Male,38
+4461,213,Ohio,Male,35
+4462,213,Indiana,Male,14
+4463,213,Connecticut,Male,6
+4464,213,Minnesota,Male,23
+4465,213,Ohio,Other,35
+4466,213,Pennsylvania,Other,38
+4467,213,Pennsylvania,Male,38
+4468,213,Pennsylvania,Male,38
+4469,214,Ohio,Male,35
+4470,214,Tennessee,Male,42
+4471,214,Massachusetts,Male,21
+4472,214,Washington,Male,47
+4474,214,Texas,Male,43
+4475,214,Massachusetts,Male,21
+4476,214,Michigan,Male,22
+4478,214,Indiana,Male,14
+4479,214,South Dakota,Male,41
+4480,214,Connecticut,Male,6
+4481,214,Minnesota,Male,23
+4482,214,Rhode Island,Male,39
+4483,214,Ohio,Male,35
+4484,214,Ohio,Male,35
+4485,214,Ohio,Male,35
+4486,214,Connecticut,Male,6
+4487,215,New Hampshire,Male,29
+4488,215,Virginia,Male,46
+4489,215,Missouri,Male,25
+4490,215,Maine,Male,19
+4491,215,New Hampshire,Male,29
+4492,215,Virginia,Male,46
+4493,215,Massachusetts,Male,21
+4494,215,Michigan,Male,22
+4495,215,Massachusetts,Male,21
+4496,215,New York,Male,32
+4497,215,Maryland,Male,20
+4498,215,Minnesota,Male,23
+4499,215,New York,Male,32
+4500,215,Pennsylvania,Male,38
+4501,215,New Jersey,Male,30
+4502,215,Vermont,Male,45
+4503,215,Massachusetts,Male,21
+4504,215,Illinois,Male,13
+4505,215,New Jersey,Male,30
+4506,215,Ohio,Male,35
+4507,215,Texas,Male,43
+4508,216,California,Male,4
+4509,216,Virginia,Male,46
+4510,216,Wisconsin,Male,49
+4511,216,Virginia,Male,46
+4512,216,New Jersey,Male,30
+4513,216,Vermont,Other,45
+4514,216,New York,Male,32
+4515,216,New Jersey,Male,30
+4516,216,Massachusetts,Other,21
+4517,216,Oregon,Male,37
+4519,216,New Hampshire,Male,29
+4520,216,Maryland,Male,20
+4522,216,Colorado,Male,5
+4523,216,North Carolina,Male,33
+4524,216,Massachusetts,Male,21
+4525,216,Massachusetts,Male,21
+4526,216,Alabama,Male,0
+4527,216,New York,Male,32
+4528,217,Minnesota,Male,23
+4529,217,Massachusetts,Male,21
+4530,217,Massachusetts,Male,21
+4532,217,Indiana,Other,14
+4533,217,Hawaii,Male,11
+4534,217,Pennsylvania,Male,38
+4535,217,Illinois,Male,13
+4536,217,Illinois,Male,13
+4537,217,Ohio,Male,35
+4538,217,Illinois,Male,13
+4539,217,Alabama,Male,0
+4540,217,Illinois,Male,13
+4541,217,Virginia,Male,46
+4542,217,Illinois,Male,13
+4543,217,California,Male,4
+4544,217,Mississippi,Male,24
+4545,217,Ohio,Male,35
+4546,217,Colorado,Male,5
+4547,217,Missouri,Male,25
+4548,217,Ohio,Male,35
+4549,217,Pennsylvania,Male,38
+4550,217,Connecticut,Male,6
+4551,217,Massachusetts,Male,21
+4552,218,Pennsylvania,Male,38
+4553,218,Washington,Male,47
+4554,218,Texas,Male,43
+4555,218,Florida,Male,9
+4556,218,Florida,Male,9
+4557,218,Arizona,Male,2
+4558,218,Louisiana,Male,18
+4559,218,Florida,Male,9
+4560,218,Maine,Male,19
+4561,218,Florida,Male,9
+4562,218,Georgia,Male,10
+4563,218,Maine,Male,19
+4564,218,Georgia,Male,10
+4566,218,California,Male,4
+4567,218,Florida,Other,9
+4568,218,Florida,Male,9
+4569,218,Michigan,Male,22
+4570,218,New Jersey,Other,30
+4571,218,Ohio,Male,35
+4572,218,Louisiana,Male,18
+4573,219,Illinois,Male,13
+4574,219,Florida,Male,9
+4575,219,California,Male,4
+4576,219,Texas,Male,43
+4577,219,Virginia,Male,46
+4578,219,Washington,Male,47
+4579,219,Connecticut,Male,6
+4580,219,Minnesota,Male,23
+4581,219,North Carolina,Male,33
+4582,219,Alabama,Male,0
+4583,219,Georgia,Male,10
+4584,219,Tennessee,Male,42
+4585,219,Washington,Male,47
+4586,219,Massachusetts,Male,21
+4587,219,Washington,Male,47
+4588,219,New Jersey,Male,30
+4589,219,Pennsylvania,Male,38
+4590,219,Pennsylvania,Other,38
+4591,219,Illinois,Male,13
+4592,219,Tennessee,Male,42
+4593,219,New York,Male,32
+4594,219,Vermont,Male,45
+4595,219,Massachusetts,Male,21
+4596,219,New Jersey,Other,30
+4598,220,Minnesota,Male,23
+4599,220,North Carolina,Male,33
+4600,220,Illinois,Male,13
+4601,220,New Jersey,Male,30
+4603,220,Maryland,Male,20
+4604,220,California,Male,4
+4605,220,Massachusetts,Male,21
+4606,220,California,Male,4
+4607,220,California,Male,4
+4608,220,Indiana,Male,14
+4609,220,California,Male,4
+4610,220,Ohio,Male,35
+4611,220,Iowa,Male,15
+4612,220,Tennessee,Male,42
+4613,220,North Carolina,Male,33
+4614,220,Iowa,Male,15
+4615,220,Ohio,Male,35
+4616,220,Michigan,Male,22
+4617,220,Massachusetts,Male,21
+4618,220,Ohio,Male,35
+4619,220,Massachusetts,Male,21
+4620,221,Maryland,Male,20
+4621,221,Illinois,Male,13
+4622,221,Minnesota,Male,23
+4623,221,Pennsylvania,Other,38
+4624,221,Pennsylvania,Other,38
+4625,221,South Carolina,Male,40
+4626,221,Massachusetts,Male,21
+4628,221,Missouri,Male,25
+4629,221,District of Columbia,Male,8
+4630,221,Massachusetts,Male,21
+4631,221,Rhode Island,Male,39
+4632,221,California,Male,4
+4633,221,Washington,Male,47
+4634,221,Texas,Male,43
+4635,221,California,Male,4
+4636,221,Pennsylvania,Male,38
+4638,221,Ohio,Male,35
+4639,221,Colorado,Male,5
+4640,221,Indiana,Male,14
+4643,222,New York,Male,32
+4644,222,Michigan,Male,22
+4645,222,Ohio,Male,35
+4646,222,California,Male,4
+4647,222,Missouri,Male,25
+4648,222,Massachusetts,Male,21
+4649,222,New York,Male,32
+4653,222,California,Male,4
+4654,222,North Carolina,Male,33
+4655,222,Minnesota,Other,23
+4656,222,Massachusetts,Female,21
+4657,222,Illinois,Male,13
+4658,222,North Carolina,Male,33
+4659,222,Alabama,Male,0
+4660,222,New York,Male,32
+4661,222,South Dakota,Male,41
+4662,222,Nevada,Male,28
+4663,223,Connecticut,Male,6
+4664,223,Illinois,Male,13
+4665,223,Massachusetts,Male,21
+4667,223,Washington,Male,47
+4668,223,Texas,Male,43
+4670,223,New York,Male,32
+4671,223,Ohio,Male,35
+4672,223,District of Columbia,Male,8
+4673,223,Colorado,Male,5
+4674,223,North Carolina,Male,33
+4675,223,Ohio,Male,35
+4676,223,Ohio,Male,35
+4677,223,Idaho,Male,12
+4678,223,Pennsylvania,Male,38
+4679,223,Massachusetts,Male,21
+4680,223,Illinois,Male,13
+4681,223,Pennsylvania,Other,38
+4682,223,Illinois,Male,13
+4683,223,Missouri,Male,25
+4684,223,Indiana,Male,14
+4685,224,Pennsylvania,Male,38
+4686,224,Illinois,Male,13
+4687,224,Colorado,Male,5
+4688,224,Texas,Male,43
+4689,224,Ohio,Male,35
+4690,224,Colorado,Male,5
+4691,224,Rhode Island,Male,39
+4692,224,Texas,Male,43
+4693,224,Iowa,Male,15
+4694,224,Minnesota,Male,23
+4695,224,Arizona,Male,2
+4696,224,Missouri,Male,25
+4697,224,New York,Male,32
+4698,224,Colorado,Male,5
+4699,224,Colorado,Male,5
+4700,225,Connecticut,Other,6
+4701,225,Ohio,Male,35
+4702,225,Tennessee,Male,42
+4703,225,New Jersey,Male,30
+4704,225,Oregon,Male,37
+4705,225,Minnesota,Male,23
+4706,225,Washington,Male,47
+4707,225,Indiana,Male,14
+4708,225,California,Male,4
+4710,225,Illinois,Male,13
+4711,225,Minnesota,Male,23
+4712,225,New York,Male,32
+4713,225,Indiana,Other,14
+4714,225,Montana,Male,26
+4716,225,Washington,Male,47
+4717,225,Colorado,Male,5
+4718,225,Minnesota,Male,23
+4719,226,Minnesota,Male,23
+4720,226,Pennsylvania,Male,38
+4721,226,Massachusetts,Other,21
+4722,226,Texas,Male,43
+4723,226,Ohio,Male,35
+4724,226,Rhode Island,Male,39
+4727,226,Texas,Male,43
+4728,226,Nevada,Male,28
+4729,226,Massachusetts,Male,21
+4730,226,California,Male,4
+4732,226,Pennsylvania,Male,38
+4733,226,California,Male,4
+4734,226,Georgia,Male,10
+4735,226,Colorado,Male,5
+4736,226,Florida,Other,9
+4737,226,Delaware,Male,7
+4738,226,Minnesota,Male,23
+4739,226,South Carolina,Male,40
+4740,226,North Carolina,Other,33
+4741,227,Washington,Male,47
+4742,227,Washington,Male,47
+4743,227,Washington,Male,47
+4744,227,Virginia,Male,46
+4745,227,Minnesota,Male,23
+4746,227,Illinois,Male,13
+4747,227,District of Columbia,Male,8
+4750,227,California,Other,4
+4751,227,Massachusetts,Male,21
+4752,227,Mississippi,Male,24
+4753,227,Ohio,Male,35
+4754,227,California,Male,4
+4755,227,North Carolina,Male,33
+4756,227,Connecticut,Male,6
+4757,227,Massachusetts,Male,21
+4758,227,Illinois,Male,13
+4759,227,Rhode Island,Male,39
+4760,227,North Carolina,Male,33
+4761,228,Ohio,Male,35
+4762,228,New Mexico,Male,31
+4763,228,Illinois,Male,13
+4764,228,Missouri,Male,25
+4765,228,Vermont,Male,45
+4766,228,Massachusetts,Male,21
+4767,228,Iowa,Male,15
+4768,228,New York,Male,32
+4769,228,Virginia,Male,46
+4770,228,Minnesota,Male,23
+4771,228,Florida,Male,9
+4772,228,Illinois,Male,13
+4773,228,North Carolina,Male,33
+4774,228,New Jersey,Male,30
+4775,228,New Jersey,Other,30
+4776,228,Missouri,Male,25
+4777,228,New Jersey,Male,30
+4778,228,New York,Other,32
+4779,229,Texas,Other,43
+4780,229,California,Male,4
+4782,229,Oregon,Other,37
+4783,229,Massachusetts,Male,21
+4784,229,Pennsylvania,Male,38
+4785,229,Pennsylvania,Male,38
+4786,229,Colorado,Other,5
+4787,229,Delaware,Male,7
+4788,229,Texas,Male,43
+4789,229,Massachusetts,Male,21
+4790,229,California,Other,4
+4791,229,California,Other,4
+4792,229,Pennsylvania,Male,38
+4794,229,Texas,Male,43
+4795,229,California,Other,4
+4796,229,California,Male,4
+4797,229,California,Male,4
+4798,229,California,Male,4
+4799,230,Texas,Male,43
+4800,230,Ohio,Male,35
+4802,230,Ohio,Male,35
+4803,230,Minnesota,Male,23
+4804,230,Virginia,Male,46
+4805,230,Washington,Male,47
+4806,230,Washington,Male,47
+4808,230,Wisconsin,Male,49
+4809,230,Virginia,Male,46
+4810,230,Massachusetts,Male,21
+4811,230,Pennsylvania,Male,38
+4812,230,Minnesota,Male,23
+4813,230,Pennsylvania,Other,38
+4814,230,Pennsylvania,Male,38
+4815,230,Connecticut,Male,6
+4816,230,Connecticut,Female,6
+4817,230,North Carolina,Male,33
+4818,230,New York,Male,32
+4819,230,Pennsylvania,Male,38
+4820,230,Virginia,Male,46
+4821,231,Texas,Male,43
+4822,231,Pennsylvania,Male,38
+4823,231,Maryland,Other,20
+4824,231,North Carolina,Male,33
+4825,231,Iowa,Male,15
+4826,231,New Jersey,Male,30
+4827,231,California,Male,4
+4828,231,Illinois,Male,13
+4829,231,Pennsylvania,Male,38
+4830,231,Pennsylvania,Male,38
+4831,231,Pennsylvania,Male,38
+4832,231,California,Male,4
+4833,231,Pennsylvania,Male,38
+4834,231,New Jersey,Other,30
+4835,231,Tennessee,Male,42
+4836,231,New Jersey,Male,30
+4837,231,Pennsylvania,Male,38
+4838,231,Ohio,Male,35
+4839,231,New Jersey,Male,30
+4840,231,Pennsylvania,Male,38
+4841,231,New Jersey,Male,30
+4842,231,Pennsylvania,Male,38
+4843,231,Delaware,Male,7
+4844,232,Washington,Male,47
+4845,232,Massachusetts,Male,21
+4846,232,Indiana,Male,14
+4847,232,Florida,Male,9
+4848,232,Illinois,Male,13
+4849,232,Minnesota,Male,23
+4850,232,California,Male,4
+4851,232,Massachusetts,Male,21
+4852,232,Massachusetts,Male,21
+4853,232,Michigan,Other,22
+4854,232,New York,Male,32
+4855,232,Ohio,Male,35
+4856,232,Florida,Male,9
+4857,232,Iowa,Male,15
+4858,232,Rhode Island,Male,39
+4859,232,California,Male,4
+4860,232,Massachusetts,Male,21
+4861,232,Missouri,Male,25
+4862,232,California,Male,4
+4863,232,New Jersey,Male,30
+4864,232,Iowa,Male,15
+4865,232,Colorado,Male,5
+4866,233,California,Male,4
+4867,233,Illinois,Male,13
+4868,233,Illinois,Male,13
+4869,233,California,Male,4
+4870,233,Texas,Male,43
+4871,233,Massachusetts,Male,21
+4872,233,New York,Male,32
+4873,233,Ohio,Male,35
+4874,233,Massachusetts,Male,21
+4875,233,New York,Male,32
+4876,233,Massachusetts,Male,21
+4877,233,Ohio,Male,35
+4878,233,Illinois,Other,13
+4880,233,New Jersey,Male,30
+4881,233,New Jersey,Male,30
+4882,233,Illinois,Male,13
+4883,233,Maryland,Male,20
+4884,233,Rhode Island,Male,39
+4885,233,Illinois,Male,13
+4886,233,Massachusetts,Male,21
+4887,233,Maine,Other,19
+4888,234,Ohio,Male,35
+4889,234,Missouri,Male,25
+4890,234,Colorado,Male,5
+4891,234,Tennessee,Male,42
+4892,234,North Carolina,Male,33
+4893,234,Washington,Male,47
+4894,234,Illinois,Male,13
+4895,234,Missouri,Male,25
+4896,234,New York,Male,32
+4897,234,North Carolina,Male,33
+4898,234,South Carolina,Male,40
+4899,234,Virginia,Male,46
+4900,234,Illinois,Male,13
+4901,234,Wisconsin,Other,49
+4902,234,Illinois,Male,13
+4903,234,Florida,Male,9
+4904,234,Wisconsin,Male,49
+4905,234,New Hampshire,Male,29
+4906,234,Missouri,Male,25
+4907,234,Texas,Male,43
+4908,234,New Jersey,Male,30
+4909,235,New York,Male,32
+4910,235,Idaho,Male,12
+4911,235,Vermont,Other,45
+4912,235,Missouri,Male,25
+4913,235,Massachusetts,Male,21
+4914,235,Illinois,Male,13
+4915,235,Ohio,Male,35
+4916,235,Pennsylvania,Male,38
+4917,235,Maine,Other,19
+4919,235,New Hampshire,Male,29
+4920,235,Indiana,Male,14
+4921,235,Pennsylvania,Male,38
+4922,235,Virginia,Male,46
+4924,235,Iowa,Male,15
+4925,235,Massachusetts,Male,21
+4926,235,New Hampshire,Male,29
+4927,235,Minnesota,Male,23
+4928,235,Maine,Male,19
+4929,236,Minnesota,Male,23
+4930,236,Georgia,Male,10
+4931,236,Texas,Male,43
+4932,236,Massachusetts,Male,21
+4933,236,California,Male,4
+4934,236,Massachusetts,Male,21
+4936,236,Massachusetts,Male,21
+4937,236,Ohio,Male,35
+4938,236,Rhode Island,Male,39
+4939,236,Massachusetts,Male,21
+4940,236,Minnesota,Male,23
+4941,236,Colorado,Male,5
+4942,236,Massachusetts,Male,21
+4943,236,Texas,Male,43
+4944,236,California,Male,4
+4945,236,Texas,Male,43
+4946,236,Massachusetts,Other,21
+4947,236,Maryland,Male,20
+4949,236,California,Male,4
+4950,237,Illinois,Male,13
+4951,237,North Carolina,Male,33
+4952,237,Massachusetts,Male,21
+4953,237,New Jersey,Male,30
+4954,237,New York,Male,32
+4955,237,Massachusetts,Male,21
+4956,237,Illinois,Male,13
+4957,237,New York,Male,32
+4958,237,Illinois,Male,13
+4959,237,Massachusetts,Male,21
+4960,237,New York,Male,32
+4961,237,Minnesota,Male,23
+4962,237,Rhode Island,Male,39
+4963,237,Massachusetts,Male,21
+4964,237,Washington,Male,47
+4965,237,Minnesota,Male,23
+4966,237,Massachusetts,Male,21
+4967,237,Connecticut,Male,6
+4968,237,Massachusetts,Male,21
+4969,237,Ohio,Male,35
+4970,238,Minnesota,Male,23
+4972,238,Iowa,Male,15
+4973,238,Florida,Male,9
+4974,238,West Virginia,Male,48
+4975,238,Ohio,Male,35
+4976,238,Tennessee,Male,42
+4977,238,Maryland,Male,20
+4978,238,Texas,Male,43
+4979,238,California,Male,4
+4980,238,North Carolina,Male,33
+4981,238,California,Male,4
+4982,238,Illinois,Male,13
+4983,238,Michigan,Male,22
+4984,238,Indiana,Male,14
+4985,238,Rhode Island,Male,39
+4987,238,Massachusetts,Male,21
+4988,238,California,Male,4
+4989,238,California,Male,4
+4990,238,California,Male,4
+4991,238,Massachusetts,Male,21
+4993,239,Rhode Island,Male,39
+4994,239,Minnesota,Male,23
+4995,239,North Carolina,Male,33
+4996,239,Washington,Male,47
+4997,239,Ohio,Male,35
+4998,239,Massachusetts,Male,21
+4999,239,Massachusetts,Male,21
+5000,239,Maine,Male,19
+5002,239,New York,Male,32
+5003,239,Maryland,Male,20
+5004,239,New York,Male,32
+5005,239,Rhode Island,Male,39
+5006,239,Pennsylvania,Male,38
+5007,239,District of Columbia,Male,8
+5008,239,Virginia,Male,46
+5009,239,New Jersey,Male,30
+5010,240,Louisiana,Male,18
+5011,240,Minnesota,Other,23
+5012,240,Texas,Male,43
+5013,240,Massachusetts,Other,21
+5015,240,Iowa,Other,15
+5016,240,Texas,Male,43
+5018,240,Utah,Male,44
+5020,240,Maine,Male,19
+5021,240,California,Male,4
+5022,240,New Jersey,Male,30
+5023,240,Rhode Island,Male,39
+5024,240,Washington,Male,47
+5025,240,Texas,Other,43
+5026,241,Maryland,Male,20
+5027,241,Minnesota,Male,23
+5028,241,Massachusetts,Male,21
+5029,241,Maine,Male,19
+5030,241,South Carolina,Male,40
+5031,241,Iowa,Male,15
+5032,241,New Jersey,Male,30
+5033,241,Illinois,Male,13
+5035,241,New Hampshire,Male,29
+5037,241,Illinois,Male,13
+5038,241,Pennsylvania,Male,38
+5039,241,Massachusetts,Male,21
+5041,241,Virginia,Other,46
+5042,241,Pennsylvania,Male,38
+5043,241,New York,Male,32
+5044,241,Vermont,Male,45
+5045,241,California,Male,4
+5046,241,Massachusetts,Male,21
+5047,241,Massachusetts,Male,21
+5048,242,Maryland,Male,20
+5049,242,Minnesota,Male,23
+5050,242,California,Male,4
+5051,242,Ohio,Male,35
+5052,242,Missouri,Male,25
+5053,242,Maryland,Male,20
+5054,242,Illinois,Male,13
+5055,242,Texas,Male,43
+5056,242,Colorado,Male,5
+5057,242,Kentucky,Male,17
+5058,242,Virginia,Male,46
+5059,242,Kentucky,Male,17
+5060,242,Nebraska,Male,27
+5061,242,California,Male,4
+5062,242,Texas,Male,43
+5063,242,New York,Male,32
+5064,242,Oregon,Male,37
+5065,243,Minnesota,Male,23
+5066,243,Alaska,Male,1
+5067,243,Vermont,Male,45
+5068,243,North Carolina,Male,33
+5069,243,New York,Male,32
+5070,243,Illinois,Male,13
+5071,243,Massachusetts,Male,21
+5072,243,New Jersey,Male,30
+5073,243,California,Male,4
+5074,243,Arizona,Male,2
+5075,243,Ohio,Female,35
+5076,243,California,Male,4
+5077,243,Virginia,Male,46
+5078,243,Pennsylvania,Male,38
+5079,243,Massachusetts,Male,21
+5080,243,New Jersey,Male,30
+5081,243,New Jersey,Male,30
+5082,243,Massachusetts,Male,21
+5083,243,Massachusetts,Male,21
+5084,243,Massachusetts,Male,21
+5085,244,Tennessee,Other,42
+5086,244,Ohio,Male,35
+5087,244,Michigan,Male,22
+5089,244,North Carolina,Male,33
+5090,244,New York,Other,32
+5091,244,Washington,Male,47
+5092,244,Illinois,Male,13
+5093,244,West Virginia,Male,48
+5094,244,Iowa,Male,15
+5095,244,Texas,Male,43
+5096,244,Missouri,Male,25
+5097,244,Illinois,Male,13
+5098,244,Minnesota,Male,23
+5099,244,Massachusetts,Male,21
+5100,244,Illinois,Male,13
+5101,244,Texas,Male,43
+5102,244,Kentucky,Male,17
+5103,244,Missouri,Male,25
+5104,244,Missouri,Male,25

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./static/css/bootstrap.min.css">
+
+    <title>United States of Beer</title>
+</head>
+
+<body>
+  <div>
+      <nav>
+          <ul class="nav justify-content-center nav-tabs border border-light shadow p-3">
+              <li class="nav-item">
+                <a class="nav-link active" href="/">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/breweries">Mapped Breweries</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="/allbeers">Beer Popularity Heatmap</a>
+                </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/analysis">Analysis</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Visitor Log</a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="/send">Add your visit!</a>
+                  <a class="dropdown-item" href="/visitormap">View the visitor map!</a>
+              </li>
+            </ul>
+      </nav>
+  </div>
+  <div>
+      <header>
+      </header>
+  </div>
+  <div class="container fluid">
+
+    <!-- ROW -->
+    <!--#######-->
+    <div class="row">
+
+      <!--COLUMN-->
+      <div class= "col-12 border border-light shadow p-3 m-3">
+        <h4 class= "display-4 text-primary text-center">United States of Beer</h4>
+        <hr>
+        <p class="lead text-center"> Explore beer.
+          <br>
+        </p>
+
+        <!-- NESTED ROW -->
+        <!--#######-->
+        <div class="row p-5 align-items-start justify-content-center"> 
+
+          <!--CARD COLUMN-->
+          <div class="col-md-5 border border-light shadow p-3 m-3"> 
+            <center>
+            <img src="./static/imgs/beers_clink.png" alt="Beer Glass" style="height:75px;"></center>  
+            <h4 class='display-4 text-primary text-center'>
+                Beer Interest<hr></h4>
+            <p class="card-text">
+                <p class="lead">Map states with the most beer ethusiasts! Data 
+                  scrapped from <a href="https://www.beeradvocate.com/">BeerAdvocate.com</a> is used here to create 
+                  a review count heatmap by state. Enthusiast beer style preferences can also be viewed.</p>
+                <br>
+                <div class="btn-toolbar justify-content-center" role="toolbar" aria-label="Toolbar with button groups">
+                  <div class="btn-group" role="group">
+                      <button id="btnGroupDrop1" type="button" class="btn btn-warning btn-lg" data-toggle="dropdown" aria-haspopup="true" role="button" aria-pressed="true">
+                          View Enthusiast Heatmaps
+                      </button>
+                      <div class="dropdown-menu dropdown-warning" aria-labelledby="btnGroupDrop1">
+                          <a class="dropdown-item" href="allbeers">All Beers</a> 
+                          <a class="dropdown-item" href="ipa">IPA</a> 
+                          <a class="dropdown-item" href="stout">Stout</a>
+                          <a class="dropdown-item" href="porter">Porter</a>
+                          <a class="dropdown-item" href="sour">Sour</a>
+                          <a class="dropdown-item" href="ale">Ales</a>
+                          <a class="dropdown-item" href="wheatbeer">Wheat Beer</a>
+                      </div>
+                  </div>
+                </div>
+            </p>
+          </div>
+
+          <!--CARD COLUMN-->
+          <div class="col-md-5 border border-light shadow p-3 m-3">
+            <center><img src="./static/imgs/beer_glass.png" alt="Beer Glass" style="height:75px;"></center>
+            <h4 class='display-4 text-primary text-center'>
+              Analysis<hr></h4>
+            <p class="card-text">
+                <p class="lead">Our BeerAdvocate dataset was analyzed and merged with state  
+                  population data leading. See the results here.</p>
+                <br> 
+                    <div class="btn-toolbar justify-content-center" role="toolbar" aria-label="Toolbar with button groups">
+                    <a href="/analysis" class="btn btn-warning btn-lg" role="button">View Analysis</a>
+                    </div>
+            </p>
+          </div>
+
+        <!--close nested row-->  
+        </div>
+
+
+        <!--NESTED ROW -->
+        <!--#######-->
+        <div class="row p-5 align-items-start justify-content-center"> 
+
+          <!-- CARD COLUMN -->
+          <div class="col-md-5 border border-light shadow p-3 m-3">
+            <center><img src="./static/imgs/beer_glass.png" alt="Beer Glass" style="height:75px;"></center>
+            <h4 class='display-4 text-primary text-center'>
+              Breweries<hr></h4>
+            <p class="card-text">
+                <p class="lead">A mapped display of brewery types across the USA using a sample set
+                   of data from <a href="https://rapidapi.com/brianiswu/api/open-brewery-db">Open Brewery DB</a> via Rapid API.</p>
+                <br> 
+                    <div class="btn-toolbar justify-content-center" role="toolbar" aria-label="Toolbar with button groups">
+                    <!-- Below link the route for breweries map-->
+                      <a href="/breweries" class="btn btn-warning btn-lg" role="button">Map Breweries</a>
+                    </div>
+            </p>
+          </div>
+
+          <!-- CARD COLUMN -->
+
+          <div class="col-md-5 border border-light shadow p-3 m-3"> 
+            <center><img src="./static/imgs/beers_clink.png" alt="Beer Glass" style="height:75px;"></center>  
+            <h4 class='display-4 text-primary text-center'>
+                Visitor Log<hr></h4>
+            <p class="card-text">
+                <p class="lead">What's your favorite beer? Log your visit with us and view visitor preferred beer styles across the globe.</p>
+                <br>
+                <div class="btn-toolbar justify-content-center" role="toolbar" aria-label="Toolbar with button groups">
+                  <div class="btn-group" role="group">
+                      <button id="btnGroupDrop1" type="button" class="btn btn-warning btn-lg" data-toggle="dropdown" aria-haspopup="true" role="button" aria-pressed="true">
+                          Visitor Logs
+                      </button>
+                      <div class="dropdown-menu dropdown-warning" aria-labelledby="btnGroupDrop1">
+                          <a class="dropdown-item" href="send">Add your visit!</a>
+                          <a class="dropdown-item" href="visitormap">View the visitor map!</a> 
+                      </div>
+                  </div>
+                </div>
+            </p>
+          </div>
+        
+        <!--close nested row -->  
+        </div>
+
+      <!-- close column-->
+      </div>
+
+    <!--close row-->
+    </div>
+
+  <!--close container-->
+  </div>       
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>
