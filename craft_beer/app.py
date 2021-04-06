@@ -111,7 +111,7 @@ def allreviews():
 
     data = list(test.values())
 
-    with open('../data/states.json') as f:
+    with open('./data/states.json') as f:
         doc = json.load(f)
 
     features = doc['features']
