@@ -139,7 +139,7 @@ def get_ipa():
 
     data = list(test.values())
 
-    with open('../data/states.json') as f:
+    with open('./data/states.json') as f:
         doc = json.load(f)
 
     features = doc['features']
@@ -167,7 +167,7 @@ def get_stout():
 
     data = list(test.values())
 
-    with open('../data/states.json') as f:
+    with open('./data/states.json') as f:
         doc = json.load(f)
 
     features = doc['features']
@@ -195,7 +195,7 @@ def get_porter():
 
     data = list(test.values())
 
-    with open('../data/states.json') as f:
+    with open('./data/states.json') as f:
         doc = json.load(f)
 
     features = doc['features']
@@ -224,7 +224,7 @@ def get_sour():
 
     data = list(test.values())
 
-    with open('../data/states.json') as f:
+    with open('./data/states.json') as f:
         doc = json.load(f)
 
     features = doc['features']
@@ -256,7 +256,7 @@ def get_ale():
 
     data = list(test.values())
 
-    with open('../data/states.json') as f:
+    with open('./data/states.json') as f:
         doc = json.load(f)
 
     features = doc['features']
@@ -286,7 +286,7 @@ def get_wheat():
 
     data = list(test.values())
 
-    with open('../data/states.json') as f:
+    with open('./data/states.json') as f:
         doc = json.load(f)
 
     features = doc['features']
