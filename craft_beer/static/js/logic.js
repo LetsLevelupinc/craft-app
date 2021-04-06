@@ -66,7 +66,7 @@ info.onAdd = function (map) {
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
     this._div.innerHTML = '<h4>Show:</h4> <h4><a href="/ipa">IPA</a> | <a href="/stout">Stout</a> | <a href="/porter">Porter</a> | <a href="/sour">Sour</a> | <a href="/wheatbeer">Wheat Beers</a> | <a href="/ale">Ales</a> |<h3>Craft Beer HeatMap</h3>' +  (props ?
-        '<b>' + statesData.props + '</b><br />' + statesData.props.count + ' beer reviewers'
+        '<b>' + props.name + '</b><br />' + props.count + ' beer reviewers'
         : 'Hover over a state to get a <br> total count of reviewers!<p style="text-align: right;"><a href="/" style="color: gray;"><em>Go Back</em></a></p>');
 };
 
